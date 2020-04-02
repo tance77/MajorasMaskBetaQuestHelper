@@ -9,6 +9,9 @@
                 <h3 class="text-lg leading-6 font-medium text-gray-90">
                     Add Location
                 </h3>
+                <p class="mt-1 text-sm leading-5 text-gray-500">
+                    Start by typing a location in one of the below input fields.
+                </p>
             </div>
             <div class="flex mt-4 p-4">
                 <div class="flex-1 mr-2 relative">
@@ -71,6 +74,9 @@
                 <h3 class="text-lg leading-6 font-medium text-gray-90">
                     Known Locations
                 </h3>
+                <p class="mt-1 text-sm leading-5 text-gray-500">
+                    Locations added above will appear here.
+                </p>
             </div>
             <div class="flex flex-col">
                 <div class="-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
