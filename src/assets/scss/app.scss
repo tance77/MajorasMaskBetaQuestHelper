@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-sans antialiased bg-gray-100;
+}
+
+.custom-bg{
+  background-image: url("http://37.60.252.242/~kuproscr/wp-content/uploads/2015/11/kupros-booth-back-texture-crop-1.jpg?id=4503");
+}
