@@ -13,13 +13,13 @@
             <div class="flex mt-4 p-4">
                 <div class="flex-1 mr-2 relative">
                     <SearchLocations label="Enter" :options="fromLocations" :selected-search="selectedNewFrom"
-                        @selected="handleSearchFromUpdate"
+                        @selected="handleSearchFromUpdate" placeholder="Curiosity Shop (from Back Room)"
                     />
                 </div>
 
                 <div class="flex-1 ml-2 relative">
                     <SearchLocations label="Exit" :options="toLocations" :selected-search="selectedNewTo"
-                        @selected="handleSearchToUpdate"
+                        @selected="handleSearchToUpdate" placeholder="Termina Field"
                     />
                 </div>
             </div>

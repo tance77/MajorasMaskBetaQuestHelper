@@ -5,7 +5,7 @@
             <div class="mt-1 relative rounded-md shadow-sm">
                 <input :id="uniqueLabelId1" v-model="search" class="form-input block w-full sm:text-sm sm:leading-5 focus:outline-none"
                     :class="{'rounded-b-none': searchResults.length}"
-                    placeholder="Ranch Barn"
+                    :placeholder="placeholder"
                 >
             </div>
             <transition
@@ -52,6 +52,7 @@
             options: {type: Array, default: () => []},
             selectedSearch: {type: String, default: null},
             label: {type: String, default: null},
+            placeholder: {type: String, default: null},
         },
         data() {
             return {
