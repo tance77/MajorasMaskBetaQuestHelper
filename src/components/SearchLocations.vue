@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div v-show="!selectedSearch">
+        <div v-show="Object.entries(selectedSearch).length === 0">
             <label :for="uniqueLabelId1" class="block text-sm font-medium leading-5 text-gray-700">{{ label }}</label>
             <div class="mt-1 relative rounded-md shadow-sm">
                 <input :id="uniqueLabelId1" v-model="search" class="form-input block w-full sm:text-sm sm:leading-5 focus:outline-none"
@@ -16,21 +16,24 @@
                 leave-active-class="transition duration-75 ease-in"
                 leave-to-class="transform scale-95 opacity-0"
             >
-                <div v-show="searchResults.length" class="absolute bg-white border-b border-l border-r shadow-sm rounded-b w-full z-10" v-on-clickaway="away">
+                <div v-show="searchResults.length" v-on-clickaway="away" class="absolute bg-white border-b border-l border-r shadow-sm rounded-b w-full z-10">
                     <ul class="overflow-auto" style="max-height: 500px;">
                         <li v-for="(location, key) in searchResults" :key="key" class="px-3 py-2 hover:bg-blue-50 cursor-pointer text-sm"
                             @click="handleSearchSelect(location)"
                         >
-                            {{ location }}
+                            <span v-if="location.node">
+                                {{ location.node }}
+                            </span>
+                            <span v-else>{{ location }}</span>
                         </li>
                     </ul>
                 </div>
             </transition>
         </div>
-        <div v-show="selectedSearch !== null">
+        <div v-show="Object.entries(selectedSearch).length !== 0">
             <label :for="uniqueLabelId2" class="block text-sm font-medium leading-5 text-gray-700">{{ label }}</label>
             <div class="mt-1 relative rounded-md shadow-sm">
-                <input :id="uniqueLabelId2" v-model="selectedSearch" class="form-input block w-full sm:text-sm sm:leading-5 focus:outline-none focus:shadow-none focus:border-gray-300"
+                <input :id="uniqueLabelId2" v-model="selectedSearch.node" class="form-input block w-full sm:text-sm sm:leading-5 focus:outline-none focus:shadow-none focus:border-gray-300"
                     disabled
                 >
                 <button class="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-400 hover:text-red-500 focus:outline-none rounded-tr-lg" @click="removeSelected">
@@ -44,15 +47,16 @@
 </template>
 
 <script>
-    import { mixin as clickaway } from 'vue-clickaway';
+    import { mixin as clickaway } from "vue-clickaway";
     export default {
-        name: 'SearchLocations',
+        name: "SearchLocations",
         mixins: [ clickaway ],
         props: {
             options: {type: Array, default: () => []},
-            selectedSearch: {type: String, default: null},
+            selectedSearch: {type: Object, default: ()=>{}},
             label: {type: String, default: null},
             placeholder: {type: String, default: null},
+            showAlias: {type: Boolean, default: false},
         },
         data() {
             return {
@@ -68,15 +72,22 @@
                     this.searchResults = [];
                     return;
                 }
-                let searchStrings = search.split(' ');
+                let searchStrings = search.split(" ");
                 this.searchResults =  this.options.filter(location => {
                     let includes = true;
                     for (let i = 0; i < searchStrings.length; i++) {
                         if (!searchStrings[i]) {
                             continue;
                         }
-                        if (!location.toLowerCase().includes(searchStrings[i].toLowerCase())) {
-                            includes = false;
+                        if(location.node){
+                            if (!location.node.toLowerCase().includes(searchStrings[i].toLowerCase())) {
+                                includes = false;
+                            }
+                        }
+                        else {
+                            if (!location.toLowerCase().includes(searchStrings[i].toLowerCase())) {
+                                includes = false;
+                            }
                         }
                     }
                     if (includes === true) {
@@ -91,12 +102,12 @@
                 this.searchResults = [];
             },
             removeSelected() {
-                this.$emit('selected', null);
+                this.$emit("selected", {});
             },
             handleSearchSelect(location) {
                 this.search = null;
                 this.searchResults = [];
-                this.$emit('selected', location);
+                this.$emit("selected", location);
             },
         },
     };

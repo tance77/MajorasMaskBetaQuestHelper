@@ -44,14 +44,14 @@
 
 <script>
     export default {
-        name: 'Notification',
+        name: "Notification",
         props: {
             show: {type: Boolean, default: false},
             message: {type: String, default: null}
         },
         methods:{
             handleClose(){
-                this.$emit('close', false)
+                this.$emit("close", false)
             }
         }
     };
