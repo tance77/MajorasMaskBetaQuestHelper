@@ -47,7 +47,7 @@
                     Are you lost? Maybe we can find a path for you. Type your location below and where you want to go.
                 </p>
             </div>
-            <div class="bg-orange-50 border-l-4 border-orange-400 text-orange-600 p-4" role="alert">
+            <div class="bg-yellow-50 border-l-4 border-yellow-400 text-yellow-600 p-4" role="alert">
                 <p class="font-bold">
                     Warning
                 </p>
@@ -76,7 +76,7 @@
                     </button>
                 </span>
             </div>
-            <div v-if="shortestPath !== null" class="p-4">
+            <div v-if="shortestPath.length" class="p-4">
                 <h3 class="text-lg leading-6 font-medium text-gray-90 mt-4">
                     Shortest Path
                 </h3>
@@ -93,7 +93,7 @@
             </div>
         </div>
 
-        <div class="rounded-lg mt-4">
+        <div class="rounded-lg mt-4 shadow">
             <div class="px-4 py-5 border-b border-gray-200 sm:px-6 bg-white rounded-t-lg">
                 <h3 class="text-lg leading-6 font-medium text-gray-90">
                     Known Locations
@@ -102,7 +102,7 @@
                     Locations added above will appear here.
                 </p>
             </div>
-            <div class="flex flex-col">
+            <div class="flex flex-col bg-white">
                 <div class="-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
                     <div class="align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg-b border-b border-gray-200">
                         <table class="min-w-full">
@@ -118,17 +118,17 @@
                             </thead>
                             <tbody class="bg-white">
                                 <tr v-for="(nodes, nodeIndex) in graph.adjacencyList" v-if="graph.adjacencyList[nodeIndex].length" :key="nodeIndex">
-                                    <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 font-medium text-gray-900">
+                                    <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 font-medium text-gray-900 w-2/5">
                                         {{ nodeIndex }}
                                     </td>
-                                    <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 font-medium text-gray-900">
+                                    <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 font-medium text-gray-900 w-3/5">
                                         <table class="w-full">
                                             <tr v-for="(node, edgeIndex) in nodes" :key="nodeIndex+'edge'+edgeIndex">
                                                 <td class="w-4/5">
                                                     {{ node.name }}
                                                 </td>
                                                 <td class="flex-1">
-                                                    <button class="text-red-500" @click="removeIndexFromAdjacencyList(edgeIndex, nodeIndex)">
+                                                    <button class="text-red-500" @click="openModal(edgeIndex, nodeIndex, node.name)">
                                                         <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
                                                             <path fill-rule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z"
                                                                 clip-rule="evenodd"
@@ -147,19 +147,27 @@
             </div>
         </div>
         <Notification :show="showNotification" :message="message" @close="handleNotificationClose"/>
+        <DeleteModal :open="showDeleteModal" :location="openedNodeName" @confirm-delete="removeIndexFromAdjacencyList"
+            @cancel="resetCloseModal"
+        />
     </div>
 </template>
 
 <script>
     import SearchLocations from "./SearchLocations";
     import Notification from "./Notification";
+    import DeleteModal from "./DeleteModal";
 
     export default {
         name: "Helper",
-        components: {Notification, SearchLocations},
+        components: {DeleteModal, Notification, SearchLocations},
         data() {
             return {
-                shortestPath: null,
+                openedEdgeIndex: null,
+                openedNodeIndex: null,
+                openedNodeName: null,
+                showDeleteModal: false,
+                shortestPath: [],
                 selectedNewFrom: {},
                 selectedNewTo: {},
                 selectedShortestPathFrom: {},
@@ -5934,44 +5942,60 @@
             this.setupGraph();
         },
         methods: {
-            generateToAndFromAliases() {
-                this.toLocations.forEach(location => {
-                    if (location.node.includes("(from")) {
-                        location.alias = location.node.split(" (")[0].trim();
-                    } else {
-                        location.alias = location.node;
-                    }
-                });
-                this.fromLocations.forEach(location => {
-                    if (location.node.includes("(from")) {
-                        location.alias = location.node.split(" (")[0].trim();
-                    } else {
-                        location.alias = location.node;
-                    }
-                });
+            resetCloseModal(){
+                this.openedEdgeIndex = null;
+                this.openedNodeIndex = null;
+                this.openedNodeName = null;
+                this.showDeleteModal = false;
             },
-            generateTestEdgeAliases() {
-                this.testEdges.forEach(edge => {
-                    if (edge[0].node.includes("(from")) {
-                        edge[0].alias = edge[0].node.split(" (")[0].trim();
-                    } else {
-                        edge[0].alias = edge[0].node;
-                    }
-                    if (edge[1].node.includes("(from")) {
-                        edge[1].alias = edge[1].node.split(" (")[0].trim();
-                    } else {
-                        edge[1].alias = edge[1].node;
-                    }
-                });
+            openModal(edgeIndex, nodeIndex, nodeName){
+                this.openedEdgeIndex = edgeIndex;
+                this.openedNodeIndex = nodeIndex;
+                this.openedNodeName = nodeName;
+                this.showDeleteModal = true;
             },
+            // generateToAndFromAliases() {
+            //     this.toLocations.forEach(location => {
+            //         if (location.node.includes("(from")) {
+            //             location.alias = location.node.split(" (")[0].trim();
+            //         } else {
+            //             location.alias = location.node;
+            //         }
+            //     });
+            //     this.fromLocations.forEach(location => {
+            //         if (location.node.includes("(from")) {
+            //             location.alias = location.node.split(" (")[0].trim();
+            //         } else {
+            //             location.alias = location.node;
+            //         }
+            //     });
+            // },
+            // generateTestEdgeAliases() {
+            //     this.testEdges.forEach(edge => {
+            //         if (edge[0].node.includes("(from")) {
+            //             edge[0].alias = edge[0].node.split(" (")[0].trim();
+            //         } else {
+            //             edge[0].alias = edge[0].node;
+            //         }
+            //         if (edge[1].node.includes("(from")) {
+            //             edge[1].alias = edge[1].node.split(" (")[0].trim();
+            //         } else {
+            //             edge[1].alias = edge[1].node;
+            //         }
+            //     });
+            // },
             findShortestPath() {
                 let source = this.selectedShortestPathFrom;
-                let target=this.selectedShortestPathTo;
+                let target = this.selectedShortestPathTo;
+                this.shortestPath = [];
 
                 if (source.alias === target.alias) {
-                    this.shortestPath = ["You are here."];
-                    this.selectedShortestPathFrom = null;
-                    this.selectedShortestPathTo = null;
+                    this.shortestPath.push({
+                        alias: "You are already at " + target.alias,
+                        name: "You are already at " + target.alias
+                    });
+                    this.selectedShortestPathFrom = {};
+                    this.selectedShortestPathTo = {};
                     return;
                 }
                 let queue = [source],
@@ -6010,12 +6034,11 @@
                         queue.push(edgeNode);
                     }
                 }
-                this.shortestPath = [];
                 this.shortestPath.push({
                     node: "There is no known path from " + source.alias + " to " + target.alias,
                     alias: "There is no known path from " + source.alias + " to " + target.alias
                 });
-                console.log("There is no path from " + source.alias + " to " + target.alias);
+                // console.log("There is no path from " + source.alias + " to " + target.alias);
             },
             setupGraph() {
                 this.nodes.forEach(node => {
@@ -6031,8 +6054,9 @@
                 this.message = null;
                 this.timeOutId = null;
             },
-            removeIndexFromAdjacencyList(edgeIndex, nodeIndex) {
-                this.graph.adjacencyList[nodeIndex].splice(edgeIndex, 1);
+            removeIndexFromAdjacencyList() {
+                this.graph.adjacencyList[this.openedNodeIndex].splice(this.openedEdgeIndex, 1);
+                this.resetCloseModal();
                 this.$forceUpdate();
             },
             addNode(node) {

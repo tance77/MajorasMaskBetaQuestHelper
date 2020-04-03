@@ -5,7 +5,7 @@
             leave-class="opacity-100"
             enter-active-class="transform ease-out duration-300 transition"
             enter-to-class="translate-y-0 opacity-100 sm:translate-x-0"
-            leave-active-class="ransition ease-in duration-100"
+            leave-active-class="transition ease-in duration-100"
             leave-to-class="opacity-0"
         >
             <div v-show="show" class="max-w-sm w-full bg-white shadow-lg rounded-lg pointer-events-auto">
