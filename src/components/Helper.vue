@@ -2996,7 +2996,6 @@
                     "Bisness Deku Scrub Grotto",
                     "Bomb Shop",
                     "Bombers' Hideout",
-                    "Chamber of Fate",
                     "Clock Tower",
                     "Cow Grotto",
                     "Cucco Shack",
@@ -6619,16 +6618,6 @@
                 //         {
                 //             "node": "Deku Palace (from Deku Shrine)",
                 //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Zora Cape back)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "Chamber of Fate",
-                //             "alias": "Chamber of Fate",
                 //         },
                 //     ],
                 // ],
