@@ -175,1256 +175,6 @@
                 fromLocations: [
                     {
                         "node": "Mayor's Residence (from East Clock Town)",
-                        "alias": "Mayor's Residence"
-                    },
-                    {
-                        "node": "Majora's Room",
-                        "alias": "Majora's Room"
-                    },
-                    {
-                        "node": "Magic Hag's Potion Shop (from Southern Swamp)",
-                        "alias": "Magic Hag's Potion Shop"
-                    },
-                    {
-                        "node": "Ranch Barn (from Romani Ranch)",
-                        "alias": "Ranch Barn"
-                    },
-                    {
-                        "node": "Ranch House (from Romani Ranch)",
-                        "alias": "Ranch House"
-                    },
-                    {
-                        "node": "Honey & Darling",
-                        "alias": "Honey & Darling"
-                    },
-                    {
-                        "node": "Beneath the Graveyard (Heart Piece)",
-                        "alias": "Beneath the Graveyard (Heart Piece)"
-                    },
-                    {
-                        "node": "Beneath the Graveyard (Song of Storms)",
-                        "alias": "Beneath the Graveyard (Song of Storms)"
-                    },
-                    {
-                        "node": "Curiosity Shop (from West Clock Town)",
-                        "alias": "Curiosity Shop"
-                    },
-                    {
-                        "node": "Back Room (from Laundry Pool)",
-                        "alias": "Back Room"
-                    },
-                    {
-                        "node": "Curiosity Shop (from Back Room)",
-                        "alias": "Curiosity Shop"
-                    },
-                    {
-                        "node": "Back Room (from Curiosity Shop)",
-                        "alias": "Back Room"
-                    },
-                    {
-                        "node": "Great Bay Gossip Stones Grotto",
-                        "alias": "Great Bay Gossip Stones Grotto"
-                    },
-                    {
-                        "node": "Swamp Gossip Stones Grotto",
-                        "alias": "Swamp Gossip Stones Grotto"
-                    },
-                    {
-                        "node": "Ikana Gossip Stones Grotto",
-                        "alias": "Ikana Gossip Stones Grotto"
-                    },
-                    {
-                        "node": "Snowhead Gossip Stones Grotto",
-                        "alias": "Snowhead Gossip Stones Grotto"
-                    },
-                    {
-                        "node": "Generic Grotto",
-                        "alias": "Generic Grotto"
-                    },
-                    {
-                        "node": "Hotspring Water Grotto",
-                        "alias": "Hotspring Water Grotto"
-                    },
-                    {
-                        "node": "Deku Palace Garden Back Grotto",
-                        "alias": "Deku Palace Garden Back Grotto"
-                    },
-                    {
-                        "node": "Dodongo Grotto",
-                        "alias": "Dodongo Grotto"
-                    },
-                    {
-                        "node": "Deku Palace Garden Front Grotto",
-                        "alias": "Deku Palace Garden Front Grotto"
-                    },
-                    {
-                        "node": "Bisness Deku Scrub Grotto",
-                        "alias": "Bisness Deku Scrub Grotto"
-                    },
-                    {
-                        "node": "Cow Grotto",
-                        "alias": "Cow Grotto"
-                    },
-                    {
-                        "node": "Bio Baba Grotto",
-                        "alias": "Bio Baba Grotto"
-                    },
-                    {
-                        "node": "Magic Bean Seller Grotto",
-                        "alias": "Magic Bean Seller Grotto"
-                    },
-                    {
-                        "node": "Peahat Grotto",
-                        "alias": "Peahat Grotto"
-                    },
-                    {
-                        "node": "Deku Palace Garden Back Grotto",
-                        "alias": "Deku Palace Garden Back Grotto"
-                    },
-                    {
-                        "node": "Deku Palace Garden Front Grotto",
-                        "alias": "Deku Palace Garden Front Grotto"
-                    },
-                    {
-                        "node": "Lone Peak Shrine",
-                        "alias": "Lone Peak Shrine"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Path to Ikana)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Ghost Hut)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Musicbox House)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Stone Tower)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Song of Soaring)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Beneath the Well)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Sakon's Hideout)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Clear Cutscene)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Ancient Castle of Ikana)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Spring Water Cave (from Farewell to Gibdos)",
-                        "alias": "Spring Water Cave"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Fairy Fountain)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Secret Shrine)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Ikana Canyon (from Spring Water Cave)",
-                        "alias": "Ikana Canyon"
-                    },
-                    {
-                        "node": "Spring Water Cave (from Ikana Canyon)",
-                        "alias": "Spring Water Cave"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Exterior)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Hookshot Lower)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Hookshot Upper)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Purple Pirate entrance)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Purple Pirate exit)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Green Pirate entrance)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Green Pirate exit)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Red Pirate entrance)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Red Pirate exit)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Telescope)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Interior (from Exterior balcony)",
-                        "alias": "Pirates's Fortress Interior"
-                    },
-                    {
-                        "node": "Milk Bar",
-                        "alias": "Milk Bar"
-                    },
-                    {
-                        "node": "Stone Tower Temple",
-                        "alias": "Stone Tower Temple"
-                    },
-                    {
-                        "node": "Treasure Chest Shop",
-                        "alias": "Treasure Chest Shop"
-                    },
-                    {
-                        "node": "Inverted Stone Tower Temple",
-                        "alias": "Inverted Stone Tower Temple"
-                    },
-                    {
-                        "node": "Inverted Stone Tower Temple (Boss Door)",
-                        "alias": "Inverted Stone Tower Temple (Boss Door)"
-                    },
-                    {
-                        "node": "Woodfall Temple (from Woodfall)",
-                        "alias": "Woodfall Temple"
-                    },
-                    {
-                        "node": "Deku Princess's Room (from Clear Cutscene)",
-                        "alias": "Deku Princess's Room"
-                    },
-                    {
-                        "node": "Deku Princess's Room (from Woodfall)",
-                        "alias": "Deku Princess's Room"
-                    },
-                    {
-                        "node": "Path to Mountain Village (from Termina Field)",
-                        "alias": "Path to Mountain Village"
-                    },
-                    {
-                        "node": "Path to Mountain Village (from Mountain Village)",
-                        "alias": "Path to Mountain Village"
-                    },
-                    {
-                        "node": "Ancient Castle of Ikana (from Beneath the Well)",
-                        "alias": "Ancient Castle of Ikana"
-                    },
-                    {
-                        "node": "Ancient Castle of Ikana (from Ikana Canyon)",
-                        "alias": "Ancient Castle of Ikana"
-                    },
-                    {
-                        "node": "Ancient Castle of Ikana (from Castle Interior)",
-                        "alias": "Ancient Castle of Ikana"
-                    },
-                    {
-                        "node": "Ancient Castle of Ikana (from Castle Exterior)",
-                        "alias": "Ancient Castle of Ikana"
-                    },
-                    {
-                        "node": "Ancient Castle of Ikana (from Keg Hole)",
-                        "alias": "Ancient Castle of Ikana"
-                    },
-                    {
-                        "node": "Ancient Castle of Ikana (from Hole under Block)",
-                        "alias": "Ancient Castle of Ikana"
-                    },
-                    {
-                        "node": "Ancient Castle of Ikana (from Igos du Ikana's Room)",
-                        "alias": "Ancient Castle of Ikana"
-                    },
-                    {
-                        "node": "Deku Playground",
-                        "alias": "Deku Playground"
-                    },
-                    {
-                        "node": "Odolwa's Room",
-                        "alias": "Odolwa's Room"
-                    },
-                    {
-                        "node": "Shooting Gallery (Clock Town)",
-                        "alias": "Shooting Gallery (Clock Town)"
-                    },
-                    {
-                        "node": "Snowhead Temple",
-                        "alias": "Snowhead Temple"
-                    },
-                    {
-                        "node": "Milk Road (from Termina Field)",
-                        "alias": "Milk Road"
-                    },
-                    {
-                        "node": "Milk Road (from Romani Ranch)",
-                        "alias": "Milk Road"
-                    },
-                    {
-                        "node": "Milk Road (from Gorman Racetrack back)",
-                        "alias": "Milk Road"
-                    },
-                    {
-                        "node": "Milk Road (from Gorman Racetrack)",
-                        "alias": "Milk Road"
-                    },
-                    {
-                        "node": "Milk Road (from Song of Soaring)",
-                        "alias": "Milk Road"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Hookshot Lower)",
-                        "alias": "Pirates's Fortress Rooms (Hookshot Lower)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Hookshot Upper)",
-                        "alias": "Pirates's Fortress Rooms (Hookshot Upper)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Purple Pirate entrance)",
-                        "alias": "Pirates's Fortress Rooms (Purple Pirate entrance)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Purple Pirate exit)",
-                        "alias": "Pirates's Fortress Rooms (Purple Pirate exit)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Green Pirate entrance)",
-                        "alias": "Pirates's Fortress Rooms (Green Pirate entrance)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Green Pirate exit)",
-                        "alias": "Pirates's Fortress Rooms (Green Pirate exit)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Red Pirate entrance)",
-                        "alias": "Pirates's Fortress Rooms (Red Pirate entrance)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Red Pirate exit)",
-                        "alias": "Pirates's Fortress Rooms (Red Pirate exit)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (from Telescope)",
-                        "alias": "Pirates's Fortress Rooms"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Sewers entrance)",
-                        "alias": "Pirates's Fortress Rooms (Sewers entrance)"
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Sewers exit)",
-                        "alias": "Pirates's Fortress Rooms (Sewers exit)"
-                    },
-                    {
-                        "node": "Shooting Gallery (Swamp)",
-                        "alias": "Shooting Gallery (Swamp)"
-                    },
-                    {
-                        "node": "Pinnacle Rock",
-                        "alias": "Pinnacle Rock"
-                    },
-                    {
-                        "node": "Fairy's Fountain (Clock Town)",
-                        "alias": "Fairy's Fountain (Clock Town)"
-                    },
-                    {
-                        "node": "Fairy's Fountain (Woodfall)",
-                        "alias": "Fairy's Fountain (Woodfall)"
-                    },
-                    {
-                        "node": "Fairy's Fountain (Snowhead)",
-                        "alias": "Fairy's Fountain (Snowhead)"
-                    },
-                    {
-                        "node": "Fairy's Fountain (Great Bay)",
-                        "alias": "Fairy's Fountain (Great Bay)"
-                    },
-                    {
-                        "node": "Fairy's Fountain (Ikana)",
-                        "alias": "Fairy's Fountain (Ikana)"
-                    },
-                    {
-                        "node": "Swamp Spider House",
-                        "alias": "Swamp Spider House"
-                    },
-                    {
-                        "node": "Ocean Spider House",
-                        "alias": "Ocean Spider House"
-                    },
-                    {
-                        "node": "Bombers's Hideout",
-                        "alias": "Bombers's Hideout"
-                    },
-                    {
-                        "node": "Observatory (from Termina Field)",
-                        "alias": "Observatory"
-                    },
-                    {
-                        "node": "Observatory (from Telescope)",
-                        "alias": "Observatory"
-                    },
-                    {
-                        "node": "Woodfall Trial (from Moon)",
-                        "alias": "Woodfall Trial"
-                    },
-                    {
-                        "node": "Deku Palace (from Southern Swamp)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from being thrown out)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Deku King's Chamber)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Monkey cage)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Shrine)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Swamp Shortcut)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Magic Bean Seller Grotto)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
-                        "alias": "Deku Palace"
-                    },
-                    {
-                        "node": "Mountain Smithy",
-                        "alias": "Mountain Smithy"
-                    },
-                    {
-                        "node": "Termina Field (from West Clock Town)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from Path to the Swamp)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from Great Bay Coast)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from Path to Mountain Village)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from Path to Ikana)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from Milk Road)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from South Clock Town)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from East Clock Town)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from North Clock Town)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (from Observatory)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Termina Field (Telescope)",
-                        "alias": "Termina Field (Telescope)"
-                    },
-                    {
-                        "node": "Termina Field (from Milk Road with Cremia)",
-                        "alias": "Termina Field"
-                    },
-                    {
-                        "node": "Post Office",
-                        "alias": "Post Office"
-                    },
-                    {
-                        "node": "Marine Research Lab",
-                        "alias": "Marine Research Lab"
-                    },
-                    {
-                        "node": "Beneath the Graveyard (Bottle)",
-                        "alias": "Beneath the Graveyard (Bottle)"
-                    },
-                    {
-                        "node": "Dampe's Room",
-                        "alias": "Dampe's Room"
-                    },
-                    {
-                        "node": "Goron Shrine (from Goron Village)",
-                        "alias": "Goron Shrine"
-                    },
-                    {
-                        "node": "Goron Shrine (from Goron Shop)",
-                        "alias": "Goron Shrine"
-                    },
-                    {
-                        "node": "Zora Hall (from Zora Cape)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Zora Hall (from Zora Cape back)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Zora Hall (from Zora Shop)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Zora Hall (from Lulu's Room)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Zora Hall (from Evan's Room)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Zora Hall (from Japas's Room)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Zora Hall (from Mikau's Room)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Zora Hall (from Band Rehearsal)",
-                        "alias": "Zora Hall"
-                    },
-                    {
-                        "node": "Trading Post",
-                        "alias": "Trading Post"
-                    },
-                    {
-                        "node": "Romani Ranch (from Milk Road)",
-                        "alias": "Romani Ranch"
-                    },
-                    {
-                        "node": "Romani Ranch (from Ranch Barn)",
-                        "alias": "Romani Ranch"
-                    },
-                    {
-                        "node": "Romani Ranch (from Ranch House)",
-                        "alias": "Romani Ranch"
-                    },
-                    {
-                        "node": "Romani Ranch (from Cucco Shack)",
-                        "alias": "Romani Ranch"
-                    },
-                    {
-                        "node": "Romani Ranch (from Doggy Racetrack)",
-                        "alias": "Romani Ranch"
-                    },
-                    {
-                        "node": "Romani Ranch (from Receiving Milk Bottle)",
-                        "alias": "Romani Ranch"
-                    },
-                    {
-                        "node": "Romani Ranch (from Romani being abducted)",
-                        "alias": "Romani Ranch"
-                    },
-                    {
-                        "node": "Twinmold's Room",
-                        "alias": "Twinmold's Room"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Termina Field)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Zora Cape)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Murky Water Left)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Pinnacle Rock)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Fisherman's Hut)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Pirates's Fortress Exterior)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Murky Water Right)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Marine Research Lab)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Ocean Spider House)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Zora Mask Cutscene)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Song of Soaring)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Great Bay Coast (from Pirates's Fortress caught)",
-                        "alias": "Great Bay Coast"
-                    },
-                    {
-                        "node": "Zora Cape (from Great Bay Coast)",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Zora Cape (from Zora Hall)",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Zora Cape (from Zora Hall back)",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Zora Cape (from Murky Water)",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Zora Cape (from Waterfall Rapids)",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Zora Cape (from Fairy's Fountain (Great Bay))",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Zora Cape (from Song of Soaring)",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Zora Cape (from Great Bay Temple)",
-                        "alias": "Zora Cape"
-                    },
-                    {
-                        "node": "Lottery Shop",
-                        "alias": "Lottery Shop"
-                    },
-                    {
-                        "node": "Pirates's Fortress Exterior (from Great Bay Coast)",
-                        "alias": "Pirates's Fortress Exterior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Exterior (from Interior)",
-                        "alias": "Pirates's Fortress Exterior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Exterior (from Sewers)",
-                        "alias": "Pirates's Fortress Exterior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Exterior (from Sewers Draft)",
-                        "alias": "Pirates's Fortress Exterior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Exterior (from Interior caught)",
-                        "alias": "Pirates's Fortress Exterior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Exterior (from Interior balcony)",
-                        "alias": "Pirates's Fortress Exterior"
-                    },
-                    {
-                        "node": "Pirates's Fortress Exterior (from Sewers end)",
-                        "alias": "Pirates's Fortress Exterior"
-                    },
-                    {
-                        "node": "Fisherman's Hut",
-                        "alias": "Fisherman's Hut"
-                    },
-                    {
-                        "node": "Goron Shop",
-                        "alias": "Goron Shop"
-                    },
-                    {
-                        "node": "Deku King's Chamber (from Deku Palace)",
-                        "alias": "Deku King's Chamber"
-                    },
-                    {
-                        "node": "Deku King's Chamber (from Deku Palace upper)",
-                        "alias": "Deku King's Chamber"
-                    },
-                    {
-                        "node": "Deku King's Chamber (from Deku Princess's Room)",
-                        "alias": "Deku King's Chamber"
-                    },
-                    {
-                        "node": "Deku King's Chamber (from Releasing Monkey)",
-                        "alias": "Deku King's Chamber"
-                    },
-                    {
-                        "node": "Snowhead Trial (from Moon)",
-                        "alias": "Snowhead Trial"
-                    },
-                    {
-                        "node": "Path to the Swamp (from Termina Field)",
-                        "alias": "Path to the Swamp"
-                    },
-                    {
-                        "node": "Path to the Swamp (from Southern Swamp)",
-                        "alias": "Path to the Swamp"
-                    },
-                    {
-                        "node": "Path to the Swamp (from Shooting Gallery (Clock Town))",
-                        "alias": "Path to the Swamp"
-                    },
-                    {
-                        "node": "Doggy Racetrack",
-                        "alias": "Doggy Racetrack"
-                    },
-                    {
-                        "node": "Cucco Shack",
-                        "alias": "Cucco Shack"
-                    },
-                    {
-                        "node": "Ikana Graveyard (from Path to Ikana)",
-                        "alias": "Ikana Graveyard"
-                    },
-                    {
-                        "node": "Ikana Graveyard (from Beneath the Graveyard (Bottle))",
-                        "alias": "Ikana Graveyard"
-                    },
-                    {
-                        "node": "Ikana Graveyard (from Beneath the Graveyard (Heart Piece))",
-                        "alias": "Ikana Graveyard"
-                    },
-                    {
-                        "node": "Ikana Graveyard (from Beneath the Graveyard (Song of Storms))",
-                        "alias": "Ikana Graveyard"
-                    },
-                    {
-                        "node": "Ikana Graveyard (from Dampe's Room)",
-                        "alias": "Ikana Graveyard"
-                    },
-                    {
-                        "node": "Ikana Graveyard (from Defeating Captain Keeta)",
-                        "alias": "Ikana Graveyard"
-                    },
-                    {
-                        "node": "Goht's Room",
-                        "alias": "Goht's Room"
-                    },
-                    {
-                        "node": "Southern Swamp (from Path to the Swamp)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Tourist Information)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Woodfall)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Deku Palace)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Deku Palace Upper)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Magic Hag's Potion Shop)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Woods of Mystery)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Swamp Spider House)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Ikana Canyon)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Southern Swamp (from Song of Soaring)",
-                        "alias": "Southern Swamp"
-                    },
-                    {
-                        "node": "Woodfall (from Southern Swamp)",
-                        "alias": "Woodfall"
-                    },
-                    {
-                        "node": "Woodfall (from Woodfall Temple)",
-                        "alias": "Woodfall"
-                    },
-                    {
-                        "node": "Woodfall (from Fairy's Fountain (Woodfall))",
-                        "alias": "Woodfall"
-                    },
-                    {
-                        "node": "Woodfall (from Woodfall Temple back)",
-                        "alias": "Woodfall"
-                    },
-                    {
-                        "node": "Woodfall (from Song of Soaring)",
-                        "alias": "Woodfall"
-                    },
-                    {
-                        "node": "Great Bay Trial (from Moon)",
-                        "alias": "Great Bay Trial"
-                    },
-                    {
-                        "node": "Great Bay Trial (from Murky Water)",
-                        "alias": "Great Bay Trial"
-                    },
-                    {
-                        "node": "Great Bay Temple (from Zora Cape)",
-                        "alias": "Great Bay Temple"
-                    },
-                    {
-                        "node": "Great Bay Temple (from Pirate Cutscene)",
-                        "alias": "Great Bay Temple"
-                    },
-                    {
-                        "node": "Waterfall Rapids (from Zora Cape)",
-                        "alias": "Waterfall Rapids"
-                    },
-                    {
-                        "node": "Beneath the Well (from Ikana Canyon)",
-                        "alias": "Beneath the Well"
-                    },
-                    {
-                        "node": "Beneath the Well (from Ancient Castle of Ikana)",
-                        "alias": "Beneath the Well"
-                    },
-                    {
-                        "node": "Mikau's Room (from Zora Hall)",
-                        "alias": "Mikau's Room"
-                    },
-                    {
-                        "node": "Japas's Room (from Zora Hall)",
-                        "alias": "Japas's Room"
-                    },
-                    {
-                        "node": "Lulu's Room (from Zora Hall)",
-                        "alias": "Lulu's Room"
-                    },
-                    {
-                        "node": "Evan's Room (from Zora Hall)",
-                        "alias": "Evan's Room"
-                    },
-                    {
-                        "node": "Zora Shop",
-                        "alias": "Zora Shop"
-                    },
-                    {
-                        "node": "Goron Village (from Path to Goron Village)",
-                        "alias": "Goron Village"
-                    },
-                    {
-                        "node": "Goron Village (from Goron Shrine)",
-                        "alias": "Goron Village"
-                    },
-                    {
-                        "node": "Goron Village (from Lone Peak Shrine)",
-                        "alias": "Goron Village"
-                    },
-                    {
-                        "node": "Goron Graveyard (from Mountain Village)",
-                        "alias": "Goron Graveyard"
-                    },
-                    {
-                        "node": "Sakon's Hideout",
-                        "alias": "Sakon's Hideout"
-                    },
-                    {
-                        "node": "Mountain Village (from Mountain Smithy)",
-                        "alias": "Mountain Village"
-                    },
-                    {
-                        "node": "Mountain Village (from Path to Goron Village)",
-                        "alias": "Mountain Village"
-                    },
-                    {
-                        "node": "Mountain Village (from Goron Graveyard)",
-                        "alias": "Mountain Village"
-                    },
-                    {
-                        "node": "Mountain Village (from Path to Snowhead)",
-                        "alias": "Mountain Village"
-                    },
-                    {
-                        "node": "Mountain Village (from Path to Mountain Village)",
-                        "alias": "Mountain Village"
-                    },
-                    {
-                        "node": "Mountain Village (from Clear Cutscene)",
-                        "alias": "Mountain Village"
-                    },
-                    {
-                        "node": "Mountain Village (from Song of Soaring)",
-                        "alias": "Mountain Village"
-                    },
-                    {
-                        "node": "Ghost Hut (from Ikana Canyon)",
-                        "alias": "Ghost Hut"
-                    },
-                    {
-                        "node": "Deku Shrine",
-                        "alias": "Deku Shrine"
-                    },
-                    {
-                        "node": "Path to Ikana (from Termina Field)",
-                        "alias": "Path to Ikana"
-                    },
-                    {
-                        "node": "Path to Ikana (from Ikana Graveyard)",
-                        "alias": "Path to Ikana"
-                    },
-                    {
-                        "node": "Path to Ikana (from Ikana Canyon)",
-                        "alias": "Path to Ikana"
-                    },
-                    {
-                        "node": "Swordsman's School",
-                        "alias": "Swordsman's School"
-                    },
-                    {
-                        "node": "Musicbox House",
-                        "alias": "Musicbox House"
-                    },
-                    {
-                        "node": "Igos du Ikana's Room",
-                        "alias": "Igos du Ikana's Room"
-                    },
-                    {
-                        "node": "Tourist Information",
-                        "alias": "Tourist Information"
-                    },
-                    {
-                        "node": "Stone Tower (from Ikana Canyon)",
-                        "alias": "Stone Tower"
-                    },
-                    {
-                        "node": "Stone Tower (from Un-inverting)",
-                        "alias": "Stone Tower"
-                    },
-                    {
-                        "node": "Stone Tower (from Stone Tower Temple)",
-                        "alias": "Stone Tower"
-                    },
-                    {
-                        "node": "Stone Tower (from Song of Soaring)",
-                        "alias": "Stone Tower"
-                    },
-                    {
-                        "node": "Inverted Stone Tower (from Inverting)",
-                        "alias": "Inverted Stone Tower"
-                    },
-                    {
-                        "node": "Inverted Stone Tower (from Inverted Stone Tower Temple)",
-                        "alias": "Inverted Stone Tower"
-                    },
-                    {
-                        "node": "Path to Snowhead (from Mountain Village)",
-                        "alias": "Path to Snowhead"
-                    },
-                    {
-                        "node": "Path to Snowhead (from Snowhead)",
-                        "alias": "Path to Snowhead"
-                    },
-                    {
-                        "node": "Snowhead (from Path to Snowhead/Void)",
-                        "alias": "Snowhead"
-                    },
-                    {
-                        "node": "Snowhead (from Snowhead Temple)",
-                        "alias": "Snowhead"
-                    },
-                    {
-                        "node": "Snowhead (from Fairy's Fountain (Snowhead)",
-                        "alias": "Snowhead"
-                    },
-                    {
-                        "node": "Snowhead (from Song of Soaring)",
-                        "alias": "Snowhead"
-                    },
-                    {
-                        "node": "Path to Goron Village (from Mountain Village)",
-                        "alias": "Path to Goron Village"
-                    },
-                    {
-                        "node": "Path to Goron Village (from Goron Village)",
-                        "alias": "Path to Goron Village"
-                    },
-                    {
-                        "node": "Path to Goron Village (from Goron Racetrack)",
-                        "alias": "Path to Goron Village"
-                    },
-                    {
-                        "node": "Gyorg's Room",
-                        "alias": "Gyorg's Room"
-                    },
-                    {
-                        "node": "Secret Shrine",
-                        "alias": "Secret Shrine"
-                    },
-                    {
-                        "node": "Stock Pot Inn (from East Clock Town)",
-                        "alias": "Stock Pot Inn"
-                    },
-                    {
-                        "node": "Stock Pot Inn (from East Clock Town upper)",
-                        "alias": "Stock Pot Inn"
-                    },
-                    {
-                        "node": "Stock Pot Inn (from Midnight Meeting)",
-                        "alias": "Stock Pot Inn"
-                    },
-                    {
-                        "node": "Clock Tower (from Pre Clock Tower)",
-                        "alias": "Clock Tower"
-                    },
-                    {
-                        "node": "Clock Tower (from South Clock Town)",
-                        "alias": "Clock Tower"
-                    },
-                    {
-                        "node": "Woods of Mystery",
-                        "alias": "Woods of Mystery"
-                    },
-                    {
-                        "node": "Stone Tower Trial (from Moon)",
-                        "alias": "Stone Tower Trial"
-                    },
-                    {
-                        "node": "On the Moon",
-                        "alias": "On the Moon"
-                    },
-                    {
-                        "node": "Gorman Racetrack (from Milk Road)",
-                        "alias": "Gorman Racetrack"
-                    },
-                    {
-                        "node": "Gorman Racetrack (from Milk Road west)",
-                        "alias": "Gorman Racetrack"
-                    },
-                    {
-                        "node": "Goron Racetrack (from Path to Goron Village)",
-                        "alias": "Goron Racetrack"
-                    },
-                    {
-                        "node": "East Clock Town (from Termina Field)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from South Clock Town south)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Bombers's Hideout)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from South Clock Town north)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Treasure Chest Shop)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from North Clock Town)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Honey & Darling)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Mayor's Residence)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Shooting Gallery (Clock Town))",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Stock Pot Inn)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Stock Pot Inn upper)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "East Clock Town (from Milk Bar)",
-                        "alias": "East Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from Termina Field)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from South Clock Town south)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from South Clock Town north)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from Swordsman's School)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from Curiosity Shop)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from Trading Post)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from Post Office)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "West Clock Town (from Lottery Shop)",
-                        "alias": "West Clock Town"
-                    },
-                    {
-                        "node": "North Clock Town (from Termina Field)",
-                        "alias": "North Clock Town"
-                    },
-                    {
-                        "node": "North Clock Town (from East Clock Town)",
-                        "alias": "North Clock Town"
-                    },
-                    {
-                        "node": "North Clock Town (from South Clock Town)",
-                        "alias": "North Clock Town"
-                    },
-                    {
-                        "node": "North Clock Town (from Fairy's Fountain (Clock Town))",
-                        "alias": "North Clock Town"
-                    },
-                    {
-                        "node": "North Clock Town (from Deku Playground)",
-                        "alias": "North Clock Town"
-                    },
-                    {
-                        "node": "North Clock Town (from Catching all Bombers)",
-                        "alias": "North Clock Town"
-                    },
-                    {
-                        "node": "North Clock Town (from Bombers Hide and Seek)",
-                        "alias": "North Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from Clock Tower)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from Termina Field)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from East Clock Town north)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from West Clock Town north)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from North Clock Town)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from West Clock Town south)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from Laundry Pool)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from East Clock Town south)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "South Clock Town (from Song of Soaring)",
-                        "alias": "South Clock Town"
-                    },
-                    {
-                        "node": "Laundry Pool (from South Clock Town)",
-                        "alias": "Laundry Pool"
-                    },
-                    {
-                        "node": "Laundry Pool (from Back Room)",
-                        "alias": "Laundry Pool"
-                    }
-                ],
-                toLocations: [
-                    {
-                        "node": "Mayor's Residence (from East Clock Town)",
                         "alias": "Mayor's Residence",
                     },
                     {
@@ -1449,11 +199,11 @@
                     },
                     {
                         "node": "Beneath the Graveyard (Heart Piece)",
-                        "alias": "Beneath the Graveyard",
+                        "alias": "Beneath the Graveyard (Heart Piece)",
                     },
                     {
                         "node": "Beneath the Graveyard (Song of Storms)",
-                        "alias": "Beneath the Graveyard",
+                        "alias": "Beneath the Graveyard (Song of Storms)",
                     },
                     {
                         "node": "Curiosity Shop (from West Clock Town)",
@@ -1464,12 +214,12 @@
                         "alias": "Back Room",
                     },
                     {
-                        "node": "Curiosity Shop (from Back Room)",
-                        "alias": "Curiosity Shop",
+                        "node": "Generic Grotto (from Path to the Swamp)",
+                        "alias": "Generic Grotto",
                     },
                     {
-                        "node": "Back Room (from Curiosity Shop)",
-                        "alias": "Back Room",
+                        "node": "Generic Grotto (from Southern Swamp)",
+                        "alias": "Generic Grotto",
                     },
                     {
                         "node": "Great Bay Gossip Stones Grotto",
@@ -1488,7 +238,7 @@
                         "alias": "Snowhead Gossip Stones Grotto",
                     },
                     {
-                        "node": "Generic Grotto",
+                        "node": "Generic Grotto (from Termina Field Grass)",
                         "alias": "Generic Grotto",
                     },
                     {
@@ -1496,23 +246,15 @@
                         "alias": "Hotspring Water Grotto",
                     },
                     {
-                        "node": "Deku Palace Garden Back Grotto",
-                        "alias": "Deku Palace Garden Back Grotto",
-                    },
-                    {
                         "node": "Dodongo Grotto",
                         "alias": "Dodongo Grotto",
-                    },
-                    {
-                        "node": "Deku Palace Garden Front Grotto",
-                        "alias": "Deku Palace Garden Front Grotto",
                     },
                     {
                         "node": "Bisness Deku Scrub Grotto",
                         "alias": "Bisness Deku Scrub Grotto",
                     },
                     {
-                        "node": "Cow Grotto",
+                        "node": "Cow Grotto (from Termina Field)",
                         "alias": "Cow Grotto",
                     },
                     {
@@ -1528,16 +270,24 @@
                         "alias": "Peahat Grotto",
                     },
                     {
-                        "node": "Deku Palace Garden Back Grotto",
-                        "alias": "Deku Palace Garden Back Grotto",
-                    },
-                    {
-                        "node": "Deku Palace Garden Front Grotto",
-                        "alias": "Deku Palace Garden Front Grotto",
-                    },
-                    {
                         "node": "Lone Peak Shrine",
                         "alias": "Lone Peak Shrine",
+                    },
+                    {
+                        "node": "Generic Grotto (from Woods of Mystery)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
+                        "node": "Generic Grotto (from Path to Goron Village)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
+                        "node": "Generic Grotto (from Path to Snowhead)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
+                        "node": "Generic Grotto (from Mountain Village)",
+                        "alias": "Generic Grotto",
                     },
                     {
                         "node": "Ikana Canyon (from Path to Ikana)",
@@ -1596,48 +346,52 @@
                         "alias": "Spring Water Cave",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Exterior)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Ikana Canyon (from Twinmold)",
+                        "alias": "Ikana Canyon",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Hookshot Lower)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Ikana Canyon (Generic Grotto)",
+                        "alias": "Ikana Canyon (Generic Grotto)",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Hookshot Upper)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Exterior)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Purple Pirate entrance)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Hookshot Lower)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Purple Pirate exit)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Hookshot Upper)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Green Pirate entrance)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Purple Pirate entrance)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Green Pirate exit)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Purple Pirate exit)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Red Pirate entrance)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Green Pirate entrance)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Red Pirate exit)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Green Pirate exit)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Telescope)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Red Pirate entrance)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
-                        "node": "Pirates's Fortress Interior (from Exterior balcony)",
-                        "alias": "Pirates's Fortress Interior",
+                        "node": "Pirates' Fortress Interior (from Red Pirate exit)",
+                        "alias": "Pirates' Fortress Interior",
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Exiterior balcony)",
+                        "alias": "Pirates' Fortress Interior",
                     },
                     {
                         "node": "Milk Bar",
@@ -1657,19 +411,35 @@
                     },
                     {
                         "node": "Inverted Stone Tower Temple (Boss Door)",
-                        "alias": "Inverted Stone Tower Temple",
+                        "alias": "Inverted Stone Tower Temple (Boss Door)",
+                    },
+                    {
+                        "node": "Top of the Clock Tower",
+                        "alias": "Top of the Clock Tower",
+                    },
+                    {
+                        "node": "Pre Clock Tower (from Clock Tower)",
+                        "alias": "Pre Clock Tower",
+                    },
+                    {
+                        "node": "Pre Clock Tower (from Fall to Termina)",
+                        "alias": "Pre Clock Tower",
+                    },
+                    {
+                        "node": "Pre Clock Tower (from Void)",
+                        "alias": "Pre Clock Tower",
                     },
                     {
                         "node": "Woodfall Temple (from Woodfall)",
                         "alias": "Woodfall Temple",
                     },
                     {
-                        "node": "Deku Princess's Room (from Clear Cutscene)",
-                        "alias": "Deku Princess's Room",
+                        "node": "Deku Princess' Room (from Odolwa)",
+                        "alias": "Deku Princess' Room",
                     },
                     {
-                        "node": "Deku Princess's Room (from Woodfall)",
-                        "alias": "Deku Princess's Room",
+                        "node": "Deku Princess' Room (from Woodfall)",
+                        "alias": "Deku Princess' Room",
                     },
                     {
                         "node": "Path to Mountain Village (from Termina Field)",
@@ -1704,7 +474,7 @@
                         "alias": "Ancient Castle of Ikana",
                     },
                     {
-                        "node": "Ancient Castle of Ikana (from Igos du Ikana's Room)",
+                        "node": "Ancient Castle of Ikana (from Igo's Room)",
                         "alias": "Ancient Castle of Ikana",
                     },
                     {
@@ -1717,7 +487,7 @@
                     },
                     {
                         "node": "Shooting Gallery (Clock Town)",
-                        "alias": "Shooting Gallery",
+                        "alias": "Shooting Gallery (Clock Town)",
                     },
                     {
                         "node": "Snowhead Temple",
@@ -1732,11 +502,11 @@
                         "alias": "Milk Road",
                     },
                     {
-                        "node": "Milk Road (from Gorman Racetrack back)",
+                        "node": "Milk Road (from Gorman Track back)",
                         "alias": "Milk Road",
                     },
                     {
-                        "node": "Milk Road (from Gorman Racetrack)",
+                        "node": "Milk Road (from Gorman Track)",
                         "alias": "Milk Road",
                     },
                     {
@@ -1744,56 +514,56 @@
                         "alias": "Milk Road",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Hookshot Lower)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Hookshot Lower)",
+                        "alias": "Pirates' Fortress Rooms (Hookshot Lower)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Hookshot Upper)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Hookshot Upper)",
+                        "alias": "Pirates' Fortress Rooms (Hookshot Upper)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Purple Pirate entrance)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Purple Pirate entrance)",
+                        "alias": "Pirates' Fortress Rooms (Purple Pirate entrance)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Purple Pirate exit)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Purple Pirate exit)",
+                        "alias": "Pirates' Fortress Rooms (Purple Pirate exit)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Green Pirate entrance)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Green Pirate entrance)",
+                        "alias": "Pirates' Fortress Rooms (Green Pirate entrance)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Green Pirate exit)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Green Pirate exit)",
+                        "alias": "Pirates' Fortress Rooms (Green Pirate exit)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Red Pirate entrance)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Red Pirate entrance)",
+                        "alias": "Pirates' Fortress Rooms (Red Pirate entrance)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Red Pirate exit)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Red Pirate exit)",
+                        "alias": "Pirates' Fortress Rooms (Red Pirate exit)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (from Telescope)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Sewers entrance)",
+                        "alias": "Pirates' Fortress Rooms (Sewers entrance)",
                     },
                     {
-                        "node": "Pirates's Fortress Rooms (Sewers entrance)",
-                        "alias": "Pirates's Fortress Rooms",
-                    },
-                    {
-                        "node": "Pirates's Fortress Rooms (Sewers exit)",
-                        "alias": "Pirates's Fortress Rooms",
+                        "node": "Pirates' Fortress Rooms (Sewers exit)",
+                        "alias": "Pirates' Fortress Rooms (Sewers exit)",
                     },
                     {
                         "node": "Shooting Gallery (Swamp)",
-                        "alias": "Shooting Gallery",
+                        "alias": "Shooting Gallery (Swamp)",
                     },
                     {
                         "node": "Pinnacle Rock",
                         "alias": "Pinnacle Rock",
+                    },
+                    {
+                        "node": "Pinnacle Rock (Void)",
+                        "alias": "Pinnacle Rock (Void)",
                     },
                     {
                         "node": "Fairy's Fountain (Clock Town)",
@@ -1824,15 +594,11 @@
                         "alias": "Ocean Spider House",
                     },
                     {
-                        "node": "Bombers's Hideout",
-                        "alias": "Bombers's Hideout",
+                        "node": "Bombers' Hideout",
+                        "alias": "Bombers' Hideout",
                     },
                     {
                         "node": "Observatory (from Termina Field)",
-                        "alias": "Observatory",
-                    },
-                    {
-                        "node": "Observatory (from Telescope)",
                         "alias": "Observatory",
                     },
                     {
@@ -1864,23 +630,7 @@
                         "alias": "Deku Palace",
                     },
                     {
-                        "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
-                        "alias": "Deku Palace",
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                        "alias": "Deku Palace",
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                        "alias": "Deku Palace",
-                    },
-                    {
                         "node": "Deku Palace (from Magic Bean Seller Grotto)",
-                        "alias": "Deku Palace",
-                    },
-                    {
-                        "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
                         "alias": "Deku Palace",
                     },
                     {
@@ -1892,7 +642,7 @@
                         "alias": "Termina Field",
                     },
                     {
-                        "node": "Termina Field (from Path to the Swamp)",
+                        "node": "Termina Field (from Path to Southern Swamp)",
                         "alias": "Termina Field",
                     },
                     {
@@ -1904,7 +654,7 @@
                         "alias": "Termina Field",
                     },
                     {
-                        "node": "Termina Field (from Path to Ikana)",
+                        "node": "Termina Field (from Path to Ikana Canyon)",
                         "alias": "Termina Field",
                     },
                     {
@@ -1928,11 +678,55 @@
                         "alias": "Termina Field",
                     },
                     {
-                        "node": "Termina Field (Telescope)",
+                        "node": "Termina Field (from Cow Grotto)",
                         "alias": "Termina Field",
                     },
                     {
                         "node": "Termina Field (from Milk Road with Cremia)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Skull Kid Cutscene)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Grass Generic Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Pillar Generic Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Business Scrub Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Peahat Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Dodongo Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Biobaba Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Swamp Gossips Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Mountain Gossips Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Ocean Gossips Grotto)",
+                        "alias": "Termina Field",
+                    },
+                    {
+                        "node": "Termina Field (from Canyon Gossips Grotto)",
                         "alias": "Termina Field",
                     },
                     {
@@ -1948,8 +742,16 @@
                         "alias": "Beneath the Graveyard (Bottle)",
                     },
                     {
-                        "node": "Dampe's Room",
-                        "alias": "Dampe's Room",
+                        "node": "Beneath the Graveyard (Dampe's Room)",
+                        "alias": "Beneath the Graveyard (Dampe's Room)",
+                    },
+                    {
+                        "node": "Generic Grotto (from Great Bay Coast)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
+                        "node": "Cow Grotto (from Great Bay Coast)",
+                        "alias": "Cow Grotto",
                     },
                     {
                         "node": "Goron Shrine (from Goron Village)",
@@ -1957,6 +759,10 @@
                     },
                     {
                         "node": "Goron Shrine (from Goron Shop)",
+                        "alias": "Goron Shrine",
+                    },
+                    {
+                        "node": "Goron Shrine (from Goron Lullaby)",
                         "alias": "Goron Shrine",
                     },
                     {
@@ -1980,7 +786,7 @@
                         "alias": "Zora Hall",
                     },
                     {
-                        "node": "Zora Hall (from Japas's Room)",
+                        "node": "Zora Hall (from Japas' Room)",
                         "alias": "Zora Hall",
                     },
                     {
@@ -2000,11 +806,11 @@
                         "alias": "Romani Ranch",
                     },
                     {
-                        "node": "Romani Ranch (from Ranch Barn)",
+                        "node": "Romani Ranch (from Barn)",
                         "alias": "Romani Ranch",
                     },
                     {
-                        "node": "Romani Ranch (from Ranch House)",
+                        "node": "Romani Ranch (from House)",
                         "alias": "Romani Ranch",
                     },
                     {
@@ -2017,6 +823,10 @@
                     },
                     {
                         "node": "Romani Ranch (from Receiving Milk Bottle)",
+                        "alias": "Romani Ranch",
+                    },
+                    {
+                        "node": "Romani Ranch (from Failing Cart Ride)",
                         "alias": "Romani Ranch",
                     },
                     {
@@ -2048,7 +858,7 @@
                         "alias": "Great Bay Coast",
                     },
                     {
-                        "node": "Great Bay Coast (from Pirates's Fortress Exterior)",
+                        "node": "Great Bay Coast (from Pirates' Fortress)",
                         "alias": "Great Bay Coast",
                     },
                     {
@@ -2060,7 +870,7 @@
                         "alias": "Great Bay Coast",
                     },
                     {
-                        "node": "Great Bay Coast (from Ocean Spider House)",
+                        "node": "Great Bay Coast (from Oceanside Spider House)",
                         "alias": "Great Bay Coast",
                     },
                     {
@@ -2072,7 +882,15 @@
                         "alias": "Great Bay Coast",
                     },
                     {
-                        "node": "Great Bay Coast (from Pirates's Fortress caught)",
+                        "node": "Great Bay Coast (from Pirates' Fortress caught)",
+                        "alias": "Great Bay Coast",
+                    },
+                    {
+                        "node": "Great Bay Coast (from Generic Grotto)",
+                        "alias": "Great Bay Coast",
+                    },
+                    {
+                        "node": "Great Bay Coast (from Cow Grotto)",
                         "alias": "Great Bay Coast",
                     },
                     {
@@ -2096,7 +914,7 @@
                         "alias": "Zora Cape",
                     },
                     {
-                        "node": "Zora Cape (from Fairy's Fountain (Great Bay))",
+                        "node": "Zora Cape (from Fairy's Fountain)",
                         "alias": "Zora Cape",
                     },
                     {
@@ -2108,36 +926,52 @@
                         "alias": "Zora Cape",
                     },
                     {
+                        "node": "Zora Cape (from Gyorg)",
+                        "alias": "Zora Cape",
+                    },
+                    {
+                        "node": "Zora Cape (from Gyorg) (2)",
+                        "alias": "Zora Cape",
+                    },
+                    {
+                        "node": "Zora Cape (from Generic Grotto)",
+                        "alias": "Zora Cape",
+                    },
+                    {
                         "node": "Lottery Shop",
                         "alias": "Lottery Shop",
                     },
                     {
-                        "node": "Pirates's Fortress Exterior (from Great Bay Coast)",
-                        "alias": "Pirates's Fortress Exterior",
+                        "node": "Generic Grotto (from Zora Cape)",
+                        "alias": "Generic Grotto",
                     },
                     {
-                        "node": "Pirates's Fortress Exterior (from Interior)",
-                        "alias": "Pirates's Fortress Exterior",
+                        "node": "Pirates' Fortress Exterior (from Great Bay Coast)",
+                        "alias": "Pirates' Fortress Exterior",
                     },
                     {
-                        "node": "Pirates's Fortress Exterior (from Sewers)",
-                        "alias": "Pirates's Fortress Exterior",
+                        "node": "Pirates' Fortress Exterior (from Interior)",
+                        "alias": "Pirates' Fortress Exterior",
                     },
                     {
-                        "node": "Pirates's Fortress Exterior (from Sewers Draft)",
-                        "alias": "Pirates's Fortress Exterior",
+                        "node": "Pirates' Fortress Exterior (from Water Tunnel)",
+                        "alias": "Pirates' Fortress Exterior",
                     },
                     {
-                        "node": "Pirates's Fortress Exterior (from Interior caught)",
-                        "alias": "Pirates's Fortress Exterior",
+                        "node": "Pirates' Fortress Exterior (from Sewers Draft)",
+                        "alias": "Pirates' Fortress Exterior",
                     },
                     {
-                        "node": "Pirates's Fortress Exterior (from Interior balcony)",
-                        "alias": "Pirates's Fortress Exterior",
+                        "node": "Pirates' Fortress Exterior (from Interior Thrown Out)",
+                        "alias": "Pirates' Fortress Exterior",
                     },
                     {
-                        "node": "Pirates's Fortress Exterior (from Sewers end)",
-                        "alias": "Pirates's Fortress Exterior",
+                        "node": "Pirates' Fortress Exterior (from Interior Balcony)",
+                        "alias": "Pirates' Fortress Exterior",
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Telescope)",
+                        "alias": "Pirates' Fortress Exterior",
                     },
                     {
                         "node": "Fisherman's Hut",
@@ -2156,11 +990,7 @@
                         "alias": "Deku King's Chamber",
                     },
                     {
-                        "node": "Deku King's Chamber (from Deku Princess's Room)",
-                        "alias": "Deku King's Chamber",
-                    },
-                    {
-                        "node": "Deku King's Chamber (from Releasing Monkey)",
+                        "node": "Deku King's Chamber (from Returning Deku Princess)",
                         "alias": "Deku King's Chamber",
                     },
                     {
@@ -2176,7 +1006,11 @@
                         "alias": "Path to the Swamp",
                     },
                     {
-                        "node": "Path to the Swamp (from Shooting Gallery (Clock Town))",
+                        "node": "Path to the Swamp (from Shooting Gallery)",
+                        "alias": "Path to the Swamp",
+                    },
+                    {
+                        "node": "Path to the Swamp (from Generic Grotto)",
                         "alias": "Path to the Swamp",
                     },
                     {
@@ -2208,7 +1042,7 @@
                         "alias": "Ikana Graveyard",
                     },
                     {
-                        "node": "Ikana Graveyard (from Defeating Captain Keeta)",
+                        "node": "Ikana Graveyard (from Generic Grotto)",
                         "alias": "Ikana Graveyard",
                     },
                     {
@@ -2216,7 +1050,7 @@
                         "alias": "Goht's Room",
                     },
                     {
-                        "node": "Southern Swamp (from Path to the Swamp)",
+                        "node": "Southern Swamp (from Path to Swamp)",
                         "alias": "Southern Swamp",
                     },
                     {
@@ -2256,6 +1090,10 @@
                         "alias": "Southern Swamp",
                     },
                     {
+                        "node": "Southern Swamp (from Generic Grotto)",
+                        "alias": "Southern Swamp",
+                    },
+                    {
                         "node": "Woodfall (from Southern Swamp)",
                         "alias": "Woodfall",
                     },
@@ -2264,7 +1102,7 @@
                         "alias": "Woodfall",
                     },
                     {
-                        "node": "Woodfall (from Fairy's Fountain (Woodfall))",
+                        "node": "Woodfall (from Fairy's Fountain)",
                         "alias": "Woodfall",
                     },
                     {
@@ -2288,10 +1126,6 @@
                         "alias": "Great Bay Temple",
                     },
                     {
-                        "node": "Great Bay Temple (from Pirate Cutscene)",
-                        "alias": "Great Bay Temple",
-                    },
-                    {
                         "node": "Waterfall Rapids (from Zora Cape)",
                         "alias": "Waterfall Rapids",
                     },
@@ -2308,8 +1142,8 @@
                         "alias": "Mikau's Room",
                     },
                     {
-                        "node": "Japas's Room (from Zora Hall)",
-                        "alias": "Japas's Room",
+                        "node": "Japas' Room (from Zora Hall)",
+                        "alias": "Japas' Room",
                     },
                     {
                         "node": "Lulu's Room (from Zora Hall)",
@@ -2318,6 +1152,10 @@
                     {
                         "node": "Evan's Room (from Zora Hall)",
                         "alias": "Evan's Room",
+                    },
+                    {
+                        "node": "Japas' Room (from Jam Session)",
+                        "alias": "Japas' Room",
                     },
                     {
                         "node": "Zora Shop",
@@ -2360,11 +1198,15 @@
                         "alias": "Mountain Village",
                     },
                     {
+                        "node": "Mountain Village (from Generic Grotto)",
+                        "alias": "Mountain Village",
+                    },
+                    {
                         "node": "Mountain Village (from Path to Mountain Village)",
                         "alias": "Mountain Village",
                     },
                     {
-                        "node": "Mountain Village (from Clear Cutscene)",
+                        "node": "Mountain Village (from Goht)",
                         "alias": "Mountain Village",
                     },
                     {
@@ -2392,12 +1234,16 @@
                         "alias": "Path to Ikana",
                     },
                     {
+                        "node": "Path to Ikana (from Generic Grotto)",
+                        "alias": "Path to Ikana",
+                    },
+                    {
                         "node": "Swordsman's School",
                         "alias": "Swordsman's School",
                     },
                     {
-                        "node": "Musicbox House",
-                        "alias": "Musicbox House",
+                        "node": "Music Box House",
+                        "alias": "Music Box House",
                     },
                     {
                         "node": "Igos du Ikana's Room",
@@ -2405,6 +1251,10 @@
                     },
                     {
                         "node": "Tourist Information",
+                        "alias": "Tourist Information",
+                    },
+                    {
+                        "node": "Tourist Information (from Boat Cruise Picture)",
                         "alias": "Tourist Information",
                     },
                     {
@@ -2440,6 +1290,10 @@
                         "alias": "Path to Snowhead",
                     },
                     {
+                        "node": "Path to Snowhead (from Generic Grotto)",
+                        "alias": "Path to Snowhead",
+                    },
+                    {
                         "node": "Snowhead (from Path to Snowhead/Void)",
                         "alias": "Snowhead",
                     },
@@ -2448,7 +1302,7 @@
                         "alias": "Snowhead",
                     },
                     {
-                        "node": "Snowhead (from Fairy's Fountain (Snowhead)",
+                        "node": "Snowhead (from Fairy's Fountain)",
                         "alias": "Snowhead",
                     },
                     {
@@ -2465,6 +1319,14 @@
                     },
                     {
                         "node": "Path to Goron Village (from Goron Racetrack)",
+                        "alias": "Path to Goron Village",
+                    },
+                    {
+                        "node": "Path to Goron Village (from Generic Grotto)",
+                        "alias": "Path to Goron Village",
+                    },
+                    {
+                        "node": "Path to Goron Village (from Hotspring Grotto)",
                         "alias": "Path to Goron Village",
                     },
                     {
@@ -2488,6 +1350,14 @@
                         "alias": "Stock Pot Inn",
                     },
                     {
+                        "node": "Stock Pot Inn (from Mother Conversation)",
+                        "alias": "Stock Pot Inn",
+                    },
+                    {
+                        "node": "Generic Grotto (from Termina Field Pillar)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
                         "node": "Clock Tower (from Pre Clock Tower)",
                         "alias": "Clock Tower",
                     },
@@ -2496,7 +1366,19 @@
                         "alias": "Clock Tower",
                     },
                     {
+                        "node": "Clock Tower (from Moon Crash)",
+                        "alias": "Clock Tower",
+                    },
+                    {
+                        "node": "Clock Tower (from Deku Mask)",
+                        "alias": "Clock Tower",
+                    },
+                    {
                         "node": "Woods of Mystery",
+                        "alias": "Woods of Mystery",
+                    },
+                    {
+                        "node": "Woods of Mystery (from Generic Grotto)",
                         "alias": "Woods of Mystery",
                     },
                     {
@@ -2506,6 +1388,10 @@
                     {
                         "node": "On the Moon",
                         "alias": "On the Moon",
+                    },
+                    {
+                        "node": "Bomb Shop",
+                        "alias": "Bomb Shop",
                     },
                     {
                         "node": "Gorman Racetrack (from Milk Road)",
@@ -2528,7 +1414,7 @@
                         "alias": "East Clock Town",
                     },
                     {
-                        "node": "East Clock Town (from Bombers's Hideout)",
+                        "node": "East Clock Town (from Bomber's Hideout)",
                         "alias": "East Clock Town",
                     },
                     {
@@ -2552,7 +1438,7 @@
                         "alias": "East Clock Town",
                     },
                     {
-                        "node": "East Clock Town (from Shooting Gallery (Clock Town))",
+                        "node": "East Clock Town (from Shooting Gallery)",
                         "alias": "East Clock Town",
                     },
                     {
@@ -2560,7 +1446,7 @@
                         "alias": "East Clock Town",
                     },
                     {
-                        "node": "East Clock Town (from Stock Pot Inn upper)",
+                        "node": "East Clock Town (from Stokc Pot Inn upper)",
                         "alias": "East Clock Town",
                     },
                     {
@@ -2592,6 +1478,10 @@
                         "alias": "West Clock Town",
                     },
                     {
+                        "node": "West Clock Town (from Bomb Shop)",
+                        "alias": "West Clock Town",
+                    },
+                    {
                         "node": "West Clock Town (from Post Office)",
                         "alias": "West Clock Town",
                     },
@@ -2612,7 +1502,7 @@
                         "alias": "North Clock Town",
                     },
                     {
-                        "node": "North Clock Town (from Fairy's Fountain (Clock Town))",
+                        "node": "North Clock Town (from Fairy's Fountain)",
                         "alias": "North Clock Town",
                     },
                     {
@@ -2620,11 +1510,11 @@
                         "alias": "North Clock Town",
                     },
                     {
-                        "node": "North Clock Town (from Catching all Bombers)",
+                        "node": "North Clock Town (from Bombers Hide and Seek)",
                         "alias": "North Clock Town",
                     },
                     {
-                        "node": "North Clock Town (from Bombers Hide and Seek)",
+                        "node": "North Clock Town (from Old Lady/Blast Mask)",
                         "alias": "North Clock Town",
                     },
                     {
@@ -2671,28 +1561,1450 @@
                         "node": "Laundry Pool (from Back Room)",
                         "alias": "Laundry Pool",
                     },
+                    {
+                        "node": "Generic Grotto (from Path to Ikana Canyon)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
+                        "node": "Generic Grotto (from Ikana Graveyard)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
+                        "node": "Generic Grotto (from Ikana Canyon)",
+                        "alias": "Generic Grotto",
+                    },
+                    {
+                        "node": "Zora Hall (from Zora Cape back)",
+                        "alias": "Zora Hall",
+                    },
+                ],
+                toLocations:[
+                    {
+                        "node": "Mayor's Residence (from East Clock Town)",
+                        "alias": "Mayor's Residence"
+                    },
+                    {
+                        "node": "Majora's Room",
+                        "alias": "Majora's Room"
+                    },
+                    {
+                        "node": "Magic Hag's Potion Shop (from Southern Swamp)",
+                        "alias": "Magic Hag's Potion Shop"
+                    },
+                    {
+                        "node": "Ranch Barn (from Romani Ranch)",
+                        "alias": "Ranch Barn"
+                    },
+                    {
+                        "node": "Ranch House (from Romani Ranch)",
+                        "alias": "Ranch House"
+                    },
+                    {
+                        "node": "Honey & Darling",
+                        "alias": "Honey & Darling"
+                    },
+                    {
+                        "node": "Beneath the Graveyard (Heart Piece)",
+                        "alias": "Beneath the Graveyard (Heart Piece)"
+                    },
+                    {
+                        "node": "Beneath the Graveyard (Song of Storms)",
+                        "alias": "Beneath the Graveyard (Song of Storms)"
+                    },
+                    {
+                        "node": "Curiosity Shop (from West Clock Town)",
+                        "alias": "Curiosity Shop"
+                    },
+                    {
+                        "node": "Back Room (from Laundry Pool)",
+                        "alias": "Back Room"
+                    },
+                    {
+                        "node": "Generic Grotto (from Path to the Swamp)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Generic Grotto (from Southern Swamp)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Great Bay Gossip Stones Grotto",
+                        "alias": "Great Bay Gossip Stones Grotto"
+                    },
+                    {
+                        "node": "Swamp Gossip Stones Grotto",
+                        "alias": "Swamp Gossip Stones Grotto"
+                    },
+                    {
+                        "node": "Ikana Gossip Stones Grotto",
+                        "alias": "Ikana Gossip Stones Grotto"
+                    },
+                    {
+                        "node": "Snowhead Gossip Stones Grotto",
+                        "alias": "Snowhead Gossip Stones Grotto"
+                    },
+                    {
+                        "node": "Generic Grotto (from Termina Field Grass)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Hotspring Water Grotto",
+                        "alias": "Hotspring Water Grotto"
+                    },
+                    {
+                        "node": "Dodongo Grotto",
+                        "alias": "Dodongo Grotto"
+                    },
+                    {
+                        "node": "Bisness Deku Scrub Grotto",
+                        "alias": "Bisness Deku Scrub Grotto"
+                    },
+                    {
+                        "node": "Cow Grotto (from Termina Field)",
+                        "alias": "Cow Grotto"
+                    },
+                    {
+                        "node": "Bio Baba Grotto",
+                        "alias": "Bio Baba Grotto"
+                    },
+                    {
+                        "node": "Magic Bean Seller Grotto",
+                        "alias": "Magic Bean Seller Grotto"
+                    },
+                    {
+                        "node": "Peahat Grotto",
+                        "alias": "Peahat Grotto"
+                    },
+                    {
+                        "node": "Lone Peak Shrine",
+                        "alias": "Lone Peak Shrine"
+                    },
+                    {
+                        "node": "Generic Grotto (from Woods of Mystery)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Generic Grotto (from Path to Goron Village)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Generic Grotto (from Path to Snowhead)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Generic Grotto (from Mountain Village)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Path to Ikana)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Ghost Hut)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Musicbox House)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Stone Tower)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Song of Soaring)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Beneath the Well)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Sakon's Hideout)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Clear Cutscene)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Ancient Castle of Ikana)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Spring Water Cave (from Farewell to Gibdos)",
+                        "alias": "Spring Water Cave"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Fairy Fountain)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Secret Shrine)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Spring Water Cave)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Spring Water Cave (from Ikana Canyon)",
+                        "alias": "Spring Water Cave"
+                    },
+                    {
+                        "node": "Ikana Canyon (from Twinmold)",
+                        "alias": "Ikana Canyon"
+                    },
+                    {
+                        "node": "Ikana Canyon (Generic Grotto)",
+                        "alias": "Ikana Canyon (Generic Grotto)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Exterior)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Hookshot Lower)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Hookshot Upper)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Purple Pirate entrance)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Purple Pirate exit)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Green Pirate entrance)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Green Pirate exit)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Red Pirate entrance)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Red Pirate exit)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Interior (from Exiterior balcony)",
+                        "alias": "Pirates' Fortress Interior"
+                    },
+                    {
+                        "node": "Milk Bar",
+                        "alias": "Milk Bar"
+                    },
+                    {
+                        "node": "Stone Tower Temple",
+                        "alias": "Stone Tower Temple"
+                    },
+                    {
+                        "node": "Treasure Chest Shop",
+                        "alias": "Treasure Chest Shop"
+                    },
+                    {
+                        "node": "Inverted Stone Tower Temple",
+                        "alias": "Inverted Stone Tower Temple"
+                    },
+                    {
+                        "node": "Inverted Stone Tower Temple (Boss Door)",
+                        "alias": "Inverted Stone Tower Temple (Boss Door)"
+                    },
+                    {
+                        "node": "Top of the Clock Tower",
+                        "alias": "Top of the Clock Tower"
+                    },
+                    {
+                        "node": "Pre Clock Tower (from Clock Tower)",
+                        "alias": "Pre Clock Tower"
+                    },
+                    {
+                        "node": "Pre Clock Tower (from Fall to Termina)",
+                        "alias": "Pre Clock Tower"
+                    },
+                    {
+                        "node": "Pre Clock Tower (from Void)",
+                        "alias": "Pre Clock Tower"
+                    },
+                    {
+                        "node": "Woodfall Temple (from Woodfall)",
+                        "alias": "Woodfall Temple"
+                    },
+                    {
+                        "node": "Deku Princess' Room (from Odolwa)",
+                        "alias": "Deku Princess' Room"
+                    },
+                    {
+                        "node": "Deku Princess' Room (from Woodfall)",
+                        "alias": "Deku Princess' Room"
+                    },
+                    {
+                        "node": "Path to Mountain Village (from Termina Field)",
+                        "alias": "Path to Mountain Village"
+                    },
+                    {
+                        "node": "Path to Mountain Village (from Mountain Village)",
+                        "alias": "Path to Mountain Village"
+                    },
+                    {
+                        "node": "Ancient Castle of Ikana (from Beneath the Well)",
+                        "alias": "Ancient Castle of Ikana"
+                    },
+                    {
+                        "node": "Ancient Castle of Ikana (from Ikana Canyon)",
+                        "alias": "Ancient Castle of Ikana"
+                    },
+                    {
+                        "node": "Ancient Castle of Ikana (from Castle Interior)",
+                        "alias": "Ancient Castle of Ikana"
+                    },
+                    {
+                        "node": "Ancient Castle of Ikana (from Castle Exterior)",
+                        "alias": "Ancient Castle of Ikana"
+                    },
+                    {
+                        "node": "Ancient Castle of Ikana (from Keg Hole)",
+                        "alias": "Ancient Castle of Ikana"
+                    },
+                    {
+                        "node": "Ancient Castle of Ikana (from Hole under Block)",
+                        "alias": "Ancient Castle of Ikana"
+                    },
+                    {
+                        "node": "Ancient Castle of Ikana (from Igo's Room)",
+                        "alias": "Ancient Castle of Ikana"
+                    },
+                    {
+                        "node": "Deku Playground",
+                        "alias": "Deku Playground"
+                    },
+                    {
+                        "node": "Odolwa's Room",
+                        "alias": "Odolwa's Room"
+                    },
+                    {
+                        "node": "Shooting Gallery (Clock Town)",
+                        "alias": "Shooting Gallery (Clock Town)"
+                    },
+                    {
+                        "node": "Snowhead Temple",
+                        "alias": "Snowhead Temple"
+                    },
+                    {
+                        "node": "Milk Road (from Termina Field)",
+                        "alias": "Milk Road"
+                    },
+                    {
+                        "node": "Milk Road (from Romani Ranch)",
+                        "alias": "Milk Road"
+                    },
+                    {
+                        "node": "Milk Road (from Gorman Track back)",
+                        "alias": "Milk Road"
+                    },
+                    {
+                        "node": "Milk Road (from Gorman Track)",
+                        "alias": "Milk Road"
+                    },
+                    {
+                        "node": "Milk Road (from Song of Soaring)",
+                        "alias": "Milk Road"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Hookshot Lower)",
+                        "alias": "Pirates' Fortress Rooms (Hookshot Lower)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Hookshot Upper)",
+                        "alias": "Pirates' Fortress Rooms (Hookshot Upper)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Purple Pirate entrance)",
+                        "alias": "Pirates' Fortress Rooms (Purple Pirate entrance)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Purple Pirate exit)",
+                        "alias": "Pirates' Fortress Rooms (Purple Pirate exit)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Green Pirate entrance)",
+                        "alias": "Pirates' Fortress Rooms (Green Pirate entrance)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Green Pirate exit)",
+                        "alias": "Pirates' Fortress Rooms (Green Pirate exit)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Red Pirate entrance)",
+                        "alias": "Pirates' Fortress Rooms (Red Pirate entrance)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Red Pirate exit)",
+                        "alias": "Pirates' Fortress Rooms (Red Pirate exit)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Sewers entrance)",
+                        "alias": "Pirates' Fortress Rooms (Sewers entrance)"
+                    },
+                    {
+                        "node": "Pirates' Fortress Rooms (Sewers exit)",
+                        "alias": "Pirates' Fortress Rooms (Sewers exit)"
+                    },
+                    {
+                        "node": "Shooting Gallery (Swamp)",
+                        "alias": "Shooting Gallery (Swamp)"
+                    },
+                    {
+                        "node": "Pinnacle Rock",
+                        "alias": "Pinnacle Rock"
+                    },
+                    {
+                        "node": "Pinnacle Rock (Void)",
+                        "alias": "Pinnacle Rock (Void)"
+                    },
+                    {
+                        "node": "Fairy's Fountain (Clock Town)",
+                        "alias": "Fairy's Fountain (Clock Town)"
+                    },
+                    {
+                        "node": "Fairy's Fountain (Woodfall)",
+                        "alias": "Fairy's Fountain (Woodfall)"
+                    },
+                    {
+                        "node": "Fairy's Fountain (Snowhead)",
+                        "alias": "Fairy's Fountain (Snowhead)"
+                    },
+                    {
+                        "node": "Fairy's Fountain (Great Bay)",
+                        "alias": "Fairy's Fountain (Great Bay)"
+                    },
+                    {
+                        "node": "Fairy's Fountain (Ikana)",
+                        "alias": "Fairy's Fountain (Ikana)"
+                    },
+                    {
+                        "node": "Swamp Spider House",
+                        "alias": "Swamp Spider House"
+                    },
+                    {
+                        "node": "Ocean Spider House",
+                        "alias": "Ocean Spider House"
+                    },
+                    {
+                        "node": "Bombers' Hideout",
+                        "alias": "Bombers' Hideout"
+                    },
+                    {
+                        "node": "Observatory (from Termina Field)",
+                        "alias": "Observatory"
+                    },
+                    {
+                        "node": "Woodfall Trial (from Moon)",
+                        "alias": "Woodfall Trial"
+                    },
+                    {
+                        "node": "Deku Palace (from Southern Swamp)",
+                        "alias": "Deku Palace"
+                    },
+                    {
+                        "node": "Deku Palace (from being thrown out)",
+                        "alias": "Deku Palace"
+                    },
+                    {
+                        "node": "Deku Palace (from Deku King's Chamber)",
+                        "alias": "Deku Palace"
+                    },
+                    {
+                        "node": "Deku Palace (from Monkey cage)",
+                        "alias": "Deku Palace"
+                    },
+                    {
+                        "node": "Deku Palace (from Deku Shrine)",
+                        "alias": "Deku Palace"
+                    },
+                    {
+                        "node": "Deku Palace (from Swamp Shortcut)",
+                        "alias": "Deku Palace"
+                    },
+                    {
+                        "node": "Deku Palace (from Magic Bean Seller Grotto)",
+                        "alias": "Deku Palace"
+                    },
+                    {
+                        "node": "Mountain Smithy",
+                        "alias": "Mountain Smithy"
+                    },
+                    {
+                        "node": "Termina Field (from West Clock Town)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Path to Southern Swamp)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Great Bay Coast)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Path to Mountain Village)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Path to Ikana Canyon)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Milk Road)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from South Clock Town)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from East Clock Town)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from North Clock Town)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Observatory)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Cow Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Milk Road with Cremia)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Skull Kid Cutscene)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Grass Generic Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Pillar Generic Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Business Scrub Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Peahat Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Dodongo Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Biobaba Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Swamp Gossips Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Mountain Gossips Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Ocean Gossips Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Termina Field (from Canyon Gossips Grotto)",
+                        "alias": "Termina Field"
+                    },
+                    {
+                        "node": "Post Office",
+                        "alias": "Post Office"
+                    },
+                    {
+                        "node": "Marine Research Lab",
+                        "alias": "Marine Research Lab"
+                    },
+                    {
+                        "node": "Beneath the Graveyard (Bottle)",
+                        "alias": "Beneath the Graveyard (Bottle)"
+                    },
+                    {
+                        "node": "Beneath the Graveyard (Dampe's Room)",
+                        "alias": "Beneath the Graveyard (Dampe's Room)"
+                    },
+                    {
+                        "node": "Generic Grotto (from Great Bay Coast)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Cow Grotto (from Great Bay Coast)",
+                        "alias": "Cow Grotto"
+                    },
+                    {
+                        "node": "Goron Shrine (from Goron Village)",
+                        "alias": "Goron Shrine"
+                    },
+                    {
+                        "node": "Goron Shrine (from Goron Shop)",
+                        "alias": "Goron Shrine"
+                    },
+                    {
+                        "node": "Goron Shrine (from Goron Lullaby)",
+                        "alias": "Goron Shrine"
+                    },
+                    {
+                        "node": "Zora Hall (from Zora Cape)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Zora Hall (from Zora Cape back)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Zora Hall (from Zora Shop)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Zora Hall (from Lulu's Room)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Zora Hall (from Evan's Room)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Zora Hall (from Japas' Room)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Zora Hall (from Mikau's Room)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Zora Hall (from Band Rehearsal)",
+                        "alias": "Zora Hall"
+                    },
+                    {
+                        "node": "Trading Post",
+                        "alias": "Trading Post"
+                    },
+                    {
+                        "node": "Romani Ranch (from Milk Road)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Romani Ranch (from Barn)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Romani Ranch (from House)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Romani Ranch (from Cucco Shack)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Romani Ranch (from Doggy Racetrack)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Romani Ranch (from Receiving Milk Bottle)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Romani Ranch (from Failing Cart Ride)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Romani Ranch (from Romani being abducted)",
+                        "alias": "Romani Ranch"
+                    },
+                    {
+                        "node": "Twinmold's Room",
+                        "alias": "Twinmold's Room"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Termina Field)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Zora Cape)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Murky Water Left)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Pinnacle Rock)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Fisherman's Hut)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Pirates' Fortress)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Murky Water Right)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Marine Research Lab)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Oceanside Spider House)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Zora Mask Cutscene)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Song of Soaring)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Pirates' Fortress caught)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Generic Grotto)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Great Bay Coast (from Cow Grotto)",
+                        "alias": "Great Bay Coast"
+                    },
+                    {
+                        "node": "Zora Cape (from Great Bay Coast)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Zora Hall)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Zora Hall back)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Murky Water)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Waterfall Rapids)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Fairy's Fountain)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Song of Soaring)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Great Bay Temple)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Gyorg)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Gyorg) (2)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Zora Cape (from Generic Grotto)",
+                        "alias": "Zora Cape"
+                    },
+                    {
+                        "node": "Lottery Shop",
+                        "alias": "Lottery Shop"
+                    },
+                    {
+                        "node": "Generic Grotto (from Zora Cape)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Great Bay Coast)",
+                        "alias": "Pirates' Fortress Exterior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Interior)",
+                        "alias": "Pirates' Fortress Exterior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Water Tunnel)",
+                        "alias": "Pirates' Fortress Exterior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Sewers Draft)",
+                        "alias": "Pirates' Fortress Exterior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Interior Thrown Out)",
+                        "alias": "Pirates' Fortress Exterior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Interior Balcony)",
+                        "alias": "Pirates' Fortress Exterior"
+                    },
+                    {
+                        "node": "Pirates' Fortress Exterior (from Telescope)",
+                        "alias": "Pirates' Fortress Exterior"
+                    },
+                    {
+                        "node": "Fisherman's Hut",
+                        "alias": "Fisherman's Hut"
+                    },
+                    {
+                        "node": "Goron Shop",
+                        "alias": "Goron Shop"
+                    },
+                    {
+                        "node": "Deku King's Chamber (from Deku Palace)",
+                        "alias": "Deku King's Chamber"
+                    },
+                    {
+                        "node": "Deku King's Chamber (from Deku Palace upper)",
+                        "alias": "Deku King's Chamber"
+                    },
+                    {
+                        "node": "Deku King's Chamber (from Returning Deku Princess)",
+                        "alias": "Deku King's Chamber"
+                    },
+                    {
+                        "node": "Snowhead Trial (from Moon)",
+                        "alias": "Snowhead Trial"
+                    },
+                    {
+                        "node": "Path to the Swamp (from Termina Field)",
+                        "alias": "Path to the Swamp"
+                    },
+                    {
+                        "node": "Path to the Swamp (from Southern Swamp)",
+                        "alias": "Path to the Swamp"
+                    },
+                    {
+                        "node": "Path to the Swamp (from Shooting Gallery)",
+                        "alias": "Path to the Swamp"
+                    },
+                    {
+                        "node": "Path to the Swamp (from Generic Grotto)",
+                        "alias": "Path to the Swamp"
+                    },
+                    {
+                        "node": "Doggy Racetrack",
+                        "alias": "Doggy Racetrack"
+                    },
+                    {
+                        "node": "Cucco Shack",
+                        "alias": "Cucco Shack"
+                    },
+                    {
+                        "node": "Ikana Graveyard (from Path to Ikana)",
+                        "alias": "Ikana Graveyard"
+                    },
+                    {
+                        "node": "Ikana Graveyard (from Beneath the Graveyard (Bottle))",
+                        "alias": "Ikana Graveyard"
+                    },
+                    {
+                        "node": "Ikana Graveyard (from Beneath the Graveyard (Heart Piece))",
+                        "alias": "Ikana Graveyard"
+                    },
+                    {
+                        "node": "Ikana Graveyard (from Beneath the Graveyard (Song of Storms))",
+                        "alias": "Ikana Graveyard"
+                    },
+                    {
+                        "node": "Ikana Graveyard (from Dampe's Room)",
+                        "alias": "Ikana Graveyard"
+                    },
+                    {
+                        "node": "Ikana Graveyard (from Generic Grotto)",
+                        "alias": "Ikana Graveyard"
+                    },
+                    {
+                        "node": "Goht's Room",
+                        "alias": "Goht's Room"
+                    },
+                    {
+                        "node": "Southern Swamp (from Path to Swamp)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Tourist Information)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Woodfall)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Deku Palace)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Deku Palace Upper)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Magic Hag's Potion Shop)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Woods of Mystery)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Swamp Spider House)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Ikana Canyon)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Song of Soaring)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Southern Swamp (from Generic Grotto)",
+                        "alias": "Southern Swamp"
+                    },
+                    {
+                        "node": "Woodfall (from Southern Swamp)",
+                        "alias": "Woodfall"
+                    },
+                    {
+                        "node": "Woodfall (from Woodfall Temple)",
+                        "alias": "Woodfall"
+                    },
+                    {
+                        "node": "Woodfall (from Fairy's Fountain)",
+                        "alias": "Woodfall"
+                    },
+                    {
+                        "node": "Woodfall (from Woodfall Temple back)",
+                        "alias": "Woodfall"
+                    },
+                    {
+                        "node": "Woodfall (from Song of Soaring)",
+                        "alias": "Woodfall"
+                    },
+                    {
+                        "node": "Great Bay Trial (from Moon)",
+                        "alias": "Great Bay Trial"
+                    },
+                    {
+                        "node": "Great Bay Trial (from Murky Water)",
+                        "alias": "Great Bay Trial"
+                    },
+                    {
+                        "node": "Great Bay Temple (from Zora Cape)",
+                        "alias": "Great Bay Temple"
+                    },
+                    {
+                        "node": "Waterfall Rapids (from Zora Cape)",
+                        "alias": "Waterfall Rapids"
+                    },
+                    {
+                        "node": "Beneath the Well (from Ikana Canyon)",
+                        "alias": "Beneath the Well"
+                    },
+                    {
+                        "node": "Beneath the Well (from Ancient Castle of Ikana)",
+                        "alias": "Beneath the Well"
+                    },
+                    {
+                        "node": "Mikau's Room (from Zora Hall)",
+                        "alias": "Mikau's Room"
+                    },
+                    {
+                        "node": "Japas' Room (from Zora Hall)",
+                        "alias": "Japas' Room"
+                    },
+                    {
+                        "node": "Lulu's Room (from Zora Hall)",
+                        "alias": "Lulu's Room"
+                    },
+                    {
+                        "node": "Evan's Room (from Zora Hall)",
+                        "alias": "Evan's Room"
+                    },
+                    {
+                        "node": "Japas' Room (from Jam Session)",
+                        "alias": "Japas' Room"
+                    },
+                    {
+                        "node": "Zora Shop",
+                        "alias": "Zora Shop"
+                    },
+                    {
+                        "node": "Goron Village (from Path to Goron Village)",
+                        "alias": "Goron Village"
+                    },
+                    {
+                        "node": "Goron Village (from Goron Shrine)",
+                        "alias": "Goron Village"
+                    },
+                    {
+                        "node": "Goron Village (from Lone Peak Shrine)",
+                        "alias": "Goron Village"
+                    },
+                    {
+                        "node": "Goron Graveyard (from Mountain Village)",
+                        "alias": "Goron Graveyard"
+                    },
+                    {
+                        "node": "Sakon's Hideout",
+                        "alias": "Sakon's Hideout"
+                    },
+                    {
+                        "node": "Mountain Village (from Mountain Smithy)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Mountain Village (from Path to Goron Village)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Mountain Village (from Goron Graveyard)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Mountain Village (from Path to Snowhead)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Mountain Village (from Generic Grotto)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Mountain Village (from Path to Mountain Village)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Mountain Village (from Goht)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Mountain Village (from Song of Soaring)",
+                        "alias": "Mountain Village"
+                    },
+                    {
+                        "node": "Ghost Hut (from Ikana Canyon)",
+                        "alias": "Ghost Hut"
+                    },
+                    {
+                        "node": "Deku Shrine",
+                        "alias": "Deku Shrine"
+                    },
+                    {
+                        "node": "Path to Ikana (from Termina Field)",
+                        "alias": "Path to Ikana"
+                    },
+                    {
+                        "node": "Path to Ikana (from Ikana Graveyard)",
+                        "alias": "Path to Ikana"
+                    },
+                    {
+                        "node": "Path to Ikana (from Ikana Canyon)",
+                        "alias": "Path to Ikana"
+                    },
+                    {
+                        "node": "Path to Ikana (from Generic Grotto)",
+                        "alias": "Path to Ikana"
+                    },
+                    {
+                        "node": "Swordsman's School",
+                        "alias": "Swordsman's School"
+                    },
+                    {
+                        "node": "Music Box House",
+                        "alias": "Music Box House"
+                    },
+                    {
+                        "node": "Igos du Ikana's Room",
+                        "alias": "Igos du Ikana's Room"
+                    },
+                    {
+                        "node": "Tourist Information",
+                        "alias": "Tourist Information"
+                    },
+                    {
+                        "node": "Tourist Information (from Boat Cruise Picture)",
+                        "alias": "Tourist Information"
+                    },
+                    {
+                        "node": "Stone Tower (from Ikana Canyon)",
+                        "alias": "Stone Tower"
+                    },
+                    {
+                        "node": "Stone Tower (from Un-inverting)",
+                        "alias": "Stone Tower"
+                    },
+                    {
+                        "node": "Stone Tower (from Stone Tower Temple)",
+                        "alias": "Stone Tower"
+                    },
+                    {
+                        "node": "Stone Tower (from Song of Soaring)",
+                        "alias": "Stone Tower"
+                    },
+                    {
+                        "node": "Inverted Stone Tower (from Inverting)",
+                        "alias": "Inverted Stone Tower"
+                    },
+                    {
+                        "node": "Inverted Stone Tower (from Inverted Stone Tower Temple)",
+                        "alias": "Inverted Stone Tower"
+                    },
+                    {
+                        "node": "Path to Snowhead (from Mountain Village)",
+                        "alias": "Path to Snowhead"
+                    },
+                    {
+                        "node": "Path to Snowhead (from Snowhead)",
+                        "alias": "Path to Snowhead"
+                    },
+                    {
+                        "node": "Path to Snowhead (from Generic Grotto)",
+                        "alias": "Path to Snowhead"
+                    },
+                    {
+                        "node": "Snowhead (from Path to Snowhead/Void)",
+                        "alias": "Snowhead"
+                    },
+                    {
+                        "node": "Snowhead (from Snowhead Temple)",
+                        "alias": "Snowhead"
+                    },
+                    {
+                        "node": "Snowhead (from Fairy's Fountain)",
+                        "alias": "Snowhead"
+                    },
+                    {
+                        "node": "Snowhead (from Song of Soaring)",
+                        "alias": "Snowhead"
+                    },
+                    {
+                        "node": "Path to Goron Village (from Mountain Village)",
+                        "alias": "Path to Goron Village"
+                    },
+                    {
+                        "node": "Path to Goron Village (from Goron Village)",
+                        "alias": "Path to Goron Village"
+                    },
+                    {
+                        "node": "Path to Goron Village (from Goron Racetrack)",
+                        "alias": "Path to Goron Village"
+                    },
+                    {
+                        "node": "Path to Goron Village (from Generic Grotto)",
+                        "alias": "Path to Goron Village"
+                    },
+                    {
+                        "node": "Path to Goron Village (from Hotspring Grotto)",
+                        "alias": "Path to Goron Village"
+                    },
+                    {
+                        "node": "Gyorg's Room",
+                        "alias": "Gyorg's Room"
+                    },
+                    {
+                        "node": "Secret Shrine",
+                        "alias": "Secret Shrine"
+                    },
+                    {
+                        "node": "Stock Pot Inn (from East Clock Town)",
+                        "alias": "Stock Pot Inn"
+                    },
+                    {
+                        "node": "Stock Pot Inn (from East Clock Town upper)",
+                        "alias": "Stock Pot Inn"
+                    },
+                    {
+                        "node": "Stock Pot Inn (from Midnight Meeting)",
+                        "alias": "Stock Pot Inn"
+                    },
+                    {
+                        "node": "Stock Pot Inn (from Mother Conversation)",
+                        "alias": "Stock Pot Inn"
+                    },
+                    {
+                        "node": "Generic Grotto (from Termina Field Pillar)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Clock Tower (from Pre Clock Tower)",
+                        "alias": "Clock Tower"
+                    },
+                    {
+                        "node": "Clock Tower (from South Clock Town)",
+                        "alias": "Clock Tower"
+                    },
+                    {
+                        "node": "Clock Tower (from Moon Crash)",
+                        "alias": "Clock Tower"
+                    },
+                    {
+                        "node": "Clock Tower (from Deku Mask)",
+                        "alias": "Clock Tower"
+                    },
+                    {
+                        "node": "Woods of Mystery",
+                        "alias": "Woods of Mystery"
+                    },
+                    {
+                        "node": "Woods of Mystery (from Generic Grotto)",
+                        "alias": "Woods of Mystery"
+                    },
+                    {
+                        "node": "Stone Tower Trial (from Moon)",
+                        "alias": "Stone Tower Trial"
+                    },
+                    {
+                        "node": "On the Moon",
+                        "alias": "On the Moon"
+                    },
+                    {
+                        "node": "Bomb Shop",
+                        "alias": "Bomb Shop"
+                    },
+                    {
+                        "node": "Gorman Racetrack (from Milk Road)",
+                        "alias": "Gorman Racetrack"
+                    },
+                    {
+                        "node": "Gorman Racetrack (from Milk Road west)",
+                        "alias": "Gorman Racetrack"
+                    },
+                    {
+                        "node": "Goron Racetrack (from Path to Goron Village)",
+                        "alias": "Goron Racetrack"
+                    },
+                    {
+                        "node": "East Clock Town (from Termina Field)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from South Clock Town south)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Bomber's Hideout)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from South Clock Town north)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Treasure Chest Shop)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from North Clock Town)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Honey & Darling)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Mayor's Residence)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Shooting Gallery)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Stock Pot Inn)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Stokc Pot Inn upper)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "East Clock Town (from Milk Bar)",
+                        "alias": "East Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from Termina Field)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from South Clock Town south)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from South Clock Town north)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from Swordsman's School)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from Curiosity Shop)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from Trading Post)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from Bomb Shop)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from Post Office)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "West Clock Town (from Lottery Shop)",
+                        "alias": "West Clock Town"
+                    },
+                    {
+                        "node": "North Clock Town (from Termina Field)",
+                        "alias": "North Clock Town"
+                    },
+                    {
+                        "node": "North Clock Town (from East Clock Town)",
+                        "alias": "North Clock Town"
+                    },
+                    {
+                        "node": "North Clock Town (from South Clock Town)",
+                        "alias": "North Clock Town"
+                    },
+                    {
+                        "node": "North Clock Town (from Fairy's Fountain)",
+                        "alias": "North Clock Town"
+                    },
+                    {
+                        "node": "North Clock Town (from Deku Playground)",
+                        "alias": "North Clock Town"
+                    },
+                    {
+                        "node": "North Clock Town (from Bombers Hide and Seek)",
+                        "alias": "North Clock Town"
+                    },
+                    {
+                        "node": "North Clock Town (from Old Lady/Blast Mask)",
+                        "alias": "North Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from Clock Tower)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from Termina Field)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from East Clock Town north)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from West Clock Town north)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from North Clock Town)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from West Clock Town south)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from Laundry Pool)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from East Clock Town south)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "South Clock Town (from Song of Soaring)",
+                        "alias": "South Clock Town"
+                    },
+                    {
+                        "node": "Laundry Pool (from South Clock Town)",
+                        "alias": "Laundry Pool"
+                    },
+                    {
+                        "node": "Laundry Pool (from Back Room)",
+                        "alias": "Laundry Pool"
+                    },
+                    {
+                        "node": "Generic Grotto (from Path to Ikana Canyon)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Generic Grotto (from Ikana Graveyard)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Generic Grotto (from Ikana Canyon)",
+                        "alias": "Generic Grotto"
+                    },
+                    {
+                        "node": "Zora Hall (from Zora Cape back)",
+                        "alias": "Zora Hall"
+                    }
                 ],
                 nodes: [
                     "Ancient Castle of Ikana",
                     "Back Room",
                     "Beneath the Graveyard (Bottle)",
+                    "Beneath the Graveyard (Dampe's Room)",
                     "Beneath the Graveyard (Heart Piece)",
                     "Beneath the Graveyard (Song of Storms)",
                     "Beneath the Well",
                     "Bio Baba Grotto",
                     "Bisness Deku Scrub Grotto",
-                    "Bombers's Hideout",
+                    "Bomb Shop",
+                    "Bombers' Hideout",
+                    "Chamber of Fate",
                     "Clock Tower",
                     "Cow Grotto",
                     "Cucco Shack",
                     "Curiosity Shop",
-                    "Dampe's Room",
                     "Deku King's Chamber",
-                    "Deku Palace Garden Back Grotto",
-                    "Deku Palace Garden Front Grotto",
                     "Deku Palace",
                     "Deku Playground",
-                    "Deku Princess's Room",
+                    "Deku Princess' Room",
                     "Deku Shrine",
                     "Dodongo Grotto",
                     "Doggy Racetrack",
@@ -2703,7 +3015,6 @@
                     "Fairy's Fountain (Ikana)",
                     "Fairy's Fountain (Snowhead)",
                     "Fairy's Fountain (Woodfall)",
-                    "Farewell to Gibdos",
                     "Fisherman's Hut",
                     "Generic Grotto",
                     "Ghost Hut",
@@ -2723,12 +3034,13 @@
                     "Hotspring Water Grotto",
                     "Igos du Ikana's Room",
                     "Ikana Canyon",
+                    "Ikana Canyon (Generic Grotto)",
                     "Ikana Gossip Stones Grotto",
                     "Ikana Graveyard",
-                    "Inverted Stone Tower Temple (Boss Door)",
-                    "Inverted Stone Tower Temple",
                     "Inverted Stone Tower",
-                    "Japas's Room",
+                    "Inverted Stone Tower Temple",
+                    "Inverted Stone Tower Temple (Boss Door)",
+                    "Japas' Room",
                     "Laundry Pool",
                     "Lone Peak Shrine",
                     "Lottery Shop",
@@ -2756,20 +3068,21 @@
                     "Path to the Swamp",
                     "Peahat Grotto",
                     "Pinnacle Rock",
-                    "Pirates's Fortress Exterior",
-                    "Pirates's Fortress Interior",
-                    "Pirates's Fortress Rooms (Green Pirate entrance)",
-                    "Pirates's Fortress Rooms (Green Pirate exit)",
-                    "Pirates's Fortress Rooms (Hookshot Lower)",
-                    "Pirates's Fortress Rooms (Hookshot Upper)",
-                    "Pirates's Fortress Rooms (Purple Pirate entrance)",
-                    "Pirates's Fortress Rooms (Purple Pirate exit)",
-                    "Pirates's Fortress Rooms (Red Pirate entrance)",
-                    "Pirates's Fortress Rooms (Red Pirate exit)",
-                    "Pirates's Fortress Rooms (Sewers entrance)",
-                    "Pirates's Fortress Rooms (Sewers exit)",
-                    "Pirates's Fortress Rooms",
+                    "Pinnacle Rock (Void)",
+                    "Pirates' Fortress Exterior",
+                    "Pirates' Fortress Interior",
+                    "Pirates' Fortress Rooms (Green Pirate entrance)",
+                    "Pirates' Fortress Rooms (Green Pirate exit)",
+                    "Pirates' Fortress Rooms (Hookshot Lower)",
+                    "Pirates' Fortress Rooms (Hookshot Upper)",
+                    "Pirates' Fortress Rooms (Purple Pirate entrance)",
+                    "Pirates' Fortress Rooms (Purple Pirate exit)",
+                    "Pirates' Fortress Rooms (Red Pirate entrance)",
+                    "Pirates' Fortress Rooms (Red Pirate exit)",
+                    "Pirates' Fortress Rooms (Sewers entrance)",
+                    "Pirates' Fortress Rooms (Sewers exit)",
                     "Post Office",
+                    "Pre Clock Tower",
                     "Ranch Barn",
                     "Ranch House",
                     "Romani Ranch",
@@ -2777,31 +3090,31 @@
                     "Secret Shrine",
                     "Shooting Gallery (Clock Town)",
                     "Shooting Gallery (Swamp)",
+                    "Snowhead",
                     "Snowhead Gossip Stones Grotto",
                     "Snowhead Temple",
                     "Snowhead Trial",
-                    "Snowhead",
                     "South Clock Town",
                     "Southern Swamp",
                     "Spring Water Cave",
                     "Stock Pot Inn",
+                    "Stone Tower",
                     "Stone Tower Temple",
                     "Stone Tower Trial",
-                    "Stone Tower",
                     "Swamp Gossip Stones Grotto",
                     "Swamp Spider House",
                     "Swordsman's School",
-                    "Termina Field (Telescope)",
                     "Termina Field",
+                    "Top of the Clock Tower",
                     "Tourist Information",
                     "Trading Post",
                     "Treasure Chest Shop",
                     "Twinmold's Room",
                     "Waterfall Rapids",
                     "West Clock Town",
+                    "Woodfall",
                     "Woodfall Temple",
                     "Woodfall Trial",
-                    "Woodfall",
                     "Woods of Mystery",
                     "Zora Cape",
                     "Zora Hall",
@@ -2814,8 +3127,8 @@
                 //             "alias": "Mayor's Residence",
                 //         },
                 //         {
-                //             "node": "North Clock Town (from East Clock Town)",
-                //             "alias": "North Clock Town",
+                //             "node": "Termina Field (from Cow Grotto)",
+                //             "alias": "Termina Field",
                 //         },
                 //     ],
                 //     [
@@ -2824,8 +3137,8 @@
                 //             "alias": "Majora's Room",
                 //         },
                 //         {
-                //             "node": "Deku Palace (from Deku Shrine)",
-                //             "alias": "Deku Palace",
+                //             "node": "North Clock Town (from Deku Playground)",
+                //             "alias": "North Clock Town",
                 //         },
                 //     ],
                 //     [
@@ -2834,8 +3147,8 @@
                 //             "alias": "Magic Hag's Potion Shop",
                 //         },
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Red Pirate exit)",
-                //             "alias": "Pirates's Fortress Rooms (Red Pirate exit)",
+                //             "node": "Snowhead (from Path to Snowhead/Void)",
+                //             "alias": "Snowhead",
                 //         },
                 //     ],
                 //     [
@@ -2844,8 +3157,8 @@
                 //             "alias": "Ranch Barn",
                 //         },
                 //         {
-                //             "node": "Gorman Racetrack (from Milk Road west)",
-                //             "alias": "Gorman Racetrack",
+                //             "node": "Pirates' Fortress Exterior (from Interior Thrown Out)",
+                //             "alias": "Pirates' Fortress Exterior",
                 //         },
                 //     ],
                 //     [
@@ -2854,8 +3167,8 @@
                 //             "alias": "Ranch House",
                 //         },
                 //         {
-                //             "node": "Mikau's Room (from Zora Hall)",
-                //             "alias": "Mikau's Room",
+                //             "node": "Great Bay Coast (from Murky Water Left)",
+                //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
@@ -2864,8 +3177,8 @@
                 //             "alias": "Honey & Darling",
                 //         },
                 //         {
-                //             "node": "South Clock Town (from Song of Soaring)",
-                //             "alias": "South Clock Town",
+                //             "node": "North Clock Town (from Old Lady/Blast Mask)",
+                //             "alias": "North Clock Town",
                 //         },
                 //     ],
                 //     [
@@ -2874,8 +3187,8 @@
                 //             "alias": "Beneath the Graveyard (Heart Piece)",
                 //         },
                 //         {
-                //             "node": "East Clock Town (from Treasure Chest Shop)",
-                //             "alias": "East Clock Town",
+                //             "node": "Great Bay Coast (from Pirates' Fortress caught)",
+                //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
@@ -2884,8 +3197,8 @@
                 //             "alias": "Beneath the Graveyard (Song of Storms)",
                 //         },
                 //         {
-                //             "node": "Magic Hag's Potion Shop (from Southern Swamp)",
-                //             "alias": "Magic Hag's Potion Shop",
+                //             "node": "Ikana Canyon (from Path to Ikana)",
+                //             "alias": "Ikana Canyon",
                 //         },
                 //     ],
                 //     [
@@ -2894,8 +3207,8 @@
                 //             "alias": "Curiosity Shop",
                 //         },
                 //         {
-                //             "node": "Peahat Grotto",
-                //             "alias": "Peahat Grotto",
+                //             "node": "Great Bay Coast (from Pinnacle Rock)",
+                //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
@@ -2904,674 +3217,14 @@
                 //             "alias": "Back Room",
                 //         },
                 //         {
-                //             "node": "Fairy's Fountain (Woodfall)",
-                //             "alias": "Fairy's Fountain (Woodfall)",
+                //             "node": "Post Office",
+                //             "alias": "Post Office",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Curiosity Shop (from Back Room)",
-                //             "alias": "Curiosity Shop",
-                //         },
-                //         {
-                //             "node": "Termina Field (from Great Bay Coast)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Back Room (from Curiosity Shop)",
-                //             "alias": "Back Room",
-                //         },
-                //         {
-                //             "node": "Deku Palace Garden Back Grotto",
-                //             "alias": "Deku Palace Garden Back Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Gossip Stones Grotto",
-                //             "alias": "Great Bay Gossip Stones Grotto",
-                //         },
-                //         {
-                //             "node": "Woodfall (from Fairy's Fountain)",
-                //             "alias": "Woodfall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Swamp Gossip Stones Grotto",
-                //             "alias": "Swamp Gossip Stones Grotto",
-                //         },
-                //         {
-                //             "node": "Swordsman's School",
-                //             "alias": "Swordsman's School",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Gossip Stones Grotto",
-                //             "alias": "Ikana Gossip Stones Grotto",
-                //         },
-                //         {
-                //             "node": "Doggy Racetrack",
-                //             "alias": "Doggy Racetrack",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Snowhead Gossip Stones Grotto",
-                //             "alias": "Snowhead Gossip Stones Grotto",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Hookshot Upper)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Generic Grotto",
+                //             "node": "Generic Grotto (from Path to the Swamp)",
                 //             "alias": "Generic Grotto",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from North Clock Town)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Hotspring Water Grotto",
-                //             "alias": "Hotspring Water Grotto",
-                //         },
-                //         {
-                //             "node": "Dodongo Grotto",
-                //             "alias": "Dodongo Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace Garden Back Grotto",
-                //             "alias": "Deku Palace Garden Back Grotto",
-                //         },
-                //         {
-                //             "node": "Goron Shrine (from Goron Shop)",
-                //             "alias": "Goron Shrine",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Dodongo Grotto",
-                //             "alias": "Dodongo Grotto",
-                //         },
-                //         {
-                //             "node": "Curiosity Shop (from Back Room)",
-                //             "alias": "Curiosity Shop",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace Garden Front Grotto",
-                //             "alias": "Deku Palace Garden Front Grotto",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Bisness Deku Scrub Grotto",
-                //             "alias": "Bisness Deku Scrub Grotto",
-                //         },
-                //         {
-                //             "node": "Zora Cape (from Murky Water)",
-                //             "alias": "Zora Cape",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Cow Grotto",
-                //             "alias": "Cow Grotto",
-                //         },
-                //         {
-                //             "node": "Path to Snowhead (from Snowhead)",
-                //             "alias": "Path to Snowhead",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Bio Baba Grotto",
-                //             "alias": "Bio Baba Grotto",
-                //         },
-                //         {
-                //             "node": "Deku King's Chamber (from Deku Princess)",
-                //             "alias": "Deku King's Chamber",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Magic Bean Seller Grotto",
-                //             "alias": "Magic Bean Seller Grotto",
-                //         },
-                //         {
-                //             "node": "Stone Tower Trial (from Moon)",
-                //             "alias": "Stone Tower Trial",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Peahat Grotto",
-                //             "alias": "Peahat Grotto",
-                //         },
-                //         {
-                //             "node": "Fisherman's Hut",
-                //             "alias": "Fisherman's Hut",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace Garden Back Grotto",
-                //             "alias": "Deku Palace Garden Back Grotto",
-                //         },
-                //         {
-                //             "node": "Path to Ikana (from Termina Field)",
-                //             "alias": "Path to Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace Garden Front Grotto",
-                //             "alias": "Deku Palace Garden Front Grotto",
-                //         },
-                //         {
-                //             "node": "Observatory (from Telescope)",
-                //             "alias": "Observatory",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Lone Peak Shrine",
-                //             "alias": "Lone Peak Shrine",
-                //         },
-                //         {
-                //             "node": "Treasure Chest Shop",
-                //             "alias": "Treasure Chest Shop",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Path to Ikana)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Fairy's Fountain (Great Bay)",
-                //             "alias": "Fairy's Fountain (Great Bay)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Ghost Hut)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Ikana Gossip Stones Grotto",
-                //             "alias": "Ikana Gossip Stones Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Musicbox House)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Swamp Gossip Stones Grotto",
-                //             "alias": "Swamp Gossip Stones Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Stone Tower)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Evan's Room (from Zora Hall)",
-                //             "alias": "Evan's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Song of Soaring)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Woods of Mystery)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Beneath the Well)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Romani Ranch (from Receiving Milk Bottle)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Sakon's Hideout)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Marine Research Lab",
-                //             "alias": "Marine Research Lab",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Clear Cutscene)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "North Clock Town (from Bombers Hide and Seek)",
-                //             "alias": "North Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Ancient Castle of Ikana)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Snowhead Trial (from Moon)",
-                //             "alias": "Snowhead Trial",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Spring Water Cave (from Farewell to Gibdos)",
-                //             "alias": "Spring Water Cave",
-                //         },
-                //         {
-                //             "node": "Twinmold's Room",
-                //             "alias": "Twinmold's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Fairy Fountain)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from Shooting Gallery)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Secret Shrine)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Stone Tower Temple",
-                //             "alias": "Stone Tower Temple",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Canyon (from Spring Water Cave)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //         {
-                //             "node": "Magic Bean Seller Grotto",
-                //             "alias": "Magic Bean Seller Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Spring Water Cave (from Ikana Canyon)",
-                //             "alias": "Spring Water Cave",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Sewers exit)",
-                //             "alias": "Pirates's Fortress Rooms (Sewers exit)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Exterior)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Interior balcony)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Hookshot Lower)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Shooting Gallery (Swamp)",
-                //             "alias": "Shooting Gallery (Swamp)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Hookshot Upper)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Bombers's Hideout",
-                //             "alias": "Bombers's Hideout",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Purple Pirate entrance)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Goron Village (from Lone Peak Shrine)",
-                //             "alias": "Goron Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Purple Pirate exit)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Curiosity Shop (from West Clock Town)",
-                //             "alias": "Curiosity Shop",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Green Pirate entrance)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Musicbox House)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Green Pirate exit)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Back Room (from Curiosity Shop)",
-                //             "alias": "Back Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Red Pirate entrance)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Stock Pot Inn (from Midnight Meeting)",
-                //             "alias": "Stock Pot Inn",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Red Pirate exit)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Beneath the Graveyard (Bottle)",
-                //             "alias": "Beneath the Graveyard (Bottle)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Telescope)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Pinnacle Rock",
-                //             "alias": "Pinnacle Rock",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Exiterior balcony)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //         {
-                //             "node": "Lottery Shop",
-                //             "alias": "Lottery Shop",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Milk Bar",
-                //             "alias": "Milk Bar",
-                //         },
-                //         {
-                //             "node": "Bio Baba Grotto",
-                //             "alias": "Bio Baba Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Stone Tower Temple",
-                //             "alias": "Stone Tower Temple",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Ikana Canyon)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Treasure Chest Shop",
-                //             "alias": "Treasure Chest Shop",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Inverted Stone Tower Temple",
-                //             "alias": "Inverted Stone Tower Temple",
-                //         },
-                //         {
-                //             "node": "Goron Racetrack (from Path to Goron Village)",
-                //             "alias": "Goron Racetrack",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Inverted Stone Tower Temple (Boss Door)",
-                //             "alias": "Inverted Stone Tower Temple (Boss Door)",
-                //         },
-                //         {
-                //             "node": "Zora Hall (from Lulu's Room)",
-                //             "alias": "Zora Hall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woodfall Temple (from Woodfall)",
-                //             "alias": "Woodfall Temple",
-                //         },
-                //         {
-                //             "node": "Ranch Barn (from Romani Ranch)",
-                //             "alias": "Ranch Barn",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Princess's Room (from Clear Cutscene)",
-                //             "alias": "Deku Princess's Room",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Red Pirate exit)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Princess's Room (from Woodfall)",
-                //             "alias": "Deku Princess's Room",
-                //         },
-                //         {
-                //             "node": "Path to Snowhead (from Mountain Village)",
-                //             "alias": "Path to Snowhead",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Path to Mountain Village (from Termina Field)",
-                //             "alias": "Path to Mountain Village",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Sewers)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Path to Mountain Village (from Mountain Village)",
-                //             "alias": "Path to Mountain Village",
-                //         },
-                //         {
-                //             "node": "South Clock Town (from West Clock Town south)",
-                //             "alias": "South Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Beneath the Well)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //         {
-                //             "node": "Zora Hall (from Mikau's Room)",
-                //             "alias": "Zora Hall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Ikana Canyon)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //         {
-                //             "node": "Path to the Swamp (from Termina Field)",
-                //             "alias": "Path to the Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Castle Interior)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from Honey & Darling)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Castle Exterior)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //         {
-                //             "node": "Hotspring Water Grotto",
-                //             "alias": "Hotspring Water Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Keg Hole)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Zora Cape)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Hole under Block)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //         {
-                //             "node": "Mountain Village (from Clear Cutscene)",
-                //             "alias": "Mountain Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Igo's Room)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //         {
-                //             "node": "Romani Ranch (from Romani being abducted)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Playground",
-                //             "alias": "Deku Playground",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Beneath the Well)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Odolwa's Room",
-                //             "alias": "Odolwa's Room",
-                //         },
-                //         {
-                //             "node": "Termina Field (from North Clock Town)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Shooting Gallery (Clock Town)",
-                //             "alias": "Shooting Gallery (Clock Town)",
-                //         },
-                //         {
-                //             "node": "Zora Cape (from Waterfall Rapids)",
-                //             "alias": "Zora Cape",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Snowhead Temple",
-                //             "alias": "Snowhead Temple",
-                //         },
-                //         {
-                //             "node": "Mountain Village (from Mountain Smithy)",
-                //             "alias": "Mountain Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Milk Road (from Termina Field)",
-                //             "alias": "Milk Road",
-                //         },
-                //         {
-                //             "node": "Deku Shrine",
-                //             "alias": "Deku Shrine",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Milk Road (from Romani Ranch)",
-                //             "alias": "Milk Road",
                 //         },
                 //         {
                 //             "node": "Ikana Graveyard (from Beneath the Graveyard (Heart Piece))",
@@ -3580,178 +3233,78 @@
                 //     ],
                 //     [
                 //         {
-                //             "node": "Milk Road (from Gorman Track back)",
-                //             "alias": "Milk Road",
+                //             "node": "Generic Grotto (from Southern Swamp)",
+                //             "alias": "Generic Grotto",
                 //         },
                 //         {
-                //             "node": "Japas's Room (from Zora Hall)",
-                //             "alias": "Japas's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Milk Road (from Gorman Track)",
-                //             "alias": "Milk Road",
-                //         },
-                //         {
-                //             "node": "Cow Grotto",
-                //             "alias": "Cow Grotto",
+                //             "node": "Great Bay Coast (from Zora Mask Cutscene)",
+                //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Milk Road (from Song of Soaring)",
-                //             "alias": "Milk Road",
+                //             "node": "Great Bay Gossip Stones Grotto",
+                //             "alias": "Great Bay Gossip Stones Grotto",
                 //         },
                 //         {
-                //             "node": "Path to the Swamp (from Shooting Gallery)",
-                //             "alias": "Path to the Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Hookshot Lower)",
-                //             "alias": "Pirates's Fortress Rooms (Hookshot Lower)",
-                //         },
-                //         {
-                //             "node": "Stone Tower (from Stone Tower Temple)",
-                //             "alias": "Stone Tower",
+                //             "node": "Path to Ikana (from Ikana Graveyard)",
+                //             "alias": "Path to Ikana",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Hookshot Upper)",
-                //             "alias": "Pirates's Fortress Rooms (Hookshot Upper)",
+                //             "node": "Swamp Gossip Stones Grotto",
+                //             "alias": "Swamp Gossip Stones Grotto",
                 //         },
                 //         {
-                //             "node": "West Clock Town (from Trading Post)",
-                //             "alias": "West Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Purple Pirate entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Purple Pirate entrance)",
-                //         },
-                //         {
-                //             "node": "Fairy's Fountain (Ikana)",
-                //             "alias": "Fairy's Fountain (Ikana)",
+                //             "node": "Spring Water Cave (from Farewell to Gibdos)",
+                //             "alias": "Spring Water Cave",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Purple Pirate exit)",
-                //             "alias": "Pirates's Fortress Rooms (Purple Pirate exit)",
+                //             "node": "Ikana Gossip Stones Grotto",
+                //             "alias": "Ikana Gossip Stones Grotto",
                 //         },
                 //         {
-                //             "node": "Zora Hall (from Evan's Room)",
-                //             "alias": "Zora Hall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Green Pirate entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Green Pirate entrance)",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Swamp Spider House)",
-                //             "alias": "Southern Swamp",
+                //             "node": "Ancient Castle of Ikana (from Hole under Block)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Green Pirate exit)",
-                //             "alias": "Pirates's Fortress Rooms (Green Pirate exit)",
+                //             "node": "Snowhead Gossip Stones Grotto",
+                //             "alias": "Snowhead Gossip Stones Grotto",
                 //         },
                 //         {
-                //             "node": "Woodfall (from Song of Soaring)",
-                //             "alias": "Woodfall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Red Pirate entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Red Pirate entrance)",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Sewers entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Sewers entrance)",
+                //             "node": "Generic Grotto (from Ikana Graveyard)",
+                //             "alias": "Generic Grotto",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Red Pirate exit)",
-                //             "alias": "Pirates's Fortress Rooms (Red Pirate exit)",
+                //             "node": "Generic Grotto (from Termina Field Grass)",
+                //             "alias": "Generic Grotto",
                 //         },
                 //         {
-                //             "node": "North Clock Town (from Termina Field)",
-                //             "alias": "North Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Rooms (from Telescope)",
-                //             "alias": "Pirates's Fortress Rooms",
-                //         },
-                //         {
-                //             "node": "Ikana Graveyard (from Path to Ikana)",
-                //             "alias": "Ikana Graveyard",
+                //             "node": "Beneath the Graveyard (Song of Storms)",
+                //             "alias": "Beneath the Graveyard (Song of Storms)",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Sewers entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Sewers entrance)",
+                //             "node": "Hotspring Water Grotto",
+                //             "alias": "Hotspring Water Grotto",
                 //         },
                 //         {
-                //             "node": "Zora Cape (from Zora Hall)",
-                //             "alias": "Zora Cape",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Sewers exit)",
-                //             "alias": "Pirates's Fortress Rooms (Sewers exit)",
-                //         },
-                //         {
-                //             "node": "Stock Pot Inn (from East Clock Town upper)",
-                //             "alias": "Stock Pot Inn",
+                //             "node": "Mountain Village (from Generic Grotto)",
+                //             "alias": "Mountain Village",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Shooting Gallery (Swamp)",
-                //             "alias": "Shooting Gallery (Swamp)",
-                //         },
-                //         {
-                //             "node": "Milk Road (from Gorman Track back)",
-                //             "alias": "Milk Road",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pinnacle Rock",
-                //             "alias": "Pinnacle Rock",
-                //         },
-                //         {
-                //             "node": "Termina Field (from East Clock Town)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Fairy's Fountain (Clock Town)",
-                //             "alias": "Fairy's Fountain (Clock Town)",
-                //         },
-                //         {
-                //             "node": "Path to Goron Village (from Goron Village)",
-                //             "alias": "Path to Goron Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Fairy's Fountain (Woodfall)",
-                //             "alias": "Fairy's Fountain (Woodfall)",
+                //             "node": "Dodongo Grotto",
+                //             "alias": "Dodongo Grotto",
                 //         },
                 //         {
                 //             "node": "Great Bay Temple (from Zora Cape)",
@@ -3760,1188 +3313,28 @@
                 //     ],
                 //     [
                 //         {
-                //             "node": "Fairy's Fountain (Snowhead)",
-                //             "alias": "Fairy's Fountain (Snowhead)",
+                //             "node": "Bisness Deku Scrub Grotto",
+                //             "alias": "Bisness Deku Scrub Grotto",
                 //         },
                 //         {
-                //             "node": "Zora Cape (from Great Bay Coast)",
-                //             "alias": "Zora Cape",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Fairy's Fountain (Great Bay)",
-                //             "alias": "Fairy's Fountain (Great Bay)",
-                //         },
-                //         {
-                //             "node": "Deku King's Chamber (from Releasing Monkey)",
-                //             "alias": "Deku King's Chamber",
+                //             "node": "Zora Hall (from Band Rehearsal)",
+                //             "alias": "Zora Hall",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Fairy's Fountain (Ikana)",
-                //             "alias": "Fairy's Fountain (Ikana)",
+                //             "node": "Cow Grotto (from Termina Field)",
+                //             "alias": "Cow Grotto",
                 //         },
-                //         {
-                //             "node": "Termina Field (from Path to Southern Swamp)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Swamp Spider House",
-                //             "alias": "Swamp Spider House",
-                //         },
-                //         {
-                //             "node": "Goron Village (from Goron Shrine)",
-                //             "alias": "Goron Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ocean Spider House",
-                //             "alias": "Ocean Spider House",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Southern Swamp)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Bombers's Hideout",
-                //             "alias": "Bombers's Hideout",
-                //         },
-                //         {
-                //             "node": "South Clock Town (from Clock Tower)",
-                //             "alias": "South Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Observatory (from Termina Field)",
-                //             "alias": "Observatory",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from Termina Field)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Observatory (from Telescope)",
-                //             "alias": "Observatory",
-                //         },
-                //         {
-                //             "node": "Snowhead (from Song of Soaring)",
-                //             "alias": "Snowhead",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woodfall Trial (from Moon)",
-                //             "alias": "Woodfall Trial",
-                //         },
-                //         {
-                //             "node": "Great Bay Trial (from Moon)",
-                //             "alias": "Great Bay Trial",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Southern Swamp)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Fairy's Fountain (Snowhead)",
-                //             "alias": "Fairy's Fountain (Snowhead)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from being thrown out)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Tourist Information)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Deku King's Chamber)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Song of Soaring)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Monkey cage)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Green Pirate entrance)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Deku Shrine)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Stock Pot Inn (from East Clock Town)",
-                //             "alias": "Stock Pot Inn",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Swamp Shortcut)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Back Room (from Laundry Pool)",
-                //             "alias": "Back Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from Stokc Pot Inn upper)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Milk Road (from Termina Field)",
-                //             "alias": "Milk Road",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Sewers end)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Magic Bean Seller Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (from Telescope)",
-                //             "alias": "Pirates's Fortress Rooms",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //         {
-                //             "node": "Beneath the Graveyard (Heart Piece)",
-                //             "alias": "Beneath the Graveyard (Heart Piece)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Smithy",
-                //             "alias": "Mountain Smithy",
-                //         },
-                //         {
-                //             "node": "Laundry Pool (from South Clock Town)",
-                //             "alias": "Laundry Pool",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from West Clock Town)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Purple Pirate exit)",
-                //             "alias": "Pirates's Fortress Rooms (Purple Pirate exit)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from Path to Southern Swamp)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Song of Soaring)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from Great Bay Coast)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Purple Pirate entrance)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from Path to Mountain Village)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Sakon's Hideout",
-                //             "alias": "Sakon's Hideout",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from Path to Ikana Canyon)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Interior)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from Milk Road)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Green Pirate exit)",
-                //             "alias": "Pirates's Fortress Rooms (Green Pirate exit)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from South Clock Town)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Beneath the Well (from Ancient Castle of Ikana)",
-                //             "alias": "Beneath the Well",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from East Clock Town)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Romani Ranch (from Milk Road)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from North Clock Town)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Termina Field (from Path to Ikana Canyon)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from Observatory)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Snowhead Gossip Stones Grotto",
-                //             "alias": "Snowhead Gossip Stones Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (Telescope)",
-                //             "alias": "Termina Field (Telescope)",
-                //         },
-                //         {
-                //             "node": "Path to Goron Village (from Goron Racetrack)",
-                //             "alias": "Path to Goron Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Termina Field (from Milk Road with Cremia)",
-                //             "alias": "Termina Field",
-                //         },
-                //         {
-                //             "node": "Termina Field (from Path to Mountain Village)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Post Office",
-                //             "alias": "Post Office",
-                //         },
-                //         {
-                //             "node": "Snowhead (from Path to Snowhead/Void)",
-                //             "alias": "Snowhead",
-                //         },
-                //     ],
-                //     [
                 //         {
                 //             "node": "Marine Research Lab",
                 //             "alias": "Marine Research Lab",
                 //         },
-                //         {
-                //             "node": "South Clock Town (from North Clock Town)",
-                //             "alias": "South Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Beneath the Graveyard (Bottle)",
-                //             "alias": "Beneath the Graveyard (Bottle)",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Spring Water Cave)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Dampe's Room",
-                //             "alias": "Dampe's Room",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Path to Ikana)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Goron Shrine (from Goron Village)",
-                //             "alias": "Goron Shrine",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Pirates' Fortress caught)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Goron Shrine (from Goron Shop)",
-                //             "alias": "Goron Shrine",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Fisherman's Hut)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Zora Cape)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "Tourist Information",
-                //             "alias": "Tourist Information",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Zora Cape back)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from Bombers's Hideout)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Zora Shop)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "Path to Mountain Village (from Mountain Village)",
-                //             "alias": "Path to Mountain Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Lulu's Room)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "Mountain Village (from Path to Mountain Village)",
-                //             "alias": "Mountain Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Evan's Room)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "Path to Goron Village (from Mountain Village)",
-                //             "alias": "Path to Goron Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Japas's Room)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Castle Exterior)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Mikau's Room)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from being thrown out)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Hall (from Band Rehearsal)",
-                //             "alias": "Zora Hall",
-                //         },
-                //         {
-                //             "node": "North Clock Town (from South Clock Town)",
-                //             "alias": "North Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Trading Post",
-                //             "alias": "Trading Post",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Deku Palace Upper)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Romani Ranch (from Milk Road)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Green Pirate entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Green Pirate entrance)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Romani Ranch (from Barn)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Deku Palace)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Romani Ranch (from House)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //         {
-                //             "node": "Stone Tower (from Un-inverting)",
-                //             "alias": "Stone Tower",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Romani Ranch (from Cucco Shack)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Red Pirate entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Red Pirate entrance)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Romani Ranch (from Doggy Racetrack)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Monkey cage)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Romani Ranch (from Receiving Milk Bottle)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //         {
-                //             "node": "Beneath the Graveyard (Song of Storms)",
-                //             "alias": "Beneath the Graveyard (Song of Storms)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Romani Ranch (from Romani being abducted)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //         {
-                //             "node": "Path to the Swamp (from Southern Swamp)",
-                //             "alias": "Path to the Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Twinmold's Room",
-                //             "alias": "Twinmold's Room",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Hookshot Lower)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Termina Field)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Observatory (from Termina Field)",
-                //             "alias": "Observatory",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Zora Cape)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Goron Graveyard (from Mountain Village)",
-                //             "alias": "Goron Graveyard",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Murky Water Left)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Zora Hall (from Zora Cape)",
-                //             "alias": "Zora Hall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Pinnacle Rock)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Waterfall Rapids (from Zora Cape)",
-                //             "alias": "Waterfall Rapids",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Fisherman's Hut)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Termina Field (from Milk Road with Cremia)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Pirates' Fortress)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Spring Water Cave (from Farewell to Gibdos)",
-                //             "alias": "Spring Water Cave",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Murky Water Right)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Shooting Gallery (Clock Town)",
-                //             "alias": "Shooting Gallery (Clock Town)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Marine Research Lab)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Keg Hole)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Oceanside Spider House)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Stone Tower)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Zora Mask Cutscene)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Rooms (Purple Pirate entrance)",
-                //             "alias": "Pirates's Fortress Rooms (Purple Pirate entrance)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Song of Soaring)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from Stock Pot Inn)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Coast (from Pirates' Fortress caught)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //         {
-                //             "node": "Snowhead (from Fairy's Fountain)",
-                //             "alias": "Snowhead",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Great Bay Coast)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "Lone Peak Shrine",
-                //             "alias": "Lone Peak Shrine",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Zora Hall)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "Milk Bar",
-                //             "alias": "Milk Bar",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Zora Hall back)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Song of Soaring)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Murky Water)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Ikana Canyon)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Waterfall Rapids)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "South Clock Town (from Termina Field)",
-                //             "alias": "South Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Fairy's Fountain)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Woodfall)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Song of Soaring)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Great Bay Coast)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Zora Cape (from Great Bay Temple)",
-                //             "alias": "Zora Cape",
-                //         },
-                //         {
-                //             "node": "Post Office",
-                //             "alias": "Post Office",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Lottery Shop",
-                //             "alias": "Lottery Shop",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Zora Mask Cutscene)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Great Bay Coast)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Sakon's Hideout)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Interior)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //         {
-                //             "node": "South Clock Town (from West Clock Town north)",
-                //             "alias": "South Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Sewers)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Murky Water Left)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Sewers Draft)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Hole under Block)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Interior caught)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //         {
-                //             "node": "Deku Princess's Room (from Woodfall)",
-                //             "alias": "Deku Princess's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Interior balcony)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Igo's Room)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Sewers end)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //         {
-                //             "node": "Zora Shop",
-                //             "alias": "Zora Shop",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Fisherman's Hut",
-                //             "alias": "Fisherman's Hut",
-                //         },
-                //         {
-                //             "node": "Milk Road (from Gorman Track)",
-                //             "alias": "Milk Road",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Goron Shop",
-                //             "alias": "Goron Shop",
-                //         },
-                //         {
-                //             "node": "North Clock Town (from Deku Playground)",
-                //             "alias": "North Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku King's Chamber (from Deku Palace)",
-                //             "alias": "Deku King's Chamber",
-                //         },
-                //         {
-                //             "node": "Odolwa's Room",
-                //             "alias": "Odolwa's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku King's Chamber (from Deku Palace upper)",
-                //             "alias": "Deku King's Chamber",
-                //         },
-                //         {
-                //             "node": "West Clock Town (from South Clock Town south)",
-                //             "alias": "West Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku King's Chamber (from Deku Princess)",
-                //             "alias": "Deku King's Chamber",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Marine Research Lab)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku King's Chamber (from Releasing Monkey)",
-                //             "alias": "Deku King's Chamber",
-                //         },
-                //         {
-                //             "node": "Woodfall Trial (from Moon)",
-                //             "alias": "Woodfall Trial",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Snowhead Trial (from Moon)",
-                //             "alias": "Snowhead Trial",
-                //         },
-                //         {
-                //             "node": "Bisness Deku Scrub Grotto",
-                //             "alias": "Bisness Deku Scrub Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Path to the Swamp (from Termina Field)",
-                //             "alias": "Path to the Swamp",
-                //         },
-                //         {
-                //             "node": "Woodfall (from Woodfall Temple back)",
-                //             "alias": "Woodfall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Path to the Swamp (from Southern Swamp)",
-                //             "alias": "Path to the Swamp",
-                //         },
-                //         {
-                //             "node": "Zora Hall (from Band Rehearsal)",
-                //             "alias": "Zora Hall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Path to the Swamp (from Shooting Gallery)",
-                //             "alias": "Path to the Swamp",
-                //         },
-                //         {
-                //             "node": "Laundry Pool (from Back Room)",
-                //             "alias": "Laundry Pool",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Doggy Racetrack",
-                //             "alias": "Doggy Racetrack",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Fairy Fountain)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Cucco Shack",
-                //             "alias": "Cucco Shack",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Swamp Shortcut)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Graveyard (from Path to Ikana)",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Exiterior balcony)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Bottle))",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //         {
-                //             "node": "West Clock Town (from Lottery Shop)",
-                //             "alias": "West Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Heart Piece))",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //         {
-                //             "node": "Southern Swamp (from Magic Hag's Potion Shop)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Song of Storms))",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //         {
-                //             "node": "Ancient Castle of Ikana (from Beneath the Well)",
-                //             "alias": "Ancient Castle of Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Graveyard (from Dampe's Room)",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Telescope)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ikana Graveyard (from Defeating Captain Keeta)",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //         {
-                //             "node": "Mountain Village (from Song of Soaring)",
-                //             "alias": "Mountain Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Goht's Room",
-                //             "alias": "Goht's Room",
-                //         },
-                //         {
-                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Bottle))",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Path to Swamp)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Dampe's Room",
-                //             "alias": "Dampe's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Tourist Information)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Milk Road (from Song of Soaring)",
-                //             "alias": "Milk Road",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Woodfall)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Ikana Canyon (from Secret Shrine)",
-                //             "alias": "Ikana Canyon",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Deku Palace)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "South Clock Town (from East Clock Town north)",
-                //             "alias": "South Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Deku Palace Upper)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Green Pirate exit)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Magic Hag's Potion Shop)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Cucco Shack",
-                //             "alias": "Cucco Shack",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Woods of Mystery)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Termina Field (from Observatory)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Swamp Spider House)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Oceanside Spider House)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Ikana Canyon)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Goron Shop",
-                //             "alias": "Goron Shop",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Southern Swamp (from Song of Soaring)",
-                //             "alias": "Southern Swamp",
-                //         },
-                //         {
-                //             "node": "Inverted Stone Tower (from Inverted Stone Tower Temple)",
-                //             "alias": "Inverted Stone Tower",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woodfall (from Southern Swamp)",
-                //             "alias": "Woodfall",
-                //         },
-                //         {
-                //             "node": "Mountain Village (from Goron Graveyard)",
-                //             "alias": "Mountain Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woodfall (from Woodfall Temple)",
-                //             "alias": "Woodfall",
-                //         },
-                //         {
-                //             "node": "Clock Tower (from Pre Clock Tower)",
-                //             "alias": "Clock Tower",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woodfall (from Fairy's Fountain)",
-                //             "alias": "Woodfall",
-                //         },
-                //         {
-                //             "node": "Great Bay Gossip Stones Grotto",
-                //             "alias": "Great Bay Gossip Stones Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woodfall (from Woodfall Temple back)",
-                //             "alias": "Woodfall",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Front Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woodfall (from Song of Soaring)",
-                //             "alias": "Woodfall",
-                //         },
-                //         {
-                //             "node": "Ocean Spider House",
-                //             "alias": "Ocean Spider House",
-                //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Great Bay Trial (from Moon)",
-                //             "alias": "Great Bay Trial",
+                //             "node": "Bio Baba Grotto",
+                //             "alias": "Bio Baba Grotto",
                 //         },
                 //         {
                 //             "node": "North Clock Town (from Fairy's Fountain)",
@@ -4950,128 +3343,408 @@
                 //     ],
                 //     [
                 //         {
-                //             "node": "Great Bay Trial (from Murky Water)",
-                //             "alias": "Great Bay Trial",
+                //             "node": "Magic Bean Seller Grotto",
+                //             "alias": "Magic Bean Seller Grotto",
                 //         },
                 //         {
-                //             "node": "Trading Post",
-                //             "alias": "Trading Post",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Great Bay Temple (from Zora Cape)",
-                //             "alias": "Great Bay Temple",
-                //         },
-                //         {
-                //             "node": "Woods of Mystery",
-                //             "alias": "Woods of Mystery",
+                //             "node": "West Clock Town (from South Clock Town south)",
+                //             "alias": "West Clock Town",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Great Bay Temple (from Pirate Cutscene)",
-                //             "alias": "Great Bay Temple",
+                //             "node": "Peahat Grotto",
+                //             "alias": "Peahat Grotto",
                 //         },
                 //         {
-                //             "node": "Stone Tower (from Song of Soaring)",
-                //             "alias": "Stone Tower",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Waterfall Rapids (from Zora Cape)",
-                //             "alias": "Waterfall Rapids",
-                //         },
-                //         {
-                //             "node": "South Clock Town (from East Clock Town south)",
-                //             "alias": "South Clock Town",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Beneath the Well (from Ikana Canyon)",
-                //             "alias": "Beneath the Well",
-                //         },
-                //         {
-                //             "node": "Deku Palace Garden Back Grotto",
-                //             "alias": "Deku Palace Garden Back Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Beneath the Well (from Ancient Castle of Ikana)",
-                //             "alias": "Beneath the Well",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Deku King's Chamber)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mikau's Room (from Zora Hall)",
-                //             "alias": "Mikau's Room",
-                //         },
-                //         {
-                //             "node": "Great Bay Coast (from Termina Field)",
-                //             "alias": "Great Bay Coast",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Japas's Room (from Zora Hall)",
-                //             "alias": "Japas's Room",
-                //         },
-                //         {
-                //             "node": "Zora Cape (from Zora Hall back)",
+                //             "node": "Zora Cape (from Murky Water)",
                 //             "alias": "Zora Cape",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Lulu's Room (from Zora Hall)",
-                //             "alias": "Lulu's Room",
+                //             "node": "Lone Peak Shrine",
+                //             "alias": "Lone Peak Shrine",
                 //         },
                 //         {
-                //             "node": "Ikana Graveyard (from Dampe's Room)",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Evan's Room (from Zora Hall)",
-                //             "alias": "Evan's Room",
-                //         },
-                //         {
-                //             "node": "Stone Tower (from Ikana Canyon)",
-                //             "alias": "Stone Tower",
+                //             "node": "Southern Swamp (from Song of Soaring)",
+                //             "alias": "Southern Swamp",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Zora Shop",
-                //             "alias": "Zora Shop",
+                //             "node": "Generic Grotto (from Woods of Mystery)",
+                //             "alias": "Generic Grotto",
                 //         },
                 //         {
-                //             "node": "Great Bay Coast (from Pinnacle Rock)",
+                //             "node": "Termina Field (from Mountain Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Path to Goron Village)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Pre Clock Tower (from Clock Tower)",
+                //             "alias": "Pre Clock Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Path to Snowhead)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Bomb Shop",
+                //             "alias": "Bomb Shop",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Mountain Village)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Romani Ranch (from Romani being abducted)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Path to Ikana)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Great Bay Trial (from Murky Water)",
+                //             "alias": "Great Bay Trial",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Ghost Hut)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Purple Pirate entrance)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Musicbox House)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Milk Road (from Song of Soaring)",
+                //             "alias": "Milk Road",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Stone Tower)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Great Bay Coast (from Marine Research Lab)",
                 //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Goron Village (from Path to Goron Village)",
-                //             "alias": "Goron Village",
+                //             "node": "Ikana Canyon (from Song of Soaring)",
+                //             "alias": "Ikana Canyon",
                 //         },
                 //         {
-                //             "node": "Path to Mountain Village (from Termina Field)",
-                //             "alias": "Path to Mountain Village",
+                //             "node": "Pirates' Fortress Interior (from Hookshot Lower)",
+                //             "alias": "Pirates' Fortress Interior",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Goron Village (from Goron Shrine)",
-                //             "alias": "Goron Village",
+                //             "node": "Ikana Canyon (from Beneath the Well)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Ikana Gossip Stones Grotto",
+                //             "alias": "Ikana Gossip Stones Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Sakon's Hideout)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Fairy's Fountain (Clock Town)",
+                //             "alias": "Fairy's Fountain (Clock Town)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Clear Cutscene)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Zora Shop",
+                //             "alias": "Zora Shop",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Ancient Castle of Ikana)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Great Bay Coast (from Cow Grotto)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Spring Water Cave (from Farewell to Gibdos)",
+                //             "alias": "Spring Water Cave",
+                //         },
+                //         {
+                //             "node": "West Clock Town (from Curiosity Shop)",
+                //             "alias": "West Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Fairy Fountain)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Romani Ranch (from House)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Secret Shrine)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Woodfall (from Woodfall Temple back)",
+                //             "alias": "Woodfall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Spring Water Cave)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "Zora Hall (from Zora Cape)",
+                //             "alias": "Zora Hall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Spring Water Cave (from Ikana Canyon)",
+                //             "alias": "Spring Water Cave",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Mountain Village)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (from Twinmold)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Mayor's Residence)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Canyon (Generic Grotto)",
+                //             "alias": "Ikana Canyon (Generic Grotto)",
+                //         },
+                //         {
+                //             "node": "Snowhead (from Snowhead Temple)",
+                //             "alias": "Snowhead",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Exterior)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Ancient Castle of Ikana (from Castle Exterior)",
+                //             "alias": "Ancient Castle of Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Hookshot Lower)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from Laundry Pool)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Hookshot Upper)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Stock Pot Inn (from East Clock Town upper)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Purple Pirate entrance)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Deku Palace (from Southern Swamp)",
+                //             "alias": "Deku Palace",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Purple Pirate exit)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Milk Bar",
+                //             "alias": "Milk Bar",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Green Pirate entrance)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Curiosity Shop (from West Clock Town)",
+                //             "alias": "Curiosity Shop",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Green Pirate exit)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Snowhead Gossip Stones Grotto",
+                //             "alias": "Snowhead Gossip Stones Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Red Pirate entrance)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Path to Goron Village (from Goron Village)",
+                //             "alias": "Path to Goron Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Red Pirate exit)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from Termina Field)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Exiterior balcony)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //         {
+                //             "node": "Deku Shrine",
+                //             "alias": "Deku Shrine",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Milk Bar",
+                //             "alias": "Milk Bar",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Ancient Castle of Ikana)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stone Tower Temple",
+                //             "alias": "Stone Tower Temple",
+                //         },
+                //         {
+                //             "node": "Fisherman's Hut",
+                //             "alias": "Fisherman's Hut",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Treasure Chest Shop",
+                //             "alias": "Treasure Chest Shop",
+                //         },
+                //         {
+                //             "node": "Tourist Information",
+                //             "alias": "Tourist Information",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Inverted Stone Tower Temple",
+                //             "alias": "Inverted Stone Tower Temple",
+                //         },
+                //         {
+                //             "node": "Odolwa's Room",
+                //             "alias": "Odolwa's Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Inverted Stone Tower Temple (Boss Door)",
+                //             "alias": "Inverted Stone Tower Temple (Boss Door)",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from South Clock Town south)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Top of the Clock Tower",
+                //             "alias": "Top of the Clock Tower",
+                //         },
+                //         {
+                //             "node": "Path to Ikana (from Ikana Canyon)",
+                //             "alias": "Path to Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pre Clock Tower (from Clock Tower)",
+                //             "alias": "Pre Clock Tower",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Deku Palace)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pre Clock Tower (from Fall to Termina)",
+                //             "alias": "Pre Clock Tower",
                 //         },
                 //         {
                 //             "node": "West Clock Town (from Swordsman's School)",
@@ -5080,428 +3753,298 @@
                 //     ],
                 //     [
                 //         {
-                //             "node": "Goron Village (from Lone Peak Shrine)",
-                //             "alias": "Goron Village",
+                //             "node": "Pre Clock Tower (from Void)",
+                //             "alias": "Pre Clock Tower",
                 //         },
                 //         {
-                //             "node": "Termina Field (from West Clock Town)",
-                //             "alias": "Termina Field",
+                //             "node": "Path to Snowhead (from Generic Grotto)",
+                //             "alias": "Path to Snowhead",
                 //         },
                 //     ],
                 //     [
-                //         {
-                //             "node": "Goron Graveyard (from Mountain Village)",
-                //             "alias": "Goron Graveyard",
-                //         },
-                //         {
-                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Song of Storms))",
-                //             "alias": "Ikana Graveyard",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Sakon's Hideout",
-                //             "alias": "Sakon's Hideout",
-                //         },
-                //         {
-                //             "node": "Ranch House (from Romani Ranch)",
-                //             "alias": "Ranch House",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Village (from Mountain Smithy)",
-                //             "alias": "Mountain Village",
-                //         },
-                //         {
-                //             "node": "Milk Road (from Romani Ranch)",
-                //             "alias": "Milk Road",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Village (from Path to Goron Village)",
-                //             "alias": "Mountain Village",
-                //         },
-                //         {
-                //             "node": "Path to Ikana (from Ikana Graveyard)",
-                //             "alias": "Path to Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Village (from Goron Graveyard)",
-                //             "alias": "Mountain Village",
-                //         },
-                //         {
-                //             "node": "Great Bay Trial (from Murky Water)",
-                //             "alias": "Great Bay Trial",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Village (from Path to Snowhead)",
-                //             "alias": "Mountain Village",
-                //         },
-                //         {
-                //             "node": "Generic Grotto",
-                //             "alias": "Generic Grotto",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Village (from Path to Mountain Village)",
-                //             "alias": "Mountain Village",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Purple Pirate exit)",
-                //             "alias": "Pirates's Fortress Interior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Village (from Clear Cutscene)",
-                //             "alias": "Mountain Village",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Magic Bean Seller Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Mountain Village (from Song of Soaring)",
-                //             "alias": "Mountain Village",
-                //         },
-                //         {
-                //             "node": "Mountain Village (from Path to Snowhead)",
-                //             "alias": "Mountain Village",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Ghost Hut (from Ikana Canyon)",
-                //             "alias": "Ghost Hut",
-                //         },
-                //         {
-                //             "node": "Goht's Room",
-                //             "alias": "Goht's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Deku Shrine",
-                //             "alias": "Deku Shrine",
-                //         },
                 //         {
                 //             "node": "Woodfall Temple (from Woodfall)",
                 //             "alias": "Woodfall Temple",
                 //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Red Pirate entrance)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Path to Ikana (from Termina Field)",
-                //             "alias": "Path to Ikana",
+                //             "node": "Deku Princess' Room (from Odolwa)",
+                //             "alias": "Deku Princess' Room",
                 //         },
                 //         {
-                //             "node": "Southern Swamp (from Path to Swamp)",
+                //             "node": "Southern Swamp (from Swamp Spider House)",
                 //             "alias": "Southern Swamp",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Path to Ikana (from Ikana Graveyard)",
-                //             "alias": "Path to Ikana",
+                //             "node": "Deku Princess' Room (from Woodfall)",
+                //             "alias": "Deku Princess' Room",
                 //         },
                 //         {
-                //             "node": "Inverted Stone Tower Temple (Boss Door)",
-                //             "alias": "Inverted Stone Tower Temple (Boss Door)",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Path to Ikana (from Ikana Canyon)",
-                //             "alias": "Path to Ikana",
-                //         },
-                //         {
-                //             "node": "Goron Shrine (from Goron Village)",
-                //             "alias": "Goron Shrine",
+                //             "node": "Generic Grotto (from Path to Goron Village)",
+                //             "alias": "Generic Grotto",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Swordsman's School",
-                //             "alias": "Swordsman's School",
+                //             "node": "Path to Mountain Village (from Termina Field)",
+                //             "alias": "Path to Mountain Village",
                 //         },
                 //         {
-                //             "node": "Zora Cape (from Fairy's Fountain)",
-                //             "alias": "Zora Cape",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Music Box House",
-                //             "alias": "Music Box House",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Exterior (from Sewers Draft)",
-                //             "alias": "Pirates's Fortress Exterior",
+                //             "node": "Twinmold's Room",
+                //             "alias": "Twinmold's Room",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Igos du Ikana's Room",
-                //             "alias": "Igos du Ikana's Room",
+                //             "node": "Path to Mountain Village (from Mountain Village)",
+                //             "alias": "Path to Mountain Village",
                 //         },
                 //         {
-                //             "node": "Pirates's Fortress Exterior (from Interior caught)",
-                //             "alias": "Pirates's Fortress Exterior",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Tourist Information",
-                //             "alias": "Tourist Information",
-                //         },
-                //         {
-                //             "node": "Deku Palace Garden Front Grotto",
-                //             "alias": "Deku Palace Garden Front Grotto",
+                //             "node": "Ancient Castle of Ikana (from Ikana Canyon)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Stone Tower (from Ikana Canyon)",
-                //             "alias": "Stone Tower",
+                //             "node": "Ancient Castle of Ikana (from Beneath the Well)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //         {
-                //             "node": "Inverted Stone Tower (from Inverting)",
-                //             "alias": "Inverted Stone Tower",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Stone Tower (from Un-inverting)",
-                //             "alias": "Stone Tower",
-                //         },
-                //         {
-                //             "node": "Pirates's Fortress Interior (from Red Pirate entrance)",
-                //             "alias": "Pirates's Fortress Interior",
+                //             "node": "Inverted Stone Tower Temple",
+                //             "alias": "Inverted Stone Tower Temple",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Stone Tower (from Stone Tower Temple)",
-                //             "alias": "Stone Tower",
+                //             "node": "Ancient Castle of Ikana (from Ikana Canyon)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //         {
-                //             "node": "Termina Field (from Milk Road)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Stone Tower (from Song of Soaring)",
-                //             "alias": "Stone Tower",
-                //         },
-                //         {
-                //             "node": "Woodfall (from Southern Swamp)",
-                //             "alias": "Woodfall",
+                //             "node": "Woodfall Trial (from Moon)",
+                //             "alias": "Woodfall Trial",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Inverted Stone Tower (from Inverting)",
-                //             "alias": "Inverted Stone Tower",
+                //             "node": "Ancient Castle of Ikana (from Castle Interior)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //         {
-                //             "node": "Spring Water Cave (from Ikana Canyon)",
-                //             "alias": "Spring Water Cave",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Inverted Stone Tower (from Inverted Stone Tower Temple)",
-                //             "alias": "Inverted Stone Tower",
-                //         },
-                //         {
-                //             "node": "West Clock Town (from Termina Field)",
-                //             "alias": "West Clock Town",
+                //             "node": "Deku Palace (from being thrown out)",
+                //             "alias": "Deku Palace",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Path to Snowhead (from Mountain Village)",
-                //             "alias": "Path to Snowhead",
+                //             "node": "Ancient Castle of Ikana (from Castle Exterior)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //         {
-                //             "node": "Termina Field (from South Clock Town)",
-                //             "alias": "Termina Field",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Path to Snowhead (from Snowhead)",
-                //             "alias": "Path to Snowhead",
-                //         },
-                //         {
-                //             "node": "Zora Hall (from Zora Cape back)",
-                //             "alias": "Zora Hall",
+                //             "node": "Clock Tower (from Moon Crash)",
+                //             "alias": "Clock Tower",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Snowhead (from Path to Snowhead/Void)",
-                //             "alias": "Snowhead",
+                //             "node": "Ancient Castle of Ikana (from Keg Hole)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //         {
-                //             "node": "Woodfall (from Woodfall Temple)",
-                //             "alias": "Woodfall",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Snowhead (from Snowhead Temple)",
-                //             "alias": "Snowhead",
-                //         },
-                //         {
-                //             "node": "Romani Ranch (from Cucco Shack)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Snowhead (from Fairy's Fountain)",
-                //             "alias": "Snowhead",
-                //         },
-                //         {
-                //             "node": "North Clock Town (from Catching all Bombers)",
+                //             "node": "North Clock Town (from Termina Field)",
                 //             "alias": "North Clock Town",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Snowhead (from Song of Soaring)",
-                //             "alias": "Snowhead",
+                //             "node": "Ancient Castle of Ikana (from Hole under Block)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //         {
-                //             "node": "On the Moon",
-                //             "alias": "On the Moon",
+                //             "node": "Goron Racetrack (from Path to Goron Village)",
+                //             "alias": "Goron Racetrack",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Path to Goron Village (from Mountain Village)",
-                //             "alias": "Path to Goron Village",
+                //             "node": "Ancient Castle of Ikana (from Igo's Room)",
+                //             "alias": "Ancient Castle of Ikana",
                 //         },
                 //         {
-                //             "node": "Ikana Graveyard (from Defeating Captain Keeta)",
-                //             "alias": "Ikana Graveyard",
+                //             "node": "Termina Field (from Grass Generic Grotto)",
+                //             "alias": "Termina Field",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Path to Goron Village (from Goron Village)",
-                //             "alias": "Path to Goron Village",
+                //             "node": "Deku Playground",
+                //             "alias": "Deku Playground",
                 //         },
                 //         {
-                //             "node": "Great Bay Temple (from Pirate Cutscene)",
-                //             "alias": "Great Bay Temple",
+                //             "node": "Great Bay Coast (from Song of Soaring)",
+                //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Path to Goron Village (from Goron Racetrack)",
-                //             "alias": "Path to Goron Village",
+                //             "node": "Odolwa's Room",
+                //             "alias": "Odolwa's Room",
                 //         },
+                //         {
+                //             "node": "Great Bay Coast (from Murky Water Right)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Shooting Gallery (Clock Town)",
+                //             "alias": "Shooting Gallery (Clock Town)",
+                //         },
+                //         {
+                //             "node": "Zora Hall (from Zora Shop)",
+                //             "alias": "Zora Hall",
+                //         },
+                //     ],
+                //     [
                 //         {
                 //             "node": "Snowhead Temple",
                 //             "alias": "Snowhead Temple",
                 //         },
+                //         {
+                //             "node": "Great Bay Coast (from Oceanside Spider House)",
+                //             "alias": "Great Bay Coast",
+                //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Gyorg's Room",
-                //             "alias": "Gyorg's Room",
+                //             "node": "Milk Road (from Termina Field)",
+                //             "alias": "Milk Road",
                 //         },
                 //         {
-                //             "node": "Mayor's Residence (from East Clock Town)",
+                //             "node": "Snowhead Trial (from Moon)",
+                //             "alias": "Snowhead Trial",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Milk Road (from Romani Ranch)",
+                //             "alias": "Milk Road",
+                //         },
+                //         {
+                //             "node": "Goron Shop",
+                //             "alias": "Goron Shop",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Milk Road (from Gorman Track back)",
+                //             "alias": "Milk Road",
+                //         },
+                //         {
+                //             "node": "Japas' Room (from Jam Session)",
+                //             "alias": "Japas' Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Milk Road (from Gorman Track)",
+                //             "alias": "Milk Road",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from East Clock Town north)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Milk Road (from Song of Soaring)",
+                //             "alias": "Milk Road",
+                //         },
+                //         {
+                //             "node": "Mayor's Residence (from East Clock Town) ",
                 //             "alias": "Mayor's Residence",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Secret Shrine",
-                //             "alias": "Secret Shrine",
+                //             "node": "Pirates' Fortress Rooms (Hookshot Lower)",
+                //             "alias": "Pirates' Fortress Rooms (Hookshot Lower)",
                 //         },
-                //         {
-                //             "node": "Snowhead (from Snowhead Temple)",
-                //             "alias": "Snowhead",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Stock Pot Inn (from East Clock Town)",
-                //             "alias": "Stock Pot Inn",
-                //         },
-                //         {
-                //             "node": "Deku Palace (from Deku Palace Garden Back Grotto)",
-                //             "alias": "Deku Palace",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Stock Pot Inn (from East Clock Town upper)",
-                //             "alias": "Stock Pot Inn",
-                //         },
-                //         {
-                //             "node": "Igos du Ikana's Room",
-                //             "alias": "Igos du Ikana's Room",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Stock Pot Inn (from Midnight Meeting)",
-                //             "alias": "Stock Pot Inn",
-                //         },
-                //         {
-                //             "node": "East Clock Town (from Milk Bar)",
-                //             "alias": "East Clock Town",
-                //         },
-                //     ],
-                //     [
                 //         {
                 //             "node": "Clock Tower (from Pre Clock Tower)",
                 //             "alias": "Clock Tower",
                 //         },
+                //     ],
+                //     [
                 //         {
-                //             "node": "Secret Shrine",
-                //             "alias": "Secret Shrine",
+                //             "node": "Pirates' Fortress Rooms (Hookshot Upper)",
+                //             "alias": "Pirates' Fortress Rooms (Hookshot Upper)",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Woodfall)",
+                //             "alias": "Southern Swamp",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Clock Tower (from South Clock Town)",
-                //             "alias": "Clock Tower",
+                //             "node": "Pirates' Fortress Rooms (Purple Pirate entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Purple Pirate entrance)",
                 //         },
                 //         {
-                //             "node": "Path to Ikana (from Ikana Canyon)",
-                //             "alias": "Path to Ikana",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "Woods of Mystery",
-                //             "alias": "Woods of Mystery",
-                //         },
-                //         {
-                //             "node": "Deku Playground",
-                //             "alias": "Deku Playground",
+                //             "node": "Ikana Canyon (from Ghost Hut)",
+                //             "alias": "Ikana Canyon",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Stone Tower Trial (from Moon)",
-                //             "alias": "Stone Tower Trial",
+                //             "node": "Pirates' Fortress Rooms (Purple Pirate exit)",
+                //             "alias": "Pirates' Fortress Rooms (Purple Pirate exit)",
+                //         },
+                //         {
+                //             "node": "Snowhead Temple",
+                //             "alias": "Snowhead Temple",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Green Pirate entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Green Pirate entrance)",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Path to Snowhead)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Green Pirate exit)",
+                //             "alias": "Pirates' Fortress Rooms (Green Pirate exit)",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from North Clock Town)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Red Pirate entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Red Pirate entrance)",
+                //         },
+                //         {
+                //             "node": "West Clock Town (from Termina Field)",
+                //             "alias": "West Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Red Pirate exit)",
+                //             "alias": "Pirates' Fortress Rooms (Red Pirate exit)",
                 //         },
                 //         {
                 //             "node": "Mountain Smithy",
@@ -5510,38 +4053,1788 @@
                 //     ],
                 //     [
                 //         {
-                //             "node": "On the Moon",
-                //             "alias": "On the Moon",
+                //             "node": "Pirates' Fortress Rooms (Sewers entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Sewers entrance)",
                 //         },
                 //         {
-                //             "node": "Zora Hall (from Zora Shop)",
-                //             "alias": "Zora Hall",
+                //             "node": "Dodongo Grotto",
+                //             "alias": "Dodongo Grotto",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Gorman Racetrack (from Milk Road)",
-                //             "alias": "Gorman Racetrack",
+                //             "node": "Pirates' Fortress Rooms (Sewers exit)",
+                //             "alias": "Pirates' Fortress Rooms (Sewers exit)",
                 //         },
                 //         {
-                //             "node": "Great Bay Coast (from Murky Water Right)",
+                //             "node": "Southern Swamp (from Magic Hag's Potion Shop)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Shooting Gallery (Swamp)",
+                //             "alias": "Shooting Gallery (Swamp)",
+                //         },
+                //         {
+                //             "node": "North Clock Town (from Bombers Hide and Seek)",
+                //             "alias": "North Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pinnacle Rock",
+                //             "alias": "Pinnacle Rock",
+                //         },
+                //         {
+                //             "node": "Goron Village (from Goron Shrine)",
+                //             "alias": "Goron Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pinnacle Rock (Void)",
+                //             "alias": "Pinnacle Rock (Void)",
+                //         },
+                //         {
+                //             "node": "Swamp Gossip Stones Grotto",
+                //             "alias": "Swamp Gossip Stones Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Fairy's Fountain (Clock Town)",
+                //             "alias": "Fairy's Fountain (Clock Town)",
+                //         },
+                //         {
+                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Song of Storms))",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Fairy's Fountain (Woodfall)",
+                //             "alias": "Fairy's Fountain (Woodfall)",
+                //         },
+                //         {
+                //             "node": "Great Bay Coast (from Termina Field)",
                 //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Gorman Racetrack (from Milk Road west)",
-                //             "alias": "Gorman Racetrack",
+                //             "node": "Fairy's Fountain (Snowhead)",
+                //             "alias": "Fairy's Fountain (Snowhead)",
                 //         },
                 //         {
-                //             "node": "Zora Hall (from Japas's Room)",
+                //             "node": "Stone Tower Temple",
+                //             "alias": "Stone Tower Temple",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Fairy's Fountain (Great Bay)",
+                //             "alias": "Fairy's Fountain (Great Bay)",
+                //         },
+                //         {
+                //             "node": "Ocean Spider House",
+                //             "alias": "Ocean Spider House",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Fairy's Fountain (Ikana)",
+                //             "alias": "Fairy's Fountain (Ikana)",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Red Pirate exit)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Swamp Spider House",
+                //             "alias": "Swamp Spider House",
+                //         },
+                //         {
+                //             "node": "Music Box House",
+                //             "alias": "Music Box House",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ocean Spider House",
+                //             "alias": "Ocean Spider House",
+                //         },
+                //         {
+                //             "node": "Ranch Barn (from Romani Ranch)",
+                //             "alias": "Ranch Barn",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Bombers' Hideout",
+                //             "alias": "Bombers' Hideout",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Pillar Generic Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Observatory (from Termina Field)",
+                //             "alias": "Observatory",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Hookshot Lower)",
+                //             "alias": "Pirates' Fortress Rooms (Hookshot Lower)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woodfall Trial (from Moon)",
+                //             "alias": "Woodfall Trial",
+                //         },
+                //         {
+                //             "node": "Swordsman's School",
+                //             "alias": "Swordsman's School",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Palace (from Southern Swamp)",
+                //             "alias": "Deku Palace",
+                //         },
+                //         {
+                //             "node": "Laundry Pool (from South Clock Town)",
+                //             "alias": "Laundry Pool",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Palace (from being thrown out)",
+                //             "alias": "Deku Palace",
+                //         },
+                //         {
+                //             "node": "North Clock Town (from East Clock Town)",
+                //             "alias": "North Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Palace (from Deku King's Chamber)",
+                //             "alias": "Deku Palace",
+                //         },
+                //         {
+                //             "node": "Magic Bean Seller Grotto",
+                //             "alias": "Magic Bean Seller Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Palace (from Monkey cage)",
+                //             "alias": "Deku Palace",
+                //         },
+                //         {
+                //             "node": "North Clock Town (from South Clock Town)",
+                //             "alias": "North Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Palace (from Deku Shrine)",
+                //             "alias": "Deku Palace",
+                //         },
+                //         {
+                //             "node": "Clock Tower (from Deku Mask)",
+                //             "alias": "Clock Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Palace (from Swamp Shortcut)",
+                //             "alias": "Deku Palace",
+                //         },
+                //         {
+                //             "node": "Ancient Castle of Ikana (from Castle Interior)",
+                //             "alias": "Ancient Castle of Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Palace (from Magic Bean Seller Grotto)",
+                //             "alias": "Deku Palace",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Great Bay Coast)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Smithy",
+                //             "alias": "Mountain Smithy",
+                //         },
+                //         {
+                //             "node": "Deku King's Chamber (from Returning Deku Princess)",
+                //             "alias": "Deku King's Chamber",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from West Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Goron Graveyard (from Mountain Village)",
+                //             "alias": "Goron Graveyard",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Path to Southern Swamp)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Green Pirate entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Green Pirate entrance)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Great Bay Coast)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Green Pirate entrance)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Path to Mountain Village)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Beneath the Graveyard (Bottle)",
+                //             "alias": "Beneath the Graveyard (Bottle)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Path to Ikana Canyon)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Stone Tower)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Milk Road)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Deku Princess' Room (from Woodfall)",
+                //             "alias": "Deku Princess' Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from South Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Goht's Room",
+                //             "alias": "Goht's Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from East Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Secret Shrine",
+                //             "alias": "Secret Shrine",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from North Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Interior)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Observatory)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Hotspring Water Grotto",
+                //             "alias": "Hotspring Water Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Cow Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Mountain Village (from Path to Mountain Village)",
+                //             "alias": "Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Milk Road with Cremia)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Great Bay Gossip Stones Grotto",
+                //             "alias": "Great Bay Gossip Stones Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Skull Kid Cutscene)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from West Clock Town north)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Grass Generic Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Ikana Canyon)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Pillar Generic Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Milk Road)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Business Scrub Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Stock Pot Inn (from Mother Conversation)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Peahat Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Peahat Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Dodongo Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Termina Field (from North Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Biobaba Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Woodfall (from Woodfall Temple)",
+                //             "alias": "Woodfall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Swamp Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Tourist Information (from Boat Cruise Picture)",
+                //             "alias": "Tourist Information",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Mountain Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from West Clock Town south)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Termina Field (from Ocean Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Zora Hall (from Mikau's Room)",
                 //             "alias": "Zora Hall",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "Goron Racetrack (from Path to Goron Village)",
-                //             "alias": "Goron Racetrack",
+                //             "node": "Termina Field (from Canyon Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Secret Shrine)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Post Office",
+                //             "alias": "Post Office",
+                //         },
+                //         {
+                //             "node": "Lone Peak Shrine",
+                //             "alias": "Lone Peak Shrine",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Marine Research Lab",
+                //             "alias": "Marine Research Lab",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Woods of Mystery)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Beneath the Graveyard (Bottle)",
+                //             "alias": "Beneath the Graveyard (Bottle)",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Zora Hall back)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Beneath the Graveyard (Dampe's Room)",
+                //             "alias": "Beneath the Graveyard (Dampe's Room)",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Water Tunnel)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Great Bay Coast)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Green Pirate exit)",
+                //             "alias": "Pirates' Fortress Rooms (Green Pirate exit)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Cow Grotto (from Great Bay Coast)",
+                //             "alias": "Cow Grotto",
+                //         },
+                //         {
+                //             "node": "West Clock Town (from Trading Post)",
+                //             "alias": "West Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Shrine (from Goron Village)",
+                //             "alias": "Goron Shrine",
+                //         },
+                //         {
+                //             "node": "Path to Mountain Village (from Termina Field)",
+                //             "alias": "Path to Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Shrine (from Goron Shop)",
+                //             "alias": "Goron Shrine",
+                //         },
+                //         {
+                //             "node": "Deku Palace (from Magic Bean Seller Grotto)",
+                //             "alias": "Deku Palace",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Shrine (from Goron Lullaby)",
+                //             "alias": "Goron Shrine",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Shooting Gallery)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Zora Cape)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Romani Ranch (from Cucco Shack)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Zora Cape back)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Stone Tower (from Stone Tower Temple)",
+                //             "alias": "Stone Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Zora Shop)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Skull Kid Cutscene)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Lulu's Room)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Fairy's Fountain (Woodfall)",
+                //             "alias": "Fairy's Fountain (Woodfall)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Evan's Room)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Top of the Clock Tower",
+                //             "alias": "Top of the Clock Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Japas' Room)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Stock Pot Inn)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Mikau's Room)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Path to the Swamp (from Shooting Gallery)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Band Rehearsal)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Termina Field (from South Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Trading Post",
+                //             "alias": "Trading Post",
+                //         },
+                //         {
+                //             "node": "Zora Hall (from Evan's Room)",
+                //             "alias": "Zora Hall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from Milk Road)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "Doggy Racetrack",
+                //             "alias": "Doggy Racetrack",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from Barn)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "Fairy's Fountain (Snowhead)",
+                //             "alias": "Fairy's Fountain (Snowhead)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from House)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Sewers entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Sewers entrance)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from Cucco Shack)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "Stone Tower (from Ikana Canyon)",
+                //             "alias": "Stone Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from Doggy Racetrack)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "Milk Road (from Termina Field)",
+                //             "alias": "Milk Road",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from Receiving Milk Bottle)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "West Clock Town (from Bomb Shop)",
+                //             "alias": "West Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from Failing Cart Ride)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "West Clock Town (from Lottery Shop)",
+                //             "alias": "West Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Romani Ranch (from Romani being abducted)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //         {
+                //             "node": "Gorman Racetrack (from Milk Road west)",
+                //             "alias": "Gorman Racetrack",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Twinmold's Room",
+                //             "alias": "Twinmold's Room",
+                //         },
+                //         {
+                //             "node": "Inverted Stone Tower Temple (Boss Door)",
+                //             "alias": "Inverted Stone Tower Temple (Boss Door)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Termina Field)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Exterior)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Zora Cape)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Path to Goron Village (from Mountain Village)",
+                //             "alias": "Path to Goron Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Murky Water Left)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Path to Southern Swamp)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Pinnacle Rock)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Gyorg) (2)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Fisherman's Hut)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Cow Grotto (from Termina Field)",
+                //             "alias": "Cow Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Pirates' Fortress)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (Generic Grotto)",
+                //             "alias": "Ikana Canyon (Generic Grotto)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Murky Water Right)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Fairy's Fountain (Great Bay)",
+                //             "alias": "Fairy's Fountain (Great Bay)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Marine Research Lab)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Ranch House (from Romani Ranch)",
+                //             "alias": "Ranch House",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Oceanside Spider House)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Mountain Village (from Goht)",
+                //             "alias": "Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Zora Mask Cutscene)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Path to the Swamp (from Generic Grotto)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Song of Soaring)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Treasure Chest Shop",
+                //             "alias": "Treasure Chest Shop",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Pirates' Fortress caught)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Deku Palace Upper)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Generic Grotto)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Honey & Darling)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Coast (from Cow Grotto)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Bomber's Hideout)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Great Bay Coast)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Termina Field (from West Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Zora Hall)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Cow Grotto (from Great Bay Coast)",
+                //             "alias": "Cow Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Zora Hall back)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Ancient Castle of Ikana (from Keg Hole)",
+                //             "alias": "Ancient Castle of Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Murky Water)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Purple Pirate exit)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Waterfall Rapids)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Lulu's Room (from Zora Hall)",
+                //             "alias": "Lulu's Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Fairy's Fountain)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Woodfall (from Song of Soaring)",
+                //             "alias": "Woodfall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Song of Soaring)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Peahat Grotto",
+                //             "alias": "Peahat Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Great Bay Temple)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Termina Field)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Gyorg)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Song of Soaring)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Gyorg) (2)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Beneath the Well)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Cape (from Generic Grotto)",
+                //             "alias": "Zora Cape",
+                //         },
+                //         {
+                //             "node": "Deku Playground",
+                //             "alias": "Deku Playground",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Lottery Shop",
+                //             "alias": "Lottery Shop",
+                //         },
+                //         {
+                //             "node": "West Clock Town (from Post Office)",
+                //             "alias": "West Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Zora Cape)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Termina Field (from East Clock Town)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Great Bay Coast)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //         {
+                //             "node": "Inverted Stone Tower (from Inverting)",
+                //             "alias": "Inverted Stone Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Interior)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //         {
+                //             "node": "Stone Tower Trial (from Moon)",
+                //             "alias": "Stone Tower Trial",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Water Tunnel)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //         {
+                //             "node": "Snowhead (from Song of Soaring)",
+                //             "alias": "Snowhead",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Sewers Draft)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Gyorg)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Interior Thrown Out)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //         {
+                //             "node": "Deku Princess' Room (from Odolwa)",
+                //             "alias": "Deku Princess' Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Interior Balcony)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //         {
+                //             "node": "Deku Palace (from Swamp Shortcut)",
+                //             "alias": "Deku Palace",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Telescope)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //         {
+                //             "node": "Shooting Gallery (Swamp)",
+                //             "alias": "Shooting Gallery (Swamp)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Fisherman's Hut",
+                //             "alias": "Fisherman's Hut",
+                //         },
+                //         {
+                //             "node": "Mountain Village (from Path to Snowhead)",
+                //             "alias": "Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Shop",
+                //             "alias": "Goron Shop",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Termina Field Pillar)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku King's Chamber (from Deku Palace)",
+                //             "alias": "Deku King's Chamber",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Hookshot Upper)",
+                //             "alias": "Pirates' Fortress Rooms (Hookshot Upper)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku King's Chamber (from Deku Palace upper)",
+                //             "alias": "Deku King's Chamber",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Fairy Fountain)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku King's Chamber (from Returning Deku Princess)",
+                //             "alias": "Deku King's Chamber",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Tourist Information)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Snowhead Trial (from Moon)",
+                //             "alias": "Snowhead Trial",
+                //         },
+                //         {
+                //             "node": "Ancient Castle of Ikana (from Beneath the Well)",
+                //             "alias": "Ancient Castle of Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to the Swamp (from Termina Field)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Path to Ikana Canyon)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to the Swamp (from Southern Swamp)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Southern Swamp)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to the Swamp (from Shooting Gallery)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Swamp Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to the Swamp (from Generic Grotto)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Woods of Mystery)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Doggy Racetrack",
+                //             "alias": "Doggy Racetrack",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Milk Bar)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Cucco Shack",
+                //             "alias": "Cucco Shack",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from North Clock Town)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Graveyard (from Path to Ikana)",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //         {
+                //             "node": "Pre Clock Tower (from Fall to Termina)",
+                //             "alias": "Pre Clock Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Bottle))",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //         {
+                //             "node": "Great Bay Trial (from Moon)",
+                //             "alias": "Great Bay Trial",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Heart Piece))",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Path to the Swamp)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Song of Storms))",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //         {
+                //             "node": "Ancient Castle of Ikana (from Igo's Room)",
+                //             "alias": "Ancient Castle of Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Graveyard (from Dampe's Room)",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //         {
+                //             "node": "Path to the Swamp (from Southern Swamp)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ikana Graveyard (from Generic Grotto)",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Zora Hall)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goht's Room",
+                //             "alias": "Goht's Room",
+                //         },
+                //         {
+                //             "node": "Path to Snowhead (from Mountain Village)",
+                //             "alias": "Path to Snowhead",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Path to Swamp)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Observatory)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Tourist Information)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Zora Hall (from Lulu's Room)",
+                //             "alias": "Zora Hall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Woodfall)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Stock Pot Inn (from Midnight Meeting)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Deku Palace)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Telescope)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Deku Palace Upper)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Deku Palace (from Monkey cage)",
+                //             "alias": "Deku Palace",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Magic Hag's Potion Shop)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Business Scrub Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Woods of Mystery)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Woodfall Temple (from Woodfall)",
+                //             "alias": "Woodfall Temple",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Swamp Spider House)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Back Room (from Laundry Pool)",
+                //             "alias": "Back Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Ikana Canyon)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Spring Water Cave (from Ikana Canyon)",
+                //             "alias": "Spring Water Cave",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Song of Soaring)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Ocean Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Southern Swamp (from Generic Grotto)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Sakon's Hideout)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woodfall (from Southern Swamp)",
+                //             "alias": "Woodfall",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from Song of Soaring)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woodfall (from Woodfall Temple)",
+                //             "alias": "Woodfall",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from South Clock Town north)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woodfall (from Fairy's Fountain)",
+                //             "alias": "Woodfall",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Path to Swamp)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woodfall (from Woodfall Temple back)",
+                //             "alias": "Woodfall",
+                //         },
+                //         {
+                //             "node": "Ikana Graveyard (from Generic Grotto)",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woodfall (from Song of Soaring)",
+                //             "alias": "Woodfall",
+                //         },
+                //         {
+                //             "node": "Inverted Stone Tower (from Inverted Stone Tower Temple)",
+                //             "alias": "Inverted Stone Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Trial (from Moon)",
+                //             "alias": "Great Bay Trial",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Termina Field Grass)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Trial (from Murky Water)",
+                //             "alias": "Great Bay Trial",
+                //         },
+                //         {
+                //             "node": "Swamp Spider House",
+                //             "alias": "Swamp Spider House",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Great Bay Temple (from Zora Cape)",
+                //             "alias": "Great Bay Temple",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Green Pirate exit)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Waterfall Rapids (from Zora Cape)",
+                //             "alias": "Waterfall Rapids",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Fairy's Fountain)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Beneath the Well (from Ikana Canyon)",
+                //             "alias": "Beneath the Well",
+                //         },
+                //         {
+                //             "node": "Lottery Shop",
+                //             "alias": "Lottery Shop",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Beneath the Well (from Ancient Castle of Ikana)",
+                //             "alias": "Beneath the Well",
+                //         },
+                //         {
+                //             "node": "Goron Village (from Lone Peak Shrine)",
+                //             "alias": "Goron Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mikau's Room (from Zora Hall)",
+                //             "alias": "Mikau's Room",
+                //         },
+                //         {
+                //             "node": "Pinnacle Rock",
+                //             "alias": "Pinnacle Rock",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Japas' Room (from Zora Hall)",
+                //             "alias": "Japas' Room",
+                //         },
+                //         {
+                //             "node": "Romani Ranch (from Doggy Racetrack)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Lulu's Room (from Zora Hall)",
+                //             "alias": "Lulu's Room",
+                //         },
+                //         {
+                //             "node": "Laundry Pool (from Back Room)",
+                //             "alias": "Laundry Pool",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Evan's Room (from Zora Hall)",
+                //             "alias": "Evan's Room",
+                //         },
+                //         {
+                //             "node": "Majora's Room",
+                //             "alias": "Majora's Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Japas' Room (from Jam Session)",
+                //             "alias": "Japas' Room",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Generic Grotto)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Shop",
+                //             "alias": "Zora Shop",
+                //         },
+                //         {
+                //             "node": "Woods of Mystery",
+                //             "alias": "Woods of Mystery",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Village (from Path to Goron Village)",
+                //             "alias": "Goron Village",
+                //         },
+                //         {
+                //             "node": "Romani Ranch (from Milk Road)",
+                //             "alias": "Romani Ranch",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Village (from Goron Shrine)",
+                //             "alias": "Goron Village",
+                //         },
+                //         {
+                //             "node": "East Clock Town (from Stokc Pot Inn upper)",
+                //             "alias": "East Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Village (from Lone Peak Shrine)",
+                //             "alias": "Goron Village",
+                //         },
+                //         {
+                //             "node": "Path to the Swamp (from Termina Field)",
+                //             "alias": "Path to the Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Graveyard (from Mountain Village)",
+                //             "alias": "Goron Graveyard",
+                //         },
+                //         {
+                //             "node": "Observatory (from Termina Field)",
+                //             "alias": "Observatory",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Sakon's Hideout",
+                //             "alias": "Sakon's Hideout",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Red Pirate exit)",
+                //             "alias": "Pirates' Fortress Rooms (Red Pirate exit)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Mountain Smithy)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "Pinnacle Rock (Void)",
+                //             "alias": "Pinnacle Rock (Void)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Path to Goron Village)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "Path to Mountain Village (from Mountain Village)",
+                //             "alias": "Path to Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Goron Graveyard)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "Woodfall (from Southern Swamp)",
+                //             "alias": "Woodfall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Path to Snowhead)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Red Pirate entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Red Pirate entrance)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Generic Grotto)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "South Clock Town (from East Clock Town south)",
+                //             "alias": "South Clock Town",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Path to Mountain Village)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "Ikana Graveyard (from Dampe's Room)",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Goht)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "Sakon's Hideout",
+                //             "alias": "Sakon's Hideout",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Mountain Village (from Song of Soaring)",
+                //             "alias": "Mountain Village",
+                //         },
+                //         {
+                //             "node": "Clock Tower (from South Clock Town)",
+                //             "alias": "Clock Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Ghost Hut (from Ikana Canyon)",
+                //             "alias": "Ghost Hut",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Path to Mountain Village)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Deku Shrine",
+                //             "alias": "Deku Shrine",
+                //         },
+                //         {
+                //             "node": "Bio Baba Grotto",
+                //             "alias": "Bio Baba Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Ikana (from Termina Field)",
+                //             "alias": "Path to Ikana",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Biobaba Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Ikana (from Ikana Graveyard)",
+                //             "alias": "Path to Ikana",
+                //         },
+                //         {
+                //             "node": "Stock Pot Inn (from East Clock Town)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Ikana (from Ikana Canyon)",
+                //             "alias": "Path to Ikana",
+                //         },
+                //         {
+                //             "node": "Japas' Room (from Zora Hall)",
+                //             "alias": "Japas' Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Ikana (from Generic Grotto)",
+                //             "alias": "Path to Ikana",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Canyon Gossips Grotto)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Swordsman's School",
+                //             "alias": "Swordsman's School",
+                //         },
+                //         {
+                //             "node": "Bombers' Hideout",
+                //             "alias": "Bombers' Hideout",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Music Box House",
+                //             "alias": "Music Box House",
+                //         },
+                //         {
+                //             "node": "Great Bay Coast (from Fisherman's Hut)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Igos du Ikana's Room",
+                //             "alias": "Igos du Ikana's Room",
+                //         },
+                //         {
+                //             "node": "Mountain Village (from Mountain Smithy)",
+                //             "alias": "Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Tourist Information",
+                //             "alias": "Tourist Information",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Waterfall Rapids)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Tourist Information (from Boat Cruise Picture)",
+                //             "alias": "Tourist Information",
+                //         },
+                //         {
+                //             "node": "Beneath the Graveyard (Heart Piece)",
+                //             "alias": "Beneath the Graveyard (Heart Piece)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stone Tower (from Ikana Canyon)",
+                //             "alias": "Stone Tower",
                 //         },
                 //         {
                 //             "node": "Deku King's Chamber (from Deku Palace)",
@@ -5550,27 +5843,387 @@
                 //     ],
                 //     [
                 //         {
-                //             "node": "East Clock Town (from Termina Field)",
-                //             "alias": "East Clock Town",
+                //             "node": "Stone Tower (from Un-inverting)",
+                //             "alias": "Stone Tower",
                 //         },
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Hookshot Lower)",
-                //             "alias": "Pirates's Fortress Rooms (Hookshot Lower)",
+                //             "node": "Deku King's Chamber (from Deku Palace upper)",
+                //             "alias": "Deku King's Chamber",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "East Clock Town (from South Clock Towe south)",
-                //             "alias": "East Clock Town",
+                //             "node": "Stone Tower (from Stone Tower Temple)",
+                //             "alias": "Stone Tower",
                 //         },
                 //         {
-                //             "node": "Romani Ranch (from House)",
+                //             "node": "Mountain Village (from Song of Soaring)",
+                //             "alias": "Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stone Tower (from Song of Soaring)",
+                //             "alias": "Stone Tower",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Path to Ikana Canyon)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Inverted Stone Tower (from Inverting)",
+                //             "alias": "Inverted Stone Tower",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Zora Cape)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Inverted Stone Tower (from Inverted Stone Tower Temple)",
+                //             "alias": "Inverted Stone Tower",
+                //         },
+                //         {
+                //             "node": "Beneath the Graveyard (Dampe's Room)",
+                //             "alias": "Beneath the Graveyard (Dampe's Room)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Snowhead (from Mountain Village)",
+                //             "alias": "Path to Snowhead",
+                //         },
+                //         {
+                //             "node": "Woodfall (from Fairy's Fountain)",
+                //             "alias": "Woodfall",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Snowhead (from Snowhead)",
+                //             "alias": "Path to Snowhead",
+                //         },
+                //         {
+                //             "node": "Romani Ranch (from Barn)",
                 //             "alias": "Romani Ranch",
                 //         },
                 //     ],
                 //     [
                 //         {
-                //             "node": "East Clock Town (from Bombers's Hideout)",
+                //             "node": "Path to Snowhead (from Generic Grotto)",
+                //             "alias": "Path to Snowhead",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Song of Soaring)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Snowhead (from Path to Snowhead/Void)",
+                //             "alias": "Snowhead",
+                //         },
+                //         {
+                //             "node": "Ikana Graveyard (from Beneath the Graveyard (Bottle))",
+                //             "alias": "Ikana Graveyard",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Snowhead (from Snowhead Temple)",
+                //             "alias": "Snowhead",
+                //         },
+                //         {
+                //             "node": "Goron Shrine (from Goron Lullaby)",
+                //             "alias": "Goron Shrine",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Snowhead (from Fairy's Fountain)",
+                //             "alias": "Snowhead",
+                //         },
+                //         {
+                //             "node": "Path to Ikana (from Termina Field)",
+                //             "alias": "Path to Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Snowhead (from Song of Soaring)",
+                //             "alias": "Snowhead",
+                //         },
+                //         {
+                //             "node": "Woods of Mystery (from Generic Grotto)",
+                //             "alias": "Woods of Mystery",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Goron Village (from Mountain Village)",
+                //             "alias": "Path to Goron Village",
+                //         },
+                //         {
+                //             "node": "Great Bay Coast (from Pirates' Fortress)",
+                //             "alias": "Great Bay Coast",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Goron Village (from Goron Village)",
+                //             "alias": "Path to Goron Village",
+                //         },
+                //         {
+                //             "node": "Magic Hag's Potion Shop (from Southern Swamp)",
+                //             "alias": "Magic Hag's Potion Shop",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Goron Village (from Goron Racetrack)",
+                //             "alias": "Path to Goron Village",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Generic Grotto)",
+                //             "alias": "Zora Cape",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Goron Village (from Generic Grotto)",
+                //             "alias": "Path to Goron Village",
+                //         },
+                //         {
+                //             "node": "Path to Snowhead (from Snowhead)",
+                //             "alias": "Path to Snowhead",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Path to Goron Village (from Hotspring Grotto)",
+                //             "alias": "Path to Goron Village",
+                //         },
+                //         {
+                //             "node": "Evan's Room (from Zora Hall)",
+                //             "alias": "Evan's Room",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Gyorg's Room",
+                //             "alias": "Gyorg's Room",
+                //         },
+                //         {
+                //             "node": "Ghost Hut (from Ikana Canyon)",
+                //             "alias": "Ghost Hut",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Secret Shrine",
+                //             "alias": "Secret Shrine",
+                //         },
+                //         {
+                //             "node": "Southern Swamp (from Ikana Canyon)",
+                //             "alias": "Southern Swamp",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stock Pot Inn (from East Clock Town)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //         {
+                //             "node": "Generic Grotto (from Great Bay Coast)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stock Pot Inn (from East Clock Town upper)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Purple Pirate exit)",
+                //             "alias": "Pirates' Fortress Rooms (Purple Pirate exit)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stock Pot Inn (from Midnight Meeting)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //         {
+                //             "node": "Stone Tower (from Song of Soaring)",
+                //             "alias": "Stone Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stock Pot Inn (from Mother Conversation)",
+                //             "alias": "Stock Pot Inn",
+                //         },
+                //         {
+                //             "node": "Cucco Shack",
+                //             "alias": "Cucco Shack",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Termina Field Pillar)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Path to Ikana (from Generic Grotto)",
+                //             "alias": "Path to Ikana",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Clock Tower (from Pre Clock Tower)",
+                //             "alias": "Clock Tower",
+                //         },
+                //         {
+                //             "node": "Goron Shrine (from Goron Village)",
+                //             "alias": "Goron Shrine",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Clock Tower (from South Clock Town)",
+                //             "alias": "Clock Tower",
+                //         },
+                //         {
+                //             "node": "Gorman Racetrack (from Milk Road)",
+                //             "alias": "Gorman Racetrack",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Clock Tower (from Moon Crash)",
+                //             "alias": "Clock Tower",
+                //         },
+                //         {
+                //             "node": "On the Moon",
+                //             "alias": "On the Moon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Clock Tower (from Deku Mask)",
+                //             "alias": "Clock Tower",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Exterior (from Sewers Draft)",
+                //             "alias": "Pirates' Fortress Exterior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woods of Mystery",
+                //             "alias": "Woods of Mystery",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Spring Water Cave)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Woods of Mystery (from Generic Grotto)",
+                //             "alias": "Woods of Mystery",
+                //         },
+                //         {
+                //             "node": "Snowhead (from Fairy's Fountain)",
+                //             "alias": "Snowhead",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Stone Tower Trial (from Moon)",
+                //             "alias": "Stone Tower Trial",
+                //         },
+                //         {
+                //             "node": "Termina Field (from Milk Road with Cremia)",
+                //             "alias": "Termina Field",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "On the Moon",
+                //             "alias": "On the Moon",
+                //         },
+                //         {
+                //             "node": "Beneath the Well (from Ikana Canyon)",
+                //             "alias": "Beneath the Well",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Bomb Shop",
+                //             "alias": "Bomb Shop",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Interior (from Exiterior balcony)",
+                //             "alias": "Pirates' Fortress Interior",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Gorman Racetrack (from Milk Road)",
+                //             "alias": "Gorman Racetrack",
+                //         },
+                //         {
+                //             "node": "Goron Village (from Path to Goron Village)",
+                //             "alias": "Goron Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Gorman Racetrack (from Milk Road west)",
+                //             "alias": "Gorman Racetrack",
+                //         },
+                //         {
+                //             "node": "Honey & Darling",
+                //             "alias": "Honey & Darling",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Goron Racetrack (from Path to Goron Village)",
+                //             "alias": "Goron Racetrack",
+                //         },
+                //         {
+                //             "node": "Goron Shrine (from Goron Shop)",
+                //             "alias": "Goron Shrine",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "East Clock Town (from Termina Field)",
+                //             "alias": "East Clock Town",
+                //         },
+                //         {
+                //             "node": "Mountain Village (from Goron Graveyard)",
+                //             "alias": "Mountain Village",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "East Clock Town (from South Clock Town south)",
+                //             "alias": "East Clock Town",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Musicbox House)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "East Clock Town (from Bomber's Hideout)",
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
@@ -5584,8 +6237,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "Zora Cape (from Great Bay Temple)",
-                //             "alias": "Zora Cape",
+                //             "node": "Pirates' Fortress Rooms (Sewers exit)",
+                //             "alias": "Pirates' Fortress Rooms (Sewers exit)",
                 //         },
                 //     ],
                 //     [
@@ -5594,8 +6247,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "Lulu's Room (from Zora Hall)",
-                //             "alias": "Lulu's Room",
+                //             "node": "Zora Hall (from Japas' Room)",
+                //             "alias": "Zora Hall",
                 //         },
                 //     ],
                 //     [
@@ -5604,8 +6257,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "Ikana Canyon (from Ghost Hut)",
-                //             "alias": "Ikana Canyon",
+                //             "node": "Bisness Deku Scrub Grotto",
+                //             "alias": "Bisness Deku Scrub Grotto",
                 //         },
                 //     ],
                 //     [
@@ -5614,8 +6267,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "Deku Palace Garden Front Grotto",
-                //             "alias": "Deku Palace Garden Front Grotto",
+                //             "node": "East Clock Town (from Treasure Chest Shop)",
+                //             "alias": "East Clock Town",
                 //         },
                 //     ],
                 //     [
@@ -5624,7 +6277,7 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "West Clock Town (from Curiosity Shop)",
+                //             "node": "West Clock Town (from South Clock Town north)",
                 //             "alias": "West Clock Town",
                 //         },
                 //     ],
@@ -5634,8 +6287,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "Gorman Racetrack (from Milk Road)",
-                //             "alias": "Gorman Racetrack",
+                //             "node": "Great Bay Coast (from Generic Grotto)",
+                //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
@@ -5644,8 +6297,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "Great Bay Coast (from Pirates' Fortress)",
-                //             "alias": "Great Bay Coast",
+                //             "node": "Pre Clock Tower (from Void)",
+                //             "alias": "Pre Clock Tower",
                 //         },
                 //     ],
                 //     [
@@ -5654,8 +6307,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "Goron Village (from Path to Goron Village)",
-                //             "alias": "Goron Village",
+                //             "node": "Igos du Ikana's Room",
+                //             "alias": "Igos du Ikana's Room",
                 //         },
                 //     ],
                 //     [
@@ -5664,8 +6317,8 @@
                 //             "alias": "East Clock Town",
                 //         },
                 //         {
-                //             "node": "East Clock Town (from South Clock Town north)",
-                //             "alias": "East Clock Town",
+                //             "node": "Romani Ranch (from Failing Cart Ride)",
+                //             "alias": "Romani Ranch",
                 //         },
                 //     ],
                 //     [
@@ -5674,8 +6327,8 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "Ancient Castle of Ikana (from Castle Interior)",
-                //             "alias": "Ancient Castle of Ikana",
+                //             "node": "Great Bay Coast (from Zora Cape)",
+                //             "alias": "Great Bay Coast",
                 //         },
                 //     ],
                 //     [
@@ -5684,8 +6337,8 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "Deku Princess's Room (from Clear Cutscene)",
-                //             "alias": "Deku Princess's Room",
+                //             "node": "Zora Cape (from Great Bay Temple)",
+                //             "alias": "Zora Cape",
                 //         },
                 //     ],
                 //     [
@@ -5694,8 +6347,8 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "Mountain Village (from Path to Goron Village)",
-                //             "alias": "Mountain Village",
+                //             "node": "Pirates' Fortress Exterior (from Interior Balcony)",
+                //             "alias": "Pirates' Fortress Exterior",
                 //         },
                 //     ],
                 //     [
@@ -5704,8 +6357,8 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "East Clock Town (from Mayor's Residence)",
-                //             "alias": "East Clock Town",
+                //             "node": "Path to Goron Village (from Hotspring Grotto)",
+                //             "alias": "Path to Goron Village",
                 //         },
                 //     ],
                 //     [
@@ -5714,8 +6367,8 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "Zora Cape (from Song of Soaring)",
-                //             "alias": "Zora Cape",
+                //             "node": "Ikana Graveyard (from Path to Ikana)",
+                //             "alias": "Ikana Graveyard",
                 //         },
                 //     ],
                 //     [
@@ -5724,8 +6377,18 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "Majora's Room",
-                //             "alias": "Majora's Room",
+                //             "node": "Stone Tower (from Un-inverting)",
+                //             "alias": "Stone Tower",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "West Clock Town (from Bomb Shop)",
+                //             "alias": "West Clock Town",
+                //         },
+                //         {
+                //             "node": "Shooting Gallery (Clock Town)",
+                //             "alias": "Shooting Gallery (Clock Town)",
                 //         },
                 //     ],
                 //     [
@@ -5734,8 +6397,8 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "Fairy's Fountain (Clock Town)",
-                //             "alias": "Fairy's Fountain (Clock Town)",
+                //             "node": "Milk Road (from Gorman Track back)",
+                //             "alias": "Milk Road",
                 //         },
                 //     ],
                 //     [
@@ -5744,23 +6407,13 @@
                 //             "alias": "West Clock Town",
                 //         },
                 //         {
-                //             "node": "Pirates's Fortress Interior (from Exterior)",
-                //             "alias": "Pirates's Fortress Interior",
+                //             "node": "Termina Field (from Dodongo Grotto)",
+                //             "alias": "Termina Field",
                 //         },
                 //     ],
                 //     [
                 //         {
                 //             "node": "North Clock Town (from Termina Field)",
-                //             "alias": "North Clock Town",
-                //         },
-                //         {
-                //             "node": "Ghost Hut (from Ikana Canyon)",
-                //             "alias": "Ghost Hut",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "North Clock Town (from East Clock Town)",
                 //             "alias": "North Clock Town",
                 //         },
                 //         {
@@ -5770,12 +6423,22 @@
                 //     ],
                 //     [
                 //         {
+                //             "node": "North Clock Town (from East Clock Town)",
+                //             "alias": "North Clock Town",
+                //         },
+                //         {
+                //             "node": "Zora Hall (from Zora Cape back)",
+                //             "alias": "Zora Hall",
+                //         },
+                //     ],
+                //     [
+                //         {
                 //             "node": "North Clock Town (from South Clock Town)",
                 //             "alias": "North Clock Town",
                 //         },
                 //         {
-                //             "node": "Pirates's Fortress Rooms (Hookshot Upper)",
-                //             "alias": "Pirates's Fortress Rooms (Hookshot Upper)",
+                //             "node": "Path to Goron Village (from Goron Racetrack)",
+                //             "alias": "Path to Goron Village",
                 //         },
                 //     ],
                 //     [
@@ -5784,8 +6447,8 @@
                 //             "alias": "North Clock Town",
                 //         },
                 //         {
-                //             "node": "Swamp Spider House",
-                //             "alias": "Swamp Spider House",
+                //             "node": "Mountain Village (from Path to Goron Village)",
+                //             "alias": "Mountain Village",
                 //         },
                 //     ],
                 //     [
@@ -5794,18 +6457,8 @@
                 //             "alias": "North Clock Town",
                 //         },
                 //         {
-                //             "node": "Romani Ranch (from Doggy Racetrack)",
-                //             "alias": "Romani Ranch",
-                //         },
-                //     ],
-                //     [
-                //         {
-                //             "node": "North Clock Town (from Catching all Bombers)",
-                //             "alias": "North Clock Town",
-                //         },
-                //         {
-                //             "node": "Music Box House",
-                //             "alias": "Music Box House",
+                //             "node": "Deku Palace (from Deku King's Chamber)",
+                //             "alias": "Deku Palace",
                 //         },
                 //     ],
                 //     [
@@ -5814,8 +6467,18 @@
                 //             "alias": "North Clock Town",
                 //         },
                 //         {
-                //             "node": "Ikana Canyon (from Ancient Castle of Ikana)",
-                //             "alias": "Ikana Canyon",
+                //             "node": "Fairy's Fountain (Ikana)",
+                //             "alias": "Fairy's Fountain (Ikana)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "North Clock Town (from Old Lady/Blast Mask)",
+                //             "alias": "North Clock Town",
+                //         },
+                //         {
+                //             "node": "Zora Cape (from Great Bay Coast)",
+                //             "alias": "Zora Cape",
                 //         },
                 //     ],
                 //     [
@@ -5824,8 +6487,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "Romani Ranch (from Barn)",
-                //             "alias": "Romani Ranch",
+                //             "node": "South Clock Town (from Clock Tower)",
+                //             "alias": "South Clock Town",
                 //         },
                 //     ],
                 //     [
@@ -5834,8 +6497,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "West Clock Town (from Post Office)",
-                //             "alias": "West Clock Town",
+                //             "node": "Trading Post",
+                //             "alias": "Trading Post",
                 //         },
                 //     ],
                 //     [
@@ -5844,8 +6507,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "Inverted Stone Tower Temple",
-                //             "alias": "Inverted Stone Tower Temple",
+                //             "node": "Mikau's Room (from Zora Hall)",
+                //             "alias": "Mikau's Room",
                 //         },
                 //     ],
                 //     [
@@ -5854,8 +6517,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "Clock Tower (from South Clock Town)",
-                //             "alias": "Clock Tower",
+                //             "node": "Path to Goron Village (from Generic Grotto)",
+                //             "alias": "Path to Goron Village",
                 //         },
                 //     ],
                 //     [
@@ -5864,8 +6527,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "Beneath the Well (from Ikana Canyon)",
-                //             "alias": "Beneath the Well",
+                //             "node": "Waterfall Rapids (from Zora Cape)",
+                //             "alias": "Waterfall Rapids",
                 //         },
                 //     ],
                 //     [
@@ -5874,8 +6537,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "Honey & Darling",
-                //             "alias": "Honey & Darling",
+                //             "node": "Pirates' Fortress Exterior (from Great Bay Coast)",
+                //             "alias": "Pirates' Fortress Exterior",
                 //         },
                 //     ],
                 //     [
@@ -5884,8 +6547,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "Deku King's Chamber (from Deku Palace upper)",
-                //             "alias": "Deku King's Chamber",
+                //             "node": "Beneath the Well (from Ancient Castle of Ikana)",
+                //             "alias": "Beneath the Well",
                 //         },
                 //     ],
                 //     [
@@ -5894,8 +6557,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "South Clock Town (from Laundry Pool)",
-                //             "alias": "South Clock Town",
+                //             "node": "Romani Ranch (from Receiving Milk Bottle)",
+                //             "alias": "Romani Ranch",
                 //         },
                 //     ],
                 //     [
@@ -5904,8 +6567,8 @@
                 //             "alias": "South Clock Town",
                 //         },
                 //         {
-                //             "node": "West Clock Town (from South Clock Town north)",
-                //             "alias": "West Clock Town",
+                //             "node": "Milk Road (from Romani Ranch)",
+                //             "alias": "Milk Road",
                 //         },
                 //     ],
                 //     [
@@ -5914,8 +6577,8 @@
                 //             "alias": "Laundry Pool",
                 //         },
                 //         {
-                //             "node": "Termina Field (Telescope)",
-                //             "alias": "Termina Field (Telescope)",
+                //             "node": "Pirates' Fortress Interior (from Hookshot Upper)",
+                //             "alias": "Pirates' Fortress Interior",
                 //         },
                 //     ],
                 //     [
@@ -5924,8 +6587,48 @@
                 //             "alias": "Laundry Pool",
                 //         },
                 //         {
-                //             "node": "East Clock Town (from South Clock Towe south)",
-                //             "alias": "East Clock Town",
+                //             "node": "Milk Road (from Gorman Track)",
+                //             "alias": "Milk Road",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Path to Ikana Canyon)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Ikana Canyon (from Twinmold)",
+                //             "alias": "Ikana Canyon",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Ikana Graveyard)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Pirates' Fortress Rooms (Purple Pirate entrance)",
+                //             "alias": "Pirates' Fortress Rooms (Purple Pirate entrance)",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Generic Grotto (from Ikana Canyon)",
+                //             "alias": "Generic Grotto",
+                //         },
+                //         {
+                //             "node": "Deku Palace (from Deku Shrine)",
+                //             "alias": "Deku Palace",
+                //         },
+                //     ],
+                //     [
+                //         {
+                //             "node": "Zora Hall (from Zora Cape back)",
+                //             "alias": "Zora Hall",
+                //         },
+                //         {
+                //             "node": "Chamber of Fate",
+                //             "alias": "Chamber of Fate",
                 //         },
                 //     ],
                 // ],
@@ -5939,16 +6642,18 @@
             };
         },
         mounted() {
+            // this.generateTestEdgeAliases();
+            // this.generateToAndFromAliases();
             this.setupGraph();
         },
         methods: {
-            resetCloseModal(){
+            resetCloseModal() {
                 this.openedEdgeIndex = null;
                 this.openedNodeIndex = null;
                 this.openedNodeName = null;
                 this.showDeleteModal = false;
             },
-            openModal(edgeIndex, nodeIndex, nodeName){
+            openModal(edgeIndex, nodeIndex, nodeName) {
                 this.openedEdgeIndex = edgeIndex;
                 this.openedNodeIndex = nodeIndex;
                 this.openedNodeName = nodeName;
@@ -5992,7 +6697,7 @@
                 if (source.alias === target.alias) {
                     this.shortestPath.push({
                         alias: "You are already at " + target.alias,
-                        name: "You are already at " + target.alias
+                        name: "You are already at " + target.alias,
                     });
                     this.selectedShortestPathFrom = {};
                     this.selectedShortestPathTo = {};
@@ -6017,11 +6722,11 @@
                         visited[edgeNode.name] = true;
                         if (edgeNode.alias === target.alias) {   // Check if the path is complete.
                             const path = [edgeNode];   // If so, backtrack through the path.
-                            while (node  && node.alias !== source.alias) {
+                            while (node && node.alias !== source.alias) {
                                 path.push(node);
                                 node = predecessor[node.alias];
                             }
-                            path.push(source)
+                            path.push(source);
                             path.reverse();
                             // console.log(path);
                             this.shortestPath = path;
@@ -6036,17 +6741,17 @@
                 }
                 this.shortestPath.push({
                     node: "There is no known path from " + source.alias + " to " + target.alias,
-                    alias: "There is no known path from " + source.alias + " to " + target.alias
+                    alias: "There is no known path from " + source.alias + " to " + target.alias,
                 });
                 // console.log("There is no path from " + source.alias + " to " + target.alias);
             },
             setupGraph() {
-                this.nodes.forEach(node => {
-                    this.addNode(node);
-                });
-                // this.testEdges.forEach(pair => {
-                //     this.addEdge(pair[1], pair[0]);
-                // });
+                for (let i = 0; i < this.nodes.length; i++) {
+                    this.addNode(this.nodes[i]);
+                }
+                // for (let i = 0; i < this.testEdges.length; i++) {
+                //     this.addEdge(this.testEdges[i][1], this.testEdges[i][0]);
+                // }
                 this.$forceUpdate();
             },
             handleNotificationClose() {
@@ -6064,62 +6769,58 @@
                 this.graph.adjacencyList[node] = [];
             },
             handleShortestPathFromUpdate(location) {
-                if(Object.entries(location).length === 0){
+                if (Object.entries(location).length === 0) {
                     this.selectedShortestPathFrom = {};
                     return;
                 }
-                if(location.node){
+                if (location.node) {
                     this.selectedShortestPathFrom = location;
-                }
-                else {
+                } else {
                     this.selectedShortestPathFrom = {
                         node: location,
-                        alias: location
+                        alias: location,
                     };
                 }
             },
             handleShortestPathToUpdate(location) {
-                if(Object.entries(location).length === 0){
+                if (Object.entries(location).length === 0) {
                     this.selectedShortestPathTo = {};
                     return;
                 }
-                if(location.node){
+                if (location.node) {
                     this.selectedShortestPathTo = location;
-                }
-                else {
+                } else {
                     this.selectedShortestPathTo = {
                         node: location,
-                        alias: location
+                        alias: location,
                     };
                 }
             },
             handleSearchFromUpdate(location) {
-                if(Object.entries(location).length === 0){
+                if (Object.entries(location).length === 0) {
                     this.selectedNewFrom = {};
                     return;
                 }
-                if(location.node){
+                if (location.node) {
                     this.selectedNewFrom = location;
-                }
-                else {
+                } else {
                     this.selectedNewFrom = {
                         node: location,
-                        alias: location
+                        alias: location,
                     };
                 }
             },
             handleSearchToUpdate(location) {
-                if(Object.entries(location).length === 0){
+                if (Object.entries(location).length === 0) {
                     this.selectedNewTo = {};
                     return;
                 }
-                if(location.node){
+                if (location.node) {
                     this.selectedNewTo = location;
-                }
-                else {
+                } else {
                     this.selectedNewTo = {
                         node: location,
-                        alias: location
+                        alias: location,
                     };
                 }
             },
