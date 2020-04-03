@@ -82,8 +82,7 @@
                 </h3>
                 <div class="flex items-center text-sm leading-5 font-medium mt-4">
                     <div v-for="(location, key) in shortestPath" :key="key" class="flex items-center">
-                        <span class="text-gray-500 hover:text-gray-700 focus:outline-none focus:underline transition duration-150 ease-in-out" v-show="location.name">{{ location.name }}</span>
-                        <span class="text-gray-500 hover:text-gray-700 focus:outline-none focus:underline transition duration-150 ease-in-out" v-show="location.node">{{ location.node }}</span>
+                        <span class="text-gray-500 hover:text-gray-700 focus:outline-none focus:underline transition duration-150 ease-in-out">{{ location.alias }}</span>
                         <svg v-if="key !== shortestPath.length -1" class="flex-shrink-0 mx-2 h-5 w-5 text-gray-400" fill="currentColor"
                             viewBox="0 0 20 20"
                         >
@@ -5967,7 +5966,8 @@
             },
             findShortestPath() {
                 let source = this.selectedShortestPathFrom;
-                let target = this.selectedShortestPathTo;
+                let target=this.selectedShortestPathTo;
+
                 if (source.alias === target.alias) {
                     this.shortestPath = ["You are here."];
                     this.selectedShortestPathFrom = null;
@@ -6021,9 +6021,9 @@
                 this.nodes.forEach(node => {
                     this.addNode(node);
                 });
-                // this.testEdges.forEach(pair => {
-                //     this.addEdge(pair[1], pair[0]);
-                // });
+                this.testEdges.forEach(pair => {
+                    this.addEdge(pair[1], pair[0]);
+                });
                 this.$forceUpdate();
             },
             handleNotificationClose() {
