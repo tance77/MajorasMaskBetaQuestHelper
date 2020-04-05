@@ -4,7 +4,7 @@
             <label :for="uniqueLabelId1" class="block text-sm font-medium leading-5 text-gray-700">{{ label }}</label>
             <div class="mt-1 relative rounded-md shadow-sm">
                 <input :id="uniqueLabelId1" v-model="search" class="form-input block w-full sm:text-sm sm:leading-5 focus:outline-none"
-                    :class="{'rounded-b-none': searchResults.length}"
+                    :class="{'rounded-b-none focus:shadow-none': showResults}"
                     :placeholder="placeholder"
                 >
             </div>
@@ -16,15 +16,18 @@
                 leave-active-class="transition duration-75 ease-in"
                 leave-to-class="transform scale-95 opacity-0"
             >
-                <div v-show="searchResults.length" v-on-clickaway="away" class="absolute bg-white border-b border-l border-r shadow-sm rounded-b w-full z-10">
+                <div v-show="showResults" v-on-clickaway="away" class="absolute bg-white border-b border-l border-r shadow-sm rounded-b w-full z-10">
                     <ul class="overflow-auto" style="max-height: 500px;">
-                        <li v-for="(location, key) in searchResults" :key="key" class="px-3 py-2 hover:bg-blue-50 cursor-pointer text-sm"
+                        <li v-for="(location, key) in searchResults" :key="key" class="px-3 py-2 hover:bg-indigo-50 cursor-pointer text-sm"
                             @click="handleSearchSelect(location)"
                         >
                             <span v-if="location.node">
                                 {{ location.node }}
                             </span>
                             <span v-else>{{ location }}</span>
+                        </li>
+                        <li v-show="!searchResults.length" class="px-3 py-2 hover:bg-indigo-50 cursor-pointer text-sm">
+                            No results found.
                         </li>
                     </ul>
                 </div>
@@ -66,6 +69,7 @@
             return {
                 search: null,
                 searchResults: [],
+                showResults: false,
                 uniqueLabelId1: Math.random().toString(36).substring(2) + Date.now().toString(36),
                 uniqueLabelId2: Math.random().toString(36).substring(2) + Date.now().toString(36),
             };
@@ -74,6 +78,7 @@
             search(search) {
                 if (!search) {
                     this.searchResults = [];
+                    this.showResults = false;
                     return;
                 }
                 let searchStrings = search.split(" ");
@@ -129,6 +134,7 @@
                     }
                     return 0;
                 });
+                this.showResults = true;
             },
         },
         methods: {
