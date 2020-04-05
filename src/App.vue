@@ -13,9 +13,9 @@
 <script>
 
 
-    import Helper from './components/Helper';
+    import Helper from "./components/Helper";
     export default {
-        name: 'App',
+        name: "App",
         components: {
             Helper,
         },

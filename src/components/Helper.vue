@@ -114,13 +114,13 @@
                                 </tr>
                             </thead>
                             <tbody class="bg-white">
-                                <tr v-for="(nodes, nodeIndex) in graph.adjacencyList" v-if="graph.adjacencyList[nodeIndex].length" :key="nodeIndex">
+                                <tr v-for="(n, nodeIndex) in graph.adjacencyList" v-show="graph.adjacencyList[nodeIndex].length" :key="nodeIndex">
                                     <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 font-medium text-gray-900 w-2/5">
                                         {{ nodeIndex }}
                                     </td>
                                     <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 font-medium text-gray-900 w-3/5">
                                         <table class="w-full">
-                                            <tr v-for="(node, edgeIndex) in nodes" :key="nodeIndex+'edge'+edgeIndex">
+                                            <tr v-for="(node, edgeIndex) in n" :key="nodeIndex+'edge'+edgeIndex">
                                                 <td class="w-4/5">
                                                     {{ node.name }}
                                                 </td>

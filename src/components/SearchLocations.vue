@@ -47,13 +47,17 @@
 </template>
 
 <script>
-    import { mixin as clickaway } from "vue-clickaway";
+    import {mixin as clickaway} from "vue-clickaway";
+
     export default {
         name: "SearchLocations",
-        mixins: [ clickaway ],
+        mixins: [clickaway],
         props: {
             options: {type: Array, default: () => []},
-            selectedSearch: {type: Object, default: ()=>{}},
+            selectedSearch: {
+                type: Object, default: () => {
+                },
+            },
             label: {type: String, default: null},
             placeholder: {type: String, default: null},
             showAlias: {type: Boolean, default: false},
@@ -63,7 +67,7 @@
                 search: null,
                 searchResults: [],
                 uniqueLabelId1: Math.random().toString(36).substring(2) + Date.now().toString(36),
-                uniqueLabelId2: Math.random().toString(36).substring(2) + Date.now().toString(36)
+                uniqueLabelId2: Math.random().toString(36).substring(2) + Date.now().toString(36),
             };
         },
         watch: {
@@ -73,18 +77,17 @@
                     return;
                 }
                 let searchStrings = search.split(" ");
-                this.searchResults =  this.options.filter(location => {
+                let unsortedResults = this.options.filter(location => {
                     let includes = true;
                     for (let i = 0; i < searchStrings.length; i++) {
                         if (!searchStrings[i]) {
                             continue;
                         }
-                        if(location.node){
+                        if (location.node) {
                             if (!location.node.toLowerCase().includes(searchStrings[i].toLowerCase())) {
                                 includes = false;
                             }
-                        }
-                        else {
+                        } else {
                             if (!location.toLowerCase().includes(searchStrings[i].toLowerCase())) {
                                 includes = false;
                             }
@@ -93,6 +96,38 @@
                     if (includes === true) {
                         return location;
                     }
+                });
+                this.searchResults = unsortedResults.sort((a, b) => {
+                    if (a.node && b.node) {
+                        if (a.node.toLowerCase() > b.node.toLowerCase()) {
+                            return 1;
+                        }
+                        if (b.node.toLowerCase() > a.node.toLowerCase()) {
+                            return -1;
+                        }
+                    } else if (a.node && !b.node) {
+                        if (a.node.toLowerCase() > b.toLowerCase()) {
+                            return 1;
+                        }
+                        if (b.toLowerCase() > a.node.toLowerCase()) {
+                            return -1;
+                        }
+                    } else if (!a.node && b.node) {
+                        if (a.toLowerCase() > b.node.toLowerCase()) {
+                            return 1;
+                        }
+                        if (b.node.toLowerCase() > a.toLowerCase()) {
+                            return -1;
+                        }
+                    } else if (!a.node && !b.node) {
+                        if (a.toLowerCase() > b.toLowerCase()) {
+                            return 1;
+                        }
+                        if (b.toLowerCase() > a.toLowerCase()) {
+                            return -1;
+                        }
+                    }
+                    return 0;
                 });
             },
         },
