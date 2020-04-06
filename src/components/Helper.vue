@@ -38,57 +38,57 @@
             </div>
         </div>
 
-<!--        <div class="bg-white shadow rounded-lg mt-4">-->
-<!--            <div class="px-4 py-5 border-b border-gray-200 sm:px-6">-->
-<!--                <h3 class="text-lg leading-6 font-medium text-gray-90">-->
-<!--                    Shortest Path-->
-<!--                </h3>-->
-<!--                <p class="mt-1 text-sm leading-5 text-gray-500">-->
-<!--                    Are you lost? Maybe we can find a path for you. Type your location below and where you want to go.-->
-<!--                </p>-->
-<!--            </div>-->
-<!--            <div class="bg-yellow-50 border-l-4 border-yellow-400 text-yellow-600 p-4" role="alert">-->
-<!--                <p class="font-bold">-->
-<!--                    Warning-->
-<!--                </p>-->
-<!--                <p>This is an experimental feature and the path provided may be inaccurate.</p>-->
-<!--            </div>-->
-<!--            <div class="flex mt-4 p-4">-->
-<!--                <div class="flex-1 mr-2 relative">-->
-<!--                    <SearchLocations label="From" :options="toLocations" :selected-search="selectedShortestPathFrom"-->
-<!--                        placeholder="Zora Cape" @selected="handleShortestPathFromUpdate"-->
-<!--                    />-->
-<!--                </div>-->
+        <!--        <div class="bg-white shadow rounded-lg mt-4">-->
+        <!--            <div class="px-4 py-5 border-b border-gray-200 sm:px-6">-->
+        <!--                <h3 class="text-lg leading-6 font-medium text-gray-90">-->
+        <!--                    Shortest Path-->
+        <!--                </h3>-->
+        <!--                <p class="mt-1 text-sm leading-5 text-gray-500">-->
+        <!--                    Are you lost? Maybe we can find a path for you. Type your location below and where you want to go.-->
+        <!--                </p>-->
+        <!--            </div>-->
+        <!--            <div class="bg-yellow-50 border-l-4 border-yellow-400 text-yellow-600 p-4" role="alert">-->
+        <!--                <p class="font-bold">-->
+        <!--                    Warning-->
+        <!--                </p>-->
+        <!--                <p>This is an experimental feature and the path provided may be inaccurate.</p>-->
+        <!--            </div>-->
+        <!--            <div class="flex mt-4 p-4">-->
+        <!--                <div class="flex-1 mr-2 relative">-->
+        <!--                    <SearchLocations label="From" :options="toLocations" :selected-search="selectedShortestPathFrom"-->
+        <!--                        placeholder="Zora Cape" @selected="handleShortestPathFromUpdate"-->
+        <!--                    />-->
+        <!--                </div>-->
 
-<!--                <div class="flex-1 ml-2 relative">-->
-<!--                    <SearchLocations label="To" :options="toLocations" :selected-search="selectedShortestPathTo"-->
-<!--                        placeholder="Termina Field" @selected="handleShortestPathToUpdate"-->
-<!--                    />-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="text-right mt-4 p-4">-->
-<!--                <span class="ml-3 inline-flex rounded-md shadow-sm">-->
-<!--                    <button type="submit"-->
-<!--                        class="inline-flex justify-center py-2 px-4 border border-transparent text-sm leading-5 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition duration-150 ease-in-out disabled:opacity-25 disabled:cursor-not-allowed"-->
-<!--                        :disabled="Object.entries(selectedShortestPathFrom).length === 0 || Object.entries(selectedShortestPathTo).length === 0" @click="findShortestPath"-->
-<!--                    >-->
-<!--                        Find Shortest Path-->
-<!--                    </button>-->
-<!--                </span>-->
-<!--            </div>-->
-<!--            <div v-if="shortestPath.length" class="p-4">-->
-<!--                <div class="flex items-center text-sm leading-5 font-medium mt-4">-->
-<!--                    <div v-for="(location, key) in shortestPath" :key="key" class="flex items-center">-->
-<!--                        <span class="text-gray-500 hover:text-gray-700 focus:outline-none focus:underline transition duration-150 ease-in-out">{{ location.alias }}</span>-->
-<!--                        <svg v-if="key !== shortestPath.length -1" class="flex-shrink-0 mx-2 h-5 w-5 text-gray-400" fill="currentColor"-->
-<!--                            viewBox="0 0 20 20"-->
-<!--                        >-->
-<!--                            <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/>-->
-<!--                        </svg>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
+        <!--                <div class="flex-1 ml-2 relative">-->
+        <!--                    <SearchLocations label="To" :options="toLocations" :selected-search="selectedShortestPathTo"-->
+        <!--                        placeholder="Termina Field" @selected="handleShortestPathToUpdate"-->
+        <!--                    />-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--            <div class="text-right mt-4 p-4">-->
+        <!--                <span class="ml-3 inline-flex rounded-md shadow-sm">-->
+        <!--                    <button type="submit"-->
+        <!--                        class="inline-flex justify-center py-2 px-4 border border-transparent text-sm leading-5 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition duration-150 ease-in-out disabled:opacity-25 disabled:cursor-not-allowed"-->
+        <!--                        :disabled="Object.entries(selectedShortestPathFrom).length === 0 || Object.entries(selectedShortestPathTo).length === 0" @click="findShortestPath"-->
+        <!--                    >-->
+        <!--                        Find Shortest Path-->
+        <!--                    </button>-->
+        <!--                </span>-->
+        <!--            </div>-->
+        <!--            <div v-if="shortestPath.length" class="p-4">-->
+        <!--                <div class="flex items-center text-sm leading-5 font-medium mt-4">-->
+        <!--                    <div v-for="(location, key) in shortestPath" :key="key" class="flex items-center">-->
+        <!--                        <span class="text-gray-500 hover:text-gray-700 focus:outline-none focus:underline transition duration-150 ease-in-out">{{ location.alias }}</span>-->
+        <!--                        <svg v-if="key !== shortestPath.length -1" class="flex-shrink-0 mx-2 h-5 w-5 text-gray-400" fill="currentColor"-->
+        <!--                            viewBox="0 0 20 20"-->
+        <!--                        >-->
+        <!--                            <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/>-->
+        <!--                        </svg>-->
+        <!--                    </div>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--        </div>-->
 
         <div class="rounded-lg mt-4 shadow">
             <div class="px-4 py-5 border-b border-gray-200 sm:px-6 bg-white rounded-t-lg">
@@ -749,7 +749,7 @@
                 this.timeOutId = setTimeout(() => {
                     this.showNotification = false;
                     this.message = null;
-                }, 5000);
+                }, 3000);
                 // this.vertices.forEach(node => {
                 //     if (this.getAliasName(node.name) === this.selectedNewTo) {
                 //         this.addEdge(node, this.selectedNewFrom);
